@@ -1,10 +1,11 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { SECTIONS, SECTION_LIST } from "./data/sections";
 import { QUESTIONS } from "./data/questions";
 import type { Question, Screen, Section } from "./types";
 import "./App.css";
 
 const LETTERS = ["A", "B", "C", "D", "E"];
+const SEEN_KEY = "anatomy_seen_ids";
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -15,10 +16,30 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
+function loadSeen(): Set<string> {
+  try {
+    const raw = localStorage.getItem(SEEN_KEY);
+    return raw ? new Set(JSON.parse(raw)) : new Set();
+  } catch {
+    return new Set();
+  }
+}
+
+function saveSeen(seen: Set<string>) {
+  try {
+    localStorage.setItem(SEEN_KEY, JSON.stringify([...seen]));
+  } catch {
+    // ignore
+  }
+}
+
 export default function App() {
   const [screen, setScreen] = useState<Screen>("home");
   const [section, setSection] = useState<Section | null>(null);
-  const [lecture, setLecture] = useState<string | null>(null); // null = whole section
+  const [selectedLectures, setSelectedLectures] = useState<string[]>([]);
+  const [questionCount, setQuestionCount] = useState(1);
+  const [hideSeen, setHideSeen] = useState(false);
+  const [seenIds, setSeenIds] = useState<Set<string>>(() => loadSeen());
   const [pool, setPool] = useState<Question[]>([]);
   const [index, setIndex] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
@@ -38,17 +59,69 @@ export default function App() {
     return map;
   }, []);
 
+  const selectableLectures = section
+    ? SECTIONS[section].filter((lec) => (countsByLecture[lec] ?? 0) > 0)
+    : [];
+  const allSelected =
+    selectableLectures.length > 0 &&
+    selectedLectures.length === selectableLectures.length;
+
+  const availableCount = useMemo(() => {
+    if (!section) return 0;
+    return QUESTIONS.filter(
+      (q) =>
+        q.section === section &&
+        selectedLectures.includes(q.lecture) &&
+        (!hideSeen || !seenIds.has(q.id))
+    ).length;
+  }, [section, selectedLectures, hideSeen, seenIds]);
+
+  useEffect(() => {
+    setQuestionCount((prev) => {
+      if (availableCount === 0) return prev;
+      return Math.min(Math.max(prev, 1), availableCount);
+    });
+  }, [availableCount]);
+
+  function markSeen(id: string) {
+    setSeenIds((prev) => {
+      if (prev.has(id)) return prev;
+      const next = new Set(prev);
+      next.add(id);
+      saveSeen(next);
+      return next;
+    });
+  }
+
   function openSection(s: Section) {
+    const lectures = SECTIONS[s].filter((lec) => (countsByLecture[lec] ?? 0) > 0);
+    const total = QUESTIONS.filter(
+      (q) => q.section === s && lectures.includes(q.lecture) && (!hideSeen || !seenIds.has(q.id))
+    ).length;
     setSection(s);
+    setSelectedLectures(lectures);
+    setQuestionCount(Math.min(20, Math.max(total, 1)));
     setScreen("lectures");
   }
 
-  function startQuiz(lec: string | null) {
-    const filtered = QUESTIONS.filter(
-      (q) => q.section === section && (lec === null || q.lecture === lec)
+  function toggleLecture(lec: string) {
+    setSelectedLectures((prev) =>
+      prev.includes(lec) ? prev.filter((l) => l !== lec) : [...prev, lec]
     );
-    setLecture(lec);
-    setPool(shuffle(filtered));
+  }
+
+  function toggleSelectAll() {
+    setSelectedLectures(allSelected ? [] : selectableLectures);
+  }
+
+  function startQuiz() {
+    const filtered = QUESTIONS.filter(
+      (q) =>
+        q.section === section &&
+        selectedLectures.includes(q.lecture) &&
+        (!hideSeen || !seenIds.has(q.id))
+    );
+    setPool(shuffle(filtered).slice(0, questionCount));
     setIndex(0);
     setSelected(null);
     setRevealed(false);
@@ -62,6 +135,7 @@ export default function App() {
     setSelected(optionIndex);
     setRevealed(true);
     const q = pool[index];
+    markSeen(q.id);
     if (q.type === "mcq" && optionIndex === q.answerIndex) {
       setCorrectCount((c) => c + 1);
     } else {
@@ -71,6 +145,7 @@ export default function App() {
 
   function revealFlashcard() {
     setRevealed(true);
+    markSeen(pool[index].id);
   }
 
   function next() {
@@ -86,7 +161,11 @@ export default function App() {
   function goHome() {
     setScreen("home");
     setSection(null);
-    setLecture(null);
+  }
+
+  function retry() {
+    if (availableCount > 0) startQuiz();
+    else setScreen("lectures");
   }
 
   const current = pool[index];
@@ -112,30 +191,94 @@ export default function App() {
         )}
 
         {screen === "lectures" && section && (
-          <div className="screen lectures">
+          <div className="screen setup">
             <button className="back" onClick={goHome}>
               → الرئيسية
             </button>
             <h2>{section}</h2>
+
+            <div className="setup-block">
+              <div className="setup-block-head">
+                <span className="section-label">LECTURES / المحاضرات</span>
+                <button className="select-all-btn" onClick={toggleSelectAll}>
+                  {allSelected ? "إلغاء تحديد الكل" : "تحديد الكل"}
+                </button>
+              </div>
+              <div className="pill-grid">
+                {selectableLectures.map((lec) => {
+                  const active = selectedLectures.includes(lec);
+                  return (
+                    <button
+                      key={lec}
+                      className={"pill-select" + (active ? " active" : "")}
+                      onClick={() => toggleLecture(lec)}
+                    >
+                      {lec}
+                      {active && <span className="pill-check">✓</span>}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+
+            <div className="setup-block">
+              <div className="setup-block-head">
+                <span className="section-label">SETTINGS / الإعدادات</span>
+              </div>
+
+              <div className="slider-block" dir="ltr">
+                <div className="slider-value">{questionCount}</div>
+                <input
+                  className="slider"
+                  type="range"
+                  min={1}
+                  max={Math.max(availableCount, 1)}
+                  value={Math.min(questionCount, Math.max(availableCount, 1))}
+                  onChange={(e) => setQuestionCount(Number(e.target.value))}
+                  disabled={availableCount === 0}
+                  style={{
+                    ["--fill" as string]: `${
+                      ((Math.min(questionCount, Math.max(availableCount, 1)) - 1) /
+                        Math.max(availableCount - 1, 1)) *
+                      100
+                    }%`,
+                  }}
+                />
+                <div className="slider-ends">
+                  <span>{availableCount}</span>
+                  <span>عدد الأسئلة</span>
+                  <span>1</span>
+                </div>
+              </div>
+
+              <label className="toggle-row">
+                <span className="switch">
+                  <input
+                    type="checkbox"
+                    checked={hideSeen}
+                    onChange={(e) => setHideSeen(e.target.checked)}
+                  />
+                  <span className="switch-track">
+                    <span className="switch-thumb" />
+                  </span>
+                </span>
+                <span className="toggle-text">
+                  <span className="toggle-title">إخفاء الأسئلة المشاهدة</span>
+                  <span className="toggle-sub">تخطي الأسئلة اللي جاوبتها قبل</span>
+                </span>
+              </label>
+            </div>
+
             <button
-              className="lecture-item all"
-              onClick={() => startQuiz(null)}
-              disabled={(countsBySection[section] ?? 0) === 0}
+              className="start-btn"
+              onClick={startQuiz}
+              disabled={availableCount === 0}
             >
-              <span>كل القسم</span>
-              <span className="count">{countsBySection[section] ?? 0}</span>
+              🚀 ابدأ الاختبار
+              <span className="start-btn-sub">
+                {questionCount} سؤال · {selectedLectures.length} محاضرة
+              </span>
             </button>
-            {SECTIONS[section].map((lec) => (
-              <button
-                key={lec}
-                className="lecture-item"
-                onClick={() => startQuiz(lec)}
-                disabled={(countsByLecture[lec] ?? 0) === 0}
-              >
-                <span>{lec}</span>
-                <span className="count">{countsByLecture[lec] ?? 0}</span>
-              </button>
-            ))}
           </div>
         )}
 
@@ -232,8 +375,8 @@ export default function App() {
               {correctCount} / {pool.filter((q) => q.type === "mcq").length}
             </div>
             <div className="score-actions">
-              <button onClick={() => startQuiz(lecture)}>إعادة</button>
-              <button onClick={() => setScreen("lectures")}>رجوع للمحاضرات</button>
+              <button onClick={retry}>إعادة</button>
+              <button onClick={() => setScreen("lectures")}>تخصيص جديد</button>
               <button onClick={goHome}>الرئيسية</button>
             </div>
             {wrongIds.length > 0 && (

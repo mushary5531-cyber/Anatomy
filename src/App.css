@@ -91,7 +91,7 @@
   margin-bottom: 12px;
 }
 
-/* ---- Lecture list ---- */
+/* ---- Setup / customize panel ---- */
 
 .back {
   background: none;
@@ -103,41 +103,224 @@
   margin-bottom: 14px;
 }
 
-.lecture-item {
+.setup-block {
+  background: rgba(148, 163, 255, 0.03);
+  border: 1px solid rgba(148, 163, 255, 0.15);
+  border-radius: 18px;
+  padding: 20px;
+  margin-bottom: 16px;
+}
+
+.setup-block-head {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 100%;
-  background: rgba(148, 163, 255, 0.03);
-  border: 1px solid rgba(148, 163, 255, 0.15);
-  border-radius: 14px;
-  padding: 15px 18px;
-  margin-bottom: 10px;
-  color: #e7ecf8;
+  margin-bottom: 14px;
+}
+
+.setup-block-head .section-label {
+  margin-bottom: 0;
+}
+
+.select-all-btn {
+  background: none;
+  border: none;
+  color: #a5b4fc;
+  font-size: 0.78rem;
   cursor: pointer;
-  font-size: 0.95rem;
-  text-align: right;
-  transition: border-color 0.15s, background 0.15s;
+  padding: 0;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
-.lecture-item:hover:not(:disabled) {
-  border-color: rgba(148, 163, 255, 0.35);
-  background: rgba(148, 163, 255, 0.06);
+.pill-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
-.lecture-item.all {
-  border-color: rgba(165, 180, 252, 0.5);
+.pill-select {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(148, 163, 255, 0.04);
+  border: 1px solid rgba(148, 163, 255, 0.18);
+  border-radius: 999px;
+  padding: 8px 14px;
+  color: #8b96b8;
+  font-size: 0.82rem;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s, color 0.15s;
+}
+
+.pill-select:hover {
+  border-color: rgba(148, 163, 255, 0.4);
+}
+
+.pill-select.active {
+  background: rgba(99, 102, 241, 0.12);
+  border-color: rgba(165, 180, 252, 0.6);
+  color: #e7ecf8;
+}
+
+.pill-check {
+  color: #67e8f9;
   font-weight: 700;
 }
 
-.lecture-item:disabled {
-  opacity: 0.35;
+.slider-block {
+  margin-bottom: 20px;
+}
+
+.slider-value {
+  font-size: 1.6rem;
+  font-weight: 900;
+  color: #a5b4fc;
+  margin-bottom: 6px;
+}
+
+.slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 6px;
+  border-radius: 999px;
+  background: linear-gradient(
+    90deg,
+    #6366f1 0%,
+    #0ea5e9 var(--fill, 50%),
+    rgba(148, 163, 255, 0.15) var(--fill, 50%)
+  );
+  cursor: pointer;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35);
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border: none;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35);
+  cursor: pointer;
+}
+
+.slider:disabled {
+  opacity: 0.4;
   cursor: not-allowed;
 }
 
-.lecture-item .count {
+.slider-ends {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.72rem;
   color: #8b96b8;
-  font-size: 0.82rem;
+  margin-top: 6px;
+}
+
+.toggle-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+}
+
+.switch {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.switch input {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.switch-track {
+  display: block;
+  width: 40px;
+  height: 22px;
+  border-radius: 999px;
+  background: rgba(148, 163, 255, 0.15);
+  border: 1px solid rgba(148, 163, 255, 0.25);
+  transition: background 0.15s;
+  position: relative;
+}
+
+.switch-thumb {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #8b96b8;
+  transition: transform 0.15s, background 0.15s;
+}
+
+.switch input:checked + .switch-track {
+  background: rgba(99, 102, 241, 0.4);
+  border-color: rgba(165, 180, 252, 0.6);
+}
+
+.switch input:checked + .switch-track .switch-thumb {
+  transform: translateX(18px);
+  background: #e7ecf8;
+}
+
+.toggle-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.toggle-title {
+  font-size: 0.9rem;
+  color: #e7ecf8;
+}
+
+.toggle-sub {
+  font-size: 0.76rem;
+  color: #8b96b8;
+}
+
+.start-btn {
+  width: 100%;
+  padding: 18px;
+  border-radius: 18px;
+  border: none;
+  background: linear-gradient(135deg, #6366f1 0%, #4f46e5 45%, #0ea5e9 110%);
+  color: #fff;
+  font-size: 1.05rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 0 28px rgba(129, 140, 248, 0.32), 0 0 70px rgba(56, 189, 248, 0.12);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.start-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.start-btn-sub {
+  font-size: 0.76rem;
+  font-weight: 400;
+  opacity: 0.85;
 }
 
 /* ---- Quiz top bar ---- */
