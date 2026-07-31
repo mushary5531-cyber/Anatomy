@@ -1,0 +1,31 @@
+:root {
+  color-scheme: dark;
+  font: 16px/145% "Segoe UI", Tahoma, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #060913;
+  color: #eef1fb;
+}
+
+#root {
+  min-height: 100svh;
+}
+
+h1,
+h2 {
+  font-weight: 600;
+}
+
+button {
+  font-family: inherit;
+}
