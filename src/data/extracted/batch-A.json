@@ -1,0 +1,1143 @@
+[
+  {
+    "id": "p4q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L8- Brachial Plexus & Nerve Lesions",
+    "sourcePage": 4,
+    "question": "A patient has difficulty flexing the wrist and fingers—especially the thumb and index finger—due to a median nerve lesion. Which muscle is most affected?",
+    "options": [
+      "Flexor carpi radialis",
+      "Flexor pollicis longus",
+      "Flexor carpi ulnaris",
+      "Palmaris longus"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p4q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L5,6- The Forearm (Posterior & Anterior)",
+    "sourcePage": 4,
+    "question": "Which of the following arteries is a branch of the ulnar artery?",
+    "options": [
+      "Common interosseous artery",
+      "Anterior interosseous artery",
+      "Superior ulnar collateral artery",
+      "Inferior ulnar collateral artery"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p5q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L8- Brachial Plexus & Nerve Lesions",
+    "sourcePage": 5,
+    "question": "The upper lateral cutaneous nerve of the arm originates from which nerve?",
+    "options": [
+      "Axillary nerve",
+      "Radial nerve",
+      "Median nerve",
+      "Ulnar nerve"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p5q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 5,
+    "question": "Sensation at the tip of the index finger is carried by which nerve?",
+    "options": [
+      "Median nerve",
+      "Radial nerve",
+      "Ulnar nerve",
+      "Axillary nerve"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p5q3",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Posterior Abdominal Wall",
+    "sourcePage": 5,
+    "question": "At which lumbar level does the abdominal aorta bifurcate into the right and left common iliac arteries?",
+    "options": [
+      "L2",
+      "L3",
+      "L4",
+      "L5"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "p6q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L5,6- The Forearm (Posterior & Anterior)",
+    "sourcePage": 6,
+    "question": "Which muscle originates from ulna, radius, and humerus?",
+    "options": [
+      "Flexor digitorum profundus",
+      "Flexor digitorum superficialis",
+      "Flexor pollicis longus",
+      "Pronator teres"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p6q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L3- Axilla",
+    "sourcePage": 6,
+    "question": "Which structure lies medially to the axillary artery?",
+    "options": [
+      "Axillary vein",
+      "Axillary nerve",
+      "Cephalic vein",
+      "Radial nerve"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p6q3",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterolateral Abdominal Wall",
+    "sourcePage": 6,
+    "question": "Insertion of external oblique muscle:",
+    "options": [
+      "Aponeurosis",
+      "Tendon",
+      "Muscle fibers",
+      "Raphe"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "p6q4",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Joints of the Back, Lesions, and Radiology",
+    "sourcePage": 6,
+    "question": "Kyphosis is:",
+    "options": [
+      "Increased forward lumbar curvature",
+      "Lateral thoracic curvature",
+      "Increased backward thoracic curvature",
+      "Lateral lumbar curvature"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "p7q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L1- Pectoral Region and Mammary Gland",
+    "sourcePage": 7,
+    "question": "Lateral upper limb drainage (following cephalic vein) drains to:",
+    "options": [
+      "Apical nodes",
+      "Central nodes",
+      "Pectoral nodes",
+      "Subscapular nodes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p7q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L1- Pectoral Region and Mammary Gland",
+    "sourcePage": 7,
+    "question": "Clavicle fracture most likely injures:",
+    "options": [
+      "Pectoralis minor",
+      "Pectoralis major",
+      "Teres major",
+      "Teres minor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p7q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 7,
+    "question": "Falling on the radial side of the hand injures which carpal bone?",
+    "options": [
+      "Triquetrum",
+      "Scaphoid",
+      "Lunate",
+      "Capitate"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p7q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L1- Pectoral Region and Mammary Gland",
+    "sourcePage": 7,
+    "question": "Pectoralis major fiber arrangement:",
+    "options": [
+      "Triangular",
+      "Parallel",
+      "Oblique",
+      "Circular"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "p8q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L8- Brachial Plexus & Nerve Lesions",
+    "sourcePage": 8,
+    "question": "The brachial plexus is formed by:",
+    "options": [
+      "Posterior rami (C5–T1)",
+      "Anterior rami (C5–T1)",
+      "Anterior rami (C3–C7)",
+      "Posterior rami (C3–C7)"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p8q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L2- Back, Shoulder, and Scapular Region",
+    "sourcePage": 8,
+    "question": "Lower border of quadrangular space:",
+    "options": [
+      "Teres major",
+      "Teres minor",
+      "Long head of triceps",
+      "Lateral head of triceps"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p9q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L1- Pectoral Region and Mammary Gland",
+    "sourcePage": 9,
+    "question": "Artery supplying medial breast quadrant:",
+    "options": [
+      "Infraclavicular artery",
+      "Parasternal (internal thoracic) branches",
+      "Pectoral branch",
+      "Subscapular artery"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p9q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 9,
+    "question": "Nerve passing through spiral groove of humerus:",
+    "options": [
+      "Radial nerve",
+      "Ulnar nerve",
+      "Musculocutaneous nerve",
+      "Median nerve"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p9q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 9,
+    "question": "Muscle with double innervation:",
+    "options": [
+      "Brachialis",
+      "Biceps brachii",
+      "Triceps",
+      "Coracobrachialis"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p10q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L3- Axilla",
+    "sourcePage": 10,
+    "question": "Pulsation of axillary artery felt:",
+    "options": [
+      "Surgical neck of humerus",
+      "Against first rib",
+      "In front of latissimus dorsi",
+      "Over subscapularis"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p10q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L3- Axilla",
+    "sourcePage": 10,
+    "question": "Axillary vein begins at:",
+    "options": [
+      "Outer border of first rib",
+      "Lower border of teres minor",
+      "Basilic + brachial merge",
+      "Medial border of coracobrachialis"
+    ],
+    "answerIndex": 0,
+    "notes": "Answer key marks 'outer border of first rib', but standard anatomy holds the axillary vein begins at the lower border of teres major (continuation of the basilic vein) and ends — becoming the subclavian vein — at the outer border of the first rib. Also, option B says 'teres minor', likely a typo for 'teres major'. Verify."
+  },
+  {
+    "id": "p10q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L1- Pectoral Region and Mammary Gland",
+    "sourcePage": 10,
+    "question": "Structure piercing clavipectoral fascia:",
+    "options": [
+      "Cephalic vein",
+      "Internal thoracic artery",
+      "Lateral pectoral nerve",
+      "Basilic vein"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p10q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L3- Axilla",
+    "sourcePage": 10,
+    "question": "Nerve supplying serratus anterior:",
+    "options": [
+      "Long thoracic nerve",
+      "Thoracodorsal nerve",
+      "Lateral pectoral nerve",
+      "Medial pectoral nerve"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p11q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 11,
+    "question": "Fracture of 1st metacarpal affects:",
+    "options": [
+      "EPL",
+      "EPB",
+      "APL",
+      "Opponens pollicis"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "p12q1",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterolateral Abdominal Wall",
+    "sourcePage": 12,
+    "question": "Muscle with aponeurosis:",
+    "options": [
+      "External oblique",
+      "Flexor digitorum longus",
+      "Gastrocnemius",
+      "Sartorius"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p12q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L2- Back, Shoulder, and Scapular Region",
+    "sourcePage": 12,
+    "question": "Muscle from upper third lateral scapular border:",
+    "options": [
+      "Teres minor",
+      "Rhomboid minor",
+      "Rhomboid major",
+      "Teres major"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p12q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L2- Back, Shoulder, and Scapular Region",
+    "sourcePage": 12,
+    "question": "Muscle supplied by accessory nerve (XI):",
+    "options": [
+      "Trapezius",
+      "Levator scapulae",
+      "Rhomboid major",
+      "Latissimus dorsi"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p12q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L5,6- The Forearm (Posterior & Anterior)",
+    "sourcePage": 12,
+    "question": "Lateral to brachial artery in cubital fossa:",
+    "options": [
+      "Biceps tendon",
+      "Ulnar nerve",
+      "Median nerve",
+      "Radial nerve"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p13q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L8- Brachial Plexus & Nerve Lesions",
+    "sourcePage": 13,
+    "question": "Nerve from medial cord:",
+    "options": [
+      "Ulnar nerve",
+      "Radial nerve",
+      "Axillary nerve",
+      "Musculocutaneous nerve"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p13q2",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Muscles of the Back and Vertebral Column",
+    "sourcePage": 13,
+    "question": "Dorsal ramus feature:",
+    "options": [
+      "Does not form plexuses",
+      "Only motor",
+      "Only sympathetic",
+      "Joins intercostal nerves"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p13q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L3- Axilla",
+    "sourcePage": 13,
+    "question": "Long thoracic nerve supplies:",
+    "options": [
+      "Serratus anterior",
+      "Latissimus dorsi",
+      "Pectoralis minor",
+      "Subclavius"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p13q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L1- Pectoral Region and Mammary Gland",
+    "sourcePage": 13,
+    "question": "Clavicle fracture affects:",
+    "options": [
+      "Pectoralis major",
+      "Pectoralis minor",
+      "Coracobrachialis",
+      "Biceps"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p14q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 14,
+    "question": "Muscle that abducts the fingers:",
+    "options": [
+      "Dorsal interossei",
+      "Palmar interossei",
+      "Lumbricals",
+      "FDP"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p14q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L2- Back, Shoulder, and Scapular Region",
+    "sourcePage": 14,
+    "question": "Difficulty initiating abduction indicates injury to:",
+    "options": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Deltoid",
+      "Trapezius"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p14q4",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Joints of the Back, Lesions, and Radiology",
+    "sourcePage": 14,
+    "question": "Intervertebral discs are:",
+    "options": [
+      "Secondary cartilaginous",
+      "Primary cartilaginous",
+      "Synovial",
+      "Syndesmosis"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p15q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L1- Pectoral Region and Mammary Gland",
+    "sourcePage": 15,
+    "question": "Artery supplying medial breast:",
+    "options": [
+      "Internal thoracic artery",
+      "Lateral thoracic artery",
+      "Thoracoacromial artery",
+      "Intercostal arteries"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p15q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L5,6- The Forearm (Posterior & Anterior)",
+    "sourcePage": 15,
+    "question": "Supplied by deep branch of radial nerve:",
+    "options": [
+      "FCR",
+      "Pronator teres",
+      "Supinator",
+      "Palmaris longus"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "p15q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 15,
+    "question": "Inserts into medial lip of bicipital groove:",
+    "options": [
+      "Pectoralis major",
+      "Teres major",
+      "Teres minor",
+      "Deltoid"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p15q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L2- Back, Shoulder, and Scapular Region",
+    "sourcePage": 15,
+    "question": "Medial rotator of arm:",
+    "options": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Subscapularis",
+      "Teres minor"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "p16q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 16,
+    "question": "Carpal bone in proximal row:",
+    "options": [
+      "Trapezoid",
+      "Triquetrum",
+      "Capitate",
+      "Hamate"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p16q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L5,6- The Forearm (Posterior & Anterior)",
+    "sourcePage": 16,
+    "question": "Nerve supplying radial side of forearm skin:",
+    "options": [
+      "Radial",
+      "Ulnar",
+      "Axillary",
+      "Musculocutaneous"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "p16q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L5,6- The Forearm (Posterior & Anterior)",
+    "sourcePage": 16,
+    "question": "Nerve piercing pronator teres:",
+    "options": [
+      "Radial",
+      "Ulnar",
+      "Median",
+      "Musculocutaneous"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "p16q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 16,
+    "question": "Coracobrachialis is pierced by:",
+    "options": [
+      "Radial",
+      "Ulnar",
+      "Axillary",
+      "Musculocutaneous"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "p17q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 17,
+    "question": "Nerve affected in carpal tunnel syndrome:",
+    "options": [
+      "Radial",
+      "Ulnar",
+      "Median",
+      "Axillary"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "p17q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L3- Axilla",
+    "sourcePage": 17,
+    "question": "Branch of 3rd part of axillary artery:",
+    "options": [
+      "Lateral thoracic",
+      "Superior thoracic",
+      "Subscapular",
+      "Thoracoacromial"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "p18q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 18,
+    "question": "Muscle that helps extend the elbow joint:",
+    "options": [
+      "Brachioradialis",
+      "Anconeus",
+      "Pronator teres",
+      "ECU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p19q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 19,
+    "question": "Which action is performed by the first dorsal interosseous muscle?",
+    "options": [
+      "Flexion of the little finger",
+      "Abduction of the index finger",
+      "Adduction of the middle finger",
+      "Extension of the thumb"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p19q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 19,
+    "question": "Radial nerve pierces which muscle?",
+    "options": [
+      "Flexor carpi ulnaris",
+      "Triceps brachii",
+      "Flexor digitorum superficialis",
+      "Pronator teres"
+    ],
+    "answerIndex": 1,
+    "notes": "Typo fixed: source read 'precises' → 'pierces'."
+  },
+  {
+    "id": "p19q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 19,
+    "question": "Which of the following is a muscle of the thenar eminence?",
+    "options": [
+      "Abductor digiti minimi",
+      "Adductor pollicis",
+      "Abductor pollicis brevis",
+      "Flexor digitorum superficialis"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "p19q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 19,
+    "question": "Which muscle is a strong supinator of arm?",
+    "options": [
+      "Biceps brachii",
+      "Brachioradialis",
+      "Coracobrachialis",
+      "Pronator teres"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p21q8",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Joints of the Back, Lesions, and Radiology",
+    "sourcePage": 21,
+    "question": "What is meant by 'lordosis'?",
+    "options": [
+      "Increased backward curvature of the thoracic region",
+      "Increased forward curvature of the lumbar region",
+      "Excessive outward curvature of the spine",
+      "Natural inward curvature of the spine"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p21q9",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L3- Axilla",
+    "sourcePage": 21,
+    "question": "Which of these arteries continues as an axillary artery?",
+    "options": [
+      "Subclavian artery",
+      "Brachial artery",
+      "Carotid artery",
+      "Radial artery"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p21q10",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Muscles of the Back and Vertebral Column",
+    "sourcePage": 21,
+    "question": "Which of the following characteristics is specific to cervical vertebrae?",
+    "options": [
+      "Presence of a large, triangular vertebral foramen",
+      "Transverse foramina for the passage of vertebral arteries",
+      "Large, kidney-shaped body",
+      "Presence of costal facets for rib articulation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p22q11",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Muscles of the Back and Vertebral Column",
+    "sourcePage": 22,
+    "question": "In an adult, the spinal cord ends at which level of the vertebral column?",
+    "options": [
+      "The lower border of the third lumbar vertebra",
+      "The lower border of the second lumbar vertebra",
+      "The lower border of the first lumbar vertebra",
+      "The lower border of the fourth lumbar vertebra"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p22q19",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L9- Joints of Upper Limb and Radiology",
+    "sourcePage": 22,
+    "question": "Pronation and supination occur in?",
+    "options": [
+      "Superior and inferior radioulnar joints",
+      "Only superior radioulnar",
+      "Superior and posterior radioulnar",
+      "Wrist and inferior radioulnar"
+    ],
+    "answerIndex": 0,
+    "notes": "Typos fixed: source read 'radioalnar' → 'radioulnar' and 'posterio' → 'posterior'."
+  },
+  {
+    "id": "p23q21",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "The Foot",
+    "sourcePage": 23,
+    "question": "A 20-year-old woman sustains an injury that causes pain when she moves the sole of her foot medially. What movement is causing this pain?",
+    "options": [
+      "Eversion",
+      "Inversion",
+      "Dorsal flexion",
+      "Plantar flexion"
+    ],
+    "answerIndex": 1,
+    "notes": "Typos fixed: source read 'Evirsion' → 'Eversion' and 'invirsion' → 'Inversion'."
+  },
+  {
+    "id": "p23q24",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L9- Joints of Upper Limb and Radiology",
+    "sourcePage": 23,
+    "question": "What type of joint is the wrist joint?",
+    "options": [
+      "Ball-and-socket joint",
+      "Hinge joint",
+      "Pivot joint",
+      "Condyloid joint"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "p23q29",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 23,
+    "question": "What is the arrangement of the biceps brachii muscle?",
+    "options": [
+      "Fusiform",
+      "Bipennate",
+      "Unipennate",
+      "Parallel"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "p26q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 26,
+    "question": "Which of these muscles supinates the forearm?",
+    "options": [
+      "Brachioradialis",
+      "Brachialis",
+      "Biceps brachii",
+      "Triceps"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "p26q9",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 26,
+    "question": "The origin of the long head of triceps is?",
+    "options": [
+      "Infraglenoid tubercle",
+      "Supraglenoid tubercle",
+      "Coracoid process",
+      "Lateral border of the scapula"
+    ],
+    "answerIndex": 0,
+    "notes": "Typos fixed: source read 'infragenoid tubercle' → 'infraglenoid tubercle' and 'supragenoid tubercle' → 'supraglenoid tubercle'. Source also mislabeled two options both as 'D'; relettered the third option to 'C'."
+  },
+  {
+    "id": "p26q10",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 26,
+    "question": "Which of the following is a thenar muscle?",
+    "options": [
+      "Adductor pollicis longus",
+      "Abductor pollicis brevis",
+      "Flexor digitorum superficialis",
+      "Opponens digiti minimi"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p26q16",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 26,
+    "question": "Which action is performed by the first dorsal interosseous muscle?",
+    "options": [
+      "Flexion of the little finger",
+      "Abduction of the index finger",
+      "Adduction of the middle finger",
+      "Extension of the thumb"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "p27q19",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 27,
+    "question": "Which of the following is a muscle of the thenar eminence?",
+    "options": [
+      "Abductor digiti minimi",
+      "Adductor pollicis",
+      "Abductor pollicis brevis",
+      "Flexor digitorum superficialis"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "p27q20",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 27,
+    "question": "Which muscle is a strong supinator of arm?",
+    "options": [
+      "Biceps brachii",
+      "Brachioradialis",
+      "Coracobrachialis",
+      "Pronator teres"
+    ],
+    "answerIndex": 0,
+    "notes": "Typos fixed: source read 'biceps brachaii', 'brachoradialis', 'cracobrachialis'."
+  },
+  {
+    "id": "p28-1",
+    "type": "flashcard",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 28,
+    "prompt": "1. snuffbox content",
+    "answer": "Medial border: Extensor Pollicis Longus\nLateral border: Tendons of the Abductor Pollicis Longus (APL) and Extensor Pollicis Brevis (EPB)\nFloor: Scaphoid and Trapezium"
+  },
+  {
+    "id": "p30-1",
+    "type": "flashcard",
+    "section": "Upper Limb",
+    "lecture": "L5,6- The Forearm (Posterior & Anterior)",
+    "sourcePage": 30,
+    "prompt": "2. List 4 contents of cubital fossa from medial to lateral:",
+    "answer": "Median nerve\nBrachial artery\nBiceps brachii tendon\nRadial nerve"
+  },
+  {
+    "id": "p32-1",
+    "type": "flashcard",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 32,
+    "prompt": "3. Enumerate 7 branches of brachial artery:",
+    "answer": "1- Deep brachial artery (profunda brachii)\n2- Nutrient artery of the humerus\n3- Superior ulnar collateral artery\n4- Inferior ulnar collateral artery\n5- Radial artery\n6- Ulnar artery\n7- Terminal branches (radial and ulnar arteries)"
+  },
+  {
+    "id": "p34q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 34,
+    "question": "What is the main artery of the arm?",
+    "options": [
+      "Ulnar",
+      "Radial",
+      "Axillary",
+      "Brachial"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "p35q5",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Gluteal Region",
+    "sourcePage": 35,
+    "question": "What muscle is supplied by the superior gluteal nerve?",
+    "options": [
+      "Gluteus Maximus",
+      "Tensor fasciae latae",
+      "Rectus femoris",
+      "Adductor magnus"
+    ],
+    "answerIndex": 1,
+    "notes": "Typo fixed: source read 'Rectos remoris' → 'Rectus femoris'."
+  },
+  {
+    "id": "p36q9",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L9- Joints of Upper Limb and Radiology",
+    "sourcePage": 36,
+    "question": "What type of joints is the shoulder joint?",
+    "options": [
+      "Hinge joint",
+      "Pivot",
+      "Ball and socket",
+      "Ellipsoid"
+    ],
+    "answerIndex": 2,
+    "notes": "Typo fixed: source read 'Henge joint' → 'Hinge joint'."
+  },
+  {
+    "id": "p36q10",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 36,
+    "question": "Where does the femoral artery terminate?",
+    "options": [
+      "Mid inguinal ligament",
+      "Adductor hiatus",
+      "Upper border of the popliteal region",
+      "Lower border of the popliteal region"
+    ],
+    "answerIndex": 2,
+    "notes": "Answer key marks 'upper border of the popliteal region', but standard anatomy holds the femoral artery terminates at the adductor hiatus (becoming the popliteal artery), which is option B here — verify."
+  },
+  {
+    "id": "p36q12",
+    "type": "flashcard",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 36,
+    "notes": "Options b–d were blank/illegible in the source page; only option (a) Profunda femoris was legible, matching the answer key. [converted from single-option MCQ to flashcard during merge]",
+    "prompt": "What is a branch of the femoral artery?",
+    "answer": "Profunda femoris"
+  },
+  {
+    "id": "p37q13",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 37,
+    "question": "Which of the following is a content of the adductor canal?",
+    "options": [
+      "Saphenous nerve",
+      "Nerve to vastus lateralis",
+      "Femoral nerve"
+    ],
+    "answerIndex": 0,
+    "notes": "Option d was blank/illegible in the source page."
+  },
+  {
+    "id": "p37q14",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 37,
+    "question": "What nerve supplies the area below the medial part of the inguinal ligament?",
+    "options": [
+      "Genitofemoral nerve",
+      "Ilioinguinal nerve"
+    ],
+    "answerIndex": 1,
+    "notes": "Options c–d were blank/illegible in the source page. Also, the answer key marks the Ilioinguinal nerve, but the skin below the medial inguinal ligament (over the femoral triangle) is classically supplied by the femoral branch of the genitofemoral nerve — verify."
+  },
+  {
+    "id": "p37q15",
+    "type": "flashcard",
+    "section": "Lower Limb",
+    "lecture": "Anterior Compartment of the Thigh",
+    "sourcePage": 37,
+    "notes": "Options b–d were blank/illegible in the source page. [converted from single-option MCQ to flashcard during merge]",
+    "prompt": "Which of the following muscles flex the hip?",
+    "answer": "Rectus femoris"
+  },
+  {
+    "id": "p39q21",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 39,
+    "question": "Medial boundary to the femoral ring?",
+    "options": [
+      "Femoral vein",
+      "Superior ramus",
+      "Inguinal ligament",
+      "Lacunar ligament"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "p39q22",
+    "type": "flashcard",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 39,
+    "notes": "Options b–d were blank/illegible in the source page. [converted from single-option MCQ to flashcard during merge]",
+    "prompt": "What's in the intermediate compartment of the femoral sheath?",
+    "answer": "Femoral vein"
+  },
+  {
+    "id": "p39q23",
+    "type": "flashcard",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 39,
+    "notes": "Options b–d were blank/illegible in the source page. [converted from single-option MCQ to flashcard during merge]",
+    "prompt": "What's the lateral boundary of the femoral triangle?",
+    "answer": "Sartorius"
+  },
+  {
+    "id": "p39q24",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Joints of the Back, Lesions, and Radiology",
+    "sourcePage": 39,
+    "question": "What are the layers that are penetrated during cerebrospinal fluid aspiration?",
+    "options": [
+      "Dura and pia",
+      "Arachnoid only",
+      "Dura and arachnoid",
+      "Arachnoid and pia"
+    ],
+    "answerIndex": 2,
+    "notes": "Typo fixed: source read 'pina' → 'pia' (twice)."
+  }
+]

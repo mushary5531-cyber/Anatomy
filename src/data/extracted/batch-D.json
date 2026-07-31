@@ -1,0 +1,1259 @@
+[
+  {
+    "id": "p111-1",
+    "type": "flashcard",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Posterior Abdominal Wall",
+    "sourcePage": 111,
+    "prompt": "34. Branches of the Abdominal Aorta (Single & Paired)",
+    "answer": "Single (Unpaired) Branches – Visceral:\n1. Celiac trunk\n2. Superior mesenteric artery (SMA)\n3. Inferior mesenteric artery (IMA)\nSingle (Unpaired) Branch – Parietal:\n- Median sacral artery\nPaired Branches – Visceral:\n1. Middle suprarenal arteries\n2. Renal arteries\n3. Gonadal arteries (testicular/ovarian)\nPaired Branches – Parietal:\n1. Inferior phrenic arteries\n2. Lumbar arteries (usually four pairs)",
+    "notes": "This page shows only the filled-in content; its blank prompt page (question 34) would have preceded it on page 110, which is outside this batch's assigned range."
+  },
+  {
+    "id": "p112-1",
+    "type": "flashcard",
+    "section": "Upper Limb",
+    "lecture": "L4- The Arm",
+    "sourcePage": 112,
+    "prompt": "Brachial Artery – Beginning, Termination, Branches:",
+    "answer": "Beginning:\n- Starts at the lower border of teres major\n- It is the continuation of the axillary artery\nTermination:\n- Ends at the level of the neck of the radius, in the cubital fossa\n- Divides into: Radial artery, Ulnar artery\nBranches:\n1. Profunda brachii artery (deep artery of arm)\n2. Superior ulnar collateral artery\n3. Inferior ulnar collateral artery\n4. Muscular branches (to anterior arm muscles)\n5. Nutrient artery (to humerus)",
+    "notes": "This page shows only the filled-in content, consistent with the flashcard format used elsewhere in this source; no separate blank prompt page was found for it."
+  },
+  {
+    "id": "p113q3",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Anterior Compartment of the Thigh",
+    "sourcePage": 113,
+    "question": "Which muscle extends the knee and flexes the thigh?",
+    "options": ["Sartorius", "Rectus femoris", "Adductor longus", "Psoas major"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p114q6",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 114,
+    "question": "The continuation of femoral artery is:",
+    "options": ["Axillary artery", "Brachial artery", "Subclavian artery", "Popliteal artery"],
+    "answerIndex": 3
+  },
+  {
+    "id": "p114q8",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 114,
+    "question": "All of the following are contents of femoral sheath EXCEPT:",
+    "options": ["Femoral artery", "Femoral vein", "Lymph nodes", "Femoral nerve"],
+    "answerIndex": 3
+  },
+  {
+    "id": "p115q9",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 115,
+    "question": "Which statement is INCORRECT about Adductor (subsartorial) Canal?",
+    "options": ["Laterally is formed of vastus lateralis", "Posteriorly made of adductor longus and adductor magnus", "Begins from the apex of femoral sheath", "Contains femoral artery and femoral vein"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p115q10",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Medial Compartment of the Thigh",
+    "sourcePage": 115,
+    "question": "Gracilis muscle:",
+    "options": ["Originates from medial part of the superior ramus of the pubis", "Inserted in linea aspera", "Nerve supplied by obturator nerve", "Nerve supplied by femoral nerve"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p115q11",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Anterior Compartment of the Thigh",
+    "sourcePage": 115,
+    "question": "Which muscle extends the knee and flexes the thigh?",
+    "options": ["Sartorius", "Rectus femoris", "Quadratus femoris", "Biceps femoris"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p115q12",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Medial Compartment of the Thigh",
+    "sourcePage": 115,
+    "question": "Which of the following is true regarding the Gracilis muscle?",
+    "options": ["Originates from medial part of the superior ramus of the pubis", "Inserted into the linea aspera", "Innervated by obturator nerve", "Innervated by femoral nerve"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p116q13",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L3- Axilla",
+    "sourcePage": 116,
+    "question": "The artery which continues as an axillary artery is:",
+    "options": ["Brachial", "Common carotid", "Subclavian", "Popliteal"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p117q1",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 117,
+    "question": "Which of the following structures does not enter the femoral sheath?",
+    "options": ["Femoral nerve", "Femoral artery", "Femoral vein", "Lymph nodes"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p117q2",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 117,
+    "question": "Which of the following nerves is a content of the adductor (subsartorial) canal:",
+    "options": ["Femoral nerve", "Saphenous nerve", "Tibial nerve", "Long saphenous vein"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p117q3",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Gluteal Region",
+    "sourcePage": 117,
+    "question": "Which of the following muscles is supplied by the inferior gluteal nerve?",
+    "options": ["Gluteus minimus", "Gluteus maximus", "Gluteus medius", "Tensor fasciae latae"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p117q4",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Back of Thigh & The Popliteal Fossa",
+    "sourcePage": 117,
+    "question": "The deepest structure in the popliteal fossa is the:",
+    "options": ["Common peroneal nerve", "Tibial nerve", "Popliteal vein", "Popliteal artery"],
+    "answerIndex": 3
+  },
+  {
+    "id": "p118q5",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Back of Thigh & The Popliteal Fossa",
+    "sourcePage": 118,
+    "question": "ONE of the following is the nerve supply to the popliteus muscle:",
+    "options": ["Superficial peroneal nerve", "Deep peroneal nerve", "Tibial nerve", "Common peroneal nerve"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p118q6",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Anterior Compartment of Leg",
+    "sourcePage": 118,
+    "question": "Dorsiflexion of the foot at the ankle joint is an action of which muscle?",
+    "options": ["Tibialis anterior", "Tibialis posterior", "Peroneus longus", "Flexor digitorum longus"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p118q7",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Anterior Compartment of Leg",
+    "sourcePage": 118,
+    "question": "Which of the following structures passes deep to the extensor retinaculum of the ankle?",
+    "options": ["Superficial peroneal nerve", "Anterior tibial artery", "Saphenous nerve", "Great saphenous vein"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p118q8",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Posterior and Lateral Compartments of Leg",
+    "sourcePage": 118,
+    "question": "The peroneal artery is a branch of which of the following?",
+    "options": ["Dorsalis pedis artery", "Popliteal artery", "Anterior tibial artery", "Posterior tibial artery"],
+    "answerIndex": 3
+  },
+  {
+    "id": "p119q1",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Gluteal Region",
+    "sourcePage": 119,
+    "question": "Which of the following gives origin to the piriformis muscle?",
+    "options": ["Pelvic surface of obturator membrane & surrounding bones", "Anterior surface of the sacral vertebrae within the pelvic surface", "Upper border of ischial tuberosity", "Lateral border of ischial tuberosity"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p119q2",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 119,
+    "question": "Which of the following lies medial to femoral artery in femoral triangle?",
+    "options": ["Femoral vein", "Sciatic nerve", "Femoral nerve", "Great saphenous vein"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p119q3",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Anterior Compartment of the Thigh",
+    "sourcePage": 119,
+    "question": "Which of the following is the origin of Sartorius muscle?",
+    "options": ["Posterior superior iliac spine", "Superior ramus of pubis", "Iliac fossa of hip bone", "Anterior superior iliac spine"],
+    "answerIndex": 3
+  },
+  {
+    "id": "p119q4",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Back of Thigh & The Popliteal Fossa",
+    "sourcePage": 119,
+    "question": "The popliteus muscle arises from which of the following?",
+    "options": ["Head of fibula", "Medial malleolus", "Inside capsule of knee joint", "Outside capsule of knee joint"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p120q5",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 120,
+    "question": "The saphenous nerve is a branch of which of the following nerves?",
+    "options": ["Obturator nerve", "Femoral nerve", "Sciatic nerve", "Tibial nerve"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p120q6",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 120,
+    "question": "Which of the following arteries is a branch of the profunda femoris artery?",
+    "options": ["Medial circumflex femoral artery", "Anterior circumflex femoral artery", "Femoral artery", "Obturator artery"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p120q7",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Back of Thigh & The Popliteal Fossa",
+    "sourcePage": 120,
+    "question": "The semimembranosus muscle is inserted into which of the following?",
+    "options": ["Lateral condyle of tibia", "Medial condyle of tibia", "Medial condyle of femur", "Head of fibula"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p120q8",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Posterior and Lateral Compartments of Leg",
+    "sourcePage": 120,
+    "question": "Which of the following actions is done by the gastrocnemius muscle?",
+    "options": ["Extension of the knee", "Medial rotation of the knee", "Dorsiflexion of the foot", "Plantar flexion of the foot"],
+    "answerIndex": 3
+  },
+  {
+    "id": "p121q9",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Back of Thigh & The Popliteal Fossa",
+    "sourcePage": 121,
+    "question": "Which of the following structures lies anterior to the popliteal artery?",
+    "options": ["Popliteal vein", "Tibia", "Knee joint", "Superficial fascia"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p121q10",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Gluteal Region",
+    "sourcePage": 121,
+    "question": "Which movement is produced by the gluteus medius muscle?",
+    "options": ["Adduction of the thigh", "Medial rotation (by anterior fibers)", "Flexion of the thigh", "Lateral rotation of the leg"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p121q11",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "The Foot",
+    "sourcePage": 121,
+    "question": "All of the following muscles help maintain the lateral longitudinal arch of the foot EXCEPT?",
+    "options": ["Peroneus (fibularis) longus", "Flexor hallucis longus", "Peroneus (fibularis) brevis", "Flexor digitorum longus"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p121q12",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Medial Compartment of the Thigh",
+    "sourcePage": 121,
+    "question": "Which of the following regions is supplied by the obturator nerve?",
+    "options": ["Anterior compartment of the thigh", "Medial compartment of the thigh", "Posterior compartment of the thigh", "Gluteal region"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p122q13",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Back of Thigh & The Popliteal Fossa",
+    "sourcePage": 122,
+    "question": "Flexion of the knee is performed by all the following muscles, except:",
+    "options": ["Sartorius", "Gracilis", "Adductor magnus", "Biceps femoris"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p122q14",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Posterior and Lateral Compartments of Leg",
+    "sourcePage": 122,
+    "question": "The posterior tibial artery begins as:",
+    "options": ["A branch of the anterior tibial artery", "A terminal branch of the popliteal artery", "A branch of the femoral artery", "A continuation of the dorsalis pedis artery"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p122q15",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Gluteal Region",
+    "sourcePage": 122,
+    "question": "The cruciate anastomosis is present at the level of:",
+    "options": ["Linea aspera", "Lesser trochanter", "Gluteal tubercle", "Quadrate tubercle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p122q16",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Back of Thigh & The Popliteal Fossa",
+    "sourcePage": 122,
+    "question": "Which of the following structures forms the floor of the popliteal fossa?",
+    "options": ["Popliteus muscle", "Lateral head of gastrocnemius", "Medial head of gastrocnemius", "Biceps femoris"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p123q17",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Nerves and Lesions of Lower Limb",
+    "sourcePage": 123,
+    "question": "The sural nerve is a branch of:",
+    "options": ["Pudendal nerve", "Femoral nerve", "Common peroneal nerve", "Tibial nerve"],
+    "answerIndex": 3
+  },
+  {
+    "id": "p123q18",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Posterior and Lateral Compartments of Leg",
+    "sourcePage": 123,
+    "question": "Which of the following actions is performed by tibialis posterior muscle?",
+    "options": ["Inversion of the foot", "Eversion of the foot", "Support lateral longitudinal arch of the foot", "Flexion of distal phalanges"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p123q19",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Anterior Compartment of Leg",
+    "sourcePage": 123,
+    "question": "The tendon of the tibialis anterior passes:",
+    "options": ["Behind the extensor retinaculum", "Through the extensor retinaculum", "Lateral to the extensor retinaculum", "Superficial to the extensor retinaculum"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p123q20",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 123,
+    "question": "Which of the following is a branch of profunda femoris artery?",
+    "options": ["Anterior circumflex femoral artery", "Medial circumflex femoral artery", "Posterior circumflex femoral artery", "Obturator artery"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p124q21",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Posterior and Lateral Compartments of Leg",
+    "sourcePage": 124,
+    "question": "The superficial peroneal (fibular) nerve supplies:",
+    "options": ["Upper medial part of the leg", "Lower medial part of the leg", "Lower anterolateral part of the leg", "Upper lateral part of the leg"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p124q22",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Posterior and Lateral Compartments of Leg",
+    "sourcePage": 124,
+    "question": "Which of the following muscles lies anteriorly to the posterior tibial artery?",
+    "options": ["Tibialis posterior", "Soleus", "Gastrocnemius", "Flexor hallucis longus"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p124q23",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Medial Compartment of the Thigh",
+    "sourcePage": 124,
+    "question": "Obturator nerve ends at the:",
+    "options": ["Upper greater sciatic foramen", "Lesser sciatic foramen", "Upper part of obturator foramen", "Ischial ramus"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p124q24",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Gluteal Region",
+    "sourcePage": 124,
+    "question": "Which of the following gives the origin of gemellus superior?",
+    "options": ["Pelvic surface of obturator membrane", "Anterior surface of the 2nd, 3rd, and 4th sacral vertebrae", "Ischial tuberosity", "Ischial spine"],
+    "answerIndex": 3
+  },
+  {
+    "id": "p125q25",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Anterior Compartment of the Thigh",
+    "sourcePage": 125,
+    "question": "The quadriceps mechanism performs which of the following actions?",
+    "options": ["Flexion of the knee", "Extension of the knee", "Flexion of the hip", "Medial rotation of the leg"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p125q26",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "The Foot",
+    "sourcePage": 125,
+    "question": "The medial plantar artery arises from:",
+    "options": ["Posterior tibial artery", "Peroneal artery", "Anterior tibial artery", "Dorsalis pedis artery"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p125q27",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Gluteal Region",
+    "sourcePage": 125,
+    "question": "All of the following structures pass through the lesser sciatic foramen except:",
+    "options": ["Tendon of obturator internus", "Pudendal nerve", "Internal pudendal vessels", "Piriformis muscle"],
+    "answerIndex": 3
+  },
+  {
+    "id": "p125q28",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Venous and Lymphatic Drainage of Leg",
+    "sourcePage": 125,
+    "question": "The great saphenous vein ascends:",
+    "options": ["Behind the medial malleolus", "In front of the medial malleolus", "In front of the lateral malleolus", "Behind the lateral malleolus"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p126q29",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Anterior Compartment of Leg",
+    "sourcePage": 126,
+    "question": "The extensor digitorum longus muscle is supplied by which nerve?",
+    "options": ["Superficial peroneal (fibular) nerve", "Deep peroneal (fibular) nerve", "Tibial nerve", "Sural nerve"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p126q30",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 126,
+    "question": "The floor of the femoral triangle is formed (from lateral to medial) by:",
+    "options": ["Iliacus, psoas major, pectineus, adductor longus", "Psoas major, iliacus, pectineus, adductor longus", "Iliacus, pectineus, adductor longus, gracilis", "Sartorius, pectineus, adductor longus, gracilis"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p128q1",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Gluteal Region",
+    "sourcePage": 128,
+    "question": "Gluteus maximus takes attachment from:",
+    "options": ["Between anterior and posterior gluteal line", "Iliac crest", "Sacrotuberous ligament", "Lesser sciatic notch"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p128q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 128,
+    "question": "What forms the superficial palmar arch?",
+    "options": ["Superficial branch of radial artery", "Ulnar artery", "Deep branch of ulnar artery", "Radial artery alone"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p128q3",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Posterior Abdominal Wall",
+    "sourcePage": 128,
+    "question": "Which of the following is a tributary of the inferior vena cava?",
+    "options": ["Inferior phrenic vein", "Superior phrenic vein", "Superior epigastric vein", "Left suprarenal vein", "Left gonadal vein"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p128q4",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 128,
+    "question": "Which of the following would cause complete loss of blood supply to the anterior thigh compartment?",
+    "options": ["Occlusion of profunda femoris artery", "Occlusion of femoral artery below the inguinal ligament", "Occlusion of femoral artery above the inguinal ligament", "Occlusion of obturator artery"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p129q1",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterior and Posterior Thoracic Walls",
+    "sourcePage": 129,
+    "question": "The rib facet articulates with:",
+    "options": ["The corresponding vertebra only", "The vertebra above only", "The corresponding vertebra and the one above", "The corresponding vertebra and the one below"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p129q2",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Medial Compartment of the Thigh",
+    "sourcePage": 129,
+    "question": "Which muscle is innervated by both anterior and posterior divisions of the obturator nerve?",
+    "options": ["Pectineus", "Adductor brevis", "Obturator externus", "Adductor longus"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p129q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L2- Back, Shoulder, and Scapular Region",
+    "sourcePage": 129,
+    "question": "Which of the following muscles performs lateral rotation of the shoulder?",
+    "options": ["Teres major", "Pectoralis major", "Infraspinatus", "Latissimus dorsi"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p129q4",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Medial Compartment of the Thigh",
+    "sourcePage": 129,
+    "question": "The obturator externus muscle is inserted into:",
+    "options": ["Medial surface of greater trochanter", "Lateral surface of greater trochanter", "Trochanteric fossa", "Anterior border of greater trochanter"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p130q1",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Nerves and Lesions of Lower Limb",
+    "sourcePage": 130,
+    "question": "A patient has loss of sensation over the upper anterolateral thigh. Which nerve is affected?",
+    "options": ["Femoral branch of genitofemoral nerve", "Genital branch of genitofemoral nerve", "Ilioinguinal nerve", "Lateral femoral cutaneous nerve"],
+    "answerIndex": 3
+  },
+  {
+    "id": "p130q2",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterolateral Abdominal Wall",
+    "sourcePage": 130,
+    "question": "The skin at the level of the umbilicus is innervated by:",
+    "options": ["T8", "T9", "T10", "L1"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p130q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L9- Joints of Upper Limb and Radiology",
+    "sourcePage": 130,
+    "question": "(X-ray) The nerve affected is:",
+    "options": ["Deep branch of radial nerve", "Superficial branch of radial nerve", "Deep branch of ulnar nerve", "Median nerve"],
+    "answerIndex": 0,
+    "notes": "Question references an X-ray image that was not present/rendered on this source page and is not among the 9 pre-extracted images in this test bank — needs image extraction if the original source is located."
+  },
+  {
+    "id": "p130q4",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Gluteal Region",
+    "sourcePage": 130,
+    "question": "Cutaneous supply of the upper lateral quadrant of the gluteal region is from:",
+    "options": ["Lateral cutaneous branch of iliohypogastric nerve", "Posterior rami of lumbar spinal nerves", "Posterior cutaneous nerve of thigh", "Lateral femoral cutaneous nerve"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p131q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L5,6- The Forearm (Posterior & Anterior)",
+    "sourcePage": 131,
+    "question": "Which muscle attaches to the oblique line of the radius?",
+    "options": ["Flexor digitorum superficialis", "Flexor digitorum profundus", "Pronator teres", "Supinator"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p131q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L9- Joints of Upper Limb and Radiology",
+    "sourcePage": 131,
+    "question": "Injury to the annular ligament affects:",
+    "options": ["Elbow flexion", "Elbow extension", "Shoulder abduction", "Supination and pronation"],
+    "answerIndex": 3
+  },
+  {
+    "id": "p131q3",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Joints of Lower Limb",
+    "sourcePage": 131,
+    "question": "Which ligament prevents hyperflexion of the knee?",
+    "options": ["Anterior cruciate ligament", "Posterior cruciate ligament", "Tibial collateral ligament", "Fibular collateral ligament"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p131q4",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Joints of Lower Limb",
+    "sourcePage": 131,
+    "question": "A positive posterior drawer sign indicates injury to:",
+    "options": ["Anterior cruciate ligament", "Posterior cruciate ligament", "Tibial collateral ligament", "Fibular collateral ligament"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p132q1",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Medial Compartment of the Thigh",
+    "sourcePage": 132,
+    "question": "Which muscle has dual nerve supply?",
+    "options": ["Pectineus", "Adductor longus", "Gracilis", "Adductor brevis"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p132q2",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Muscles of the Back and Vertebral Column",
+    "sourcePage": 132,
+    "question": "Pain along the sides of the vertebral column during lateral flexion indicates injury to:",
+    "options": ["Iliocostalis muscle", "External oblique muscle", "Quadratus lumborum", "Multifidus"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p132q3",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterior and Posterior Thoracic Walls",
+    "sourcePage": 132,
+    "question": "Which statement about the 6th intercostal nerve is true?",
+    "options": ["It is an atypical intercostal nerve", "It supplies the abdominal wall", "It becomes the subcostal nerve", "It does not give a lateral cutaneous branch"],
+    "answerIndex": 1,
+    "notes": "Answer key marks B (\"it supplies the abdominal wall\"), but standard teaching holds the 6th intercostal nerve is a typical intercostal nerve confined to the thoracic wall — it is nerves T7-T11 (thoracoabdominal nerves) that supply the abdominal wall, and T12 becomes the subcostal nerve. Verify."
+  },
+  {
+    "id": "p132q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L5,6- The Forearm (Posterior & Anterior)",
+    "sourcePage": 132,
+    "question": "Innervation of flexor digitorum profundus:",
+    "options": ["Medial half by ulnar nerve, lateral half by median nerve", "Entire muscle by median nerve", "Entire muscle by ulnar nerve", "Medial half by median nerve, lateral half by ulnar nerve"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p133q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 133,
+    "question": "Fine movements of the hand (writing, playing music) depend mainly on:",
+    "options": ["Thenar and hypothenar muscles", "Interossei muscles", "Lumbricals only", "Extrinsic hand muscles"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p133q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L9- Joints of Upper Limb and Radiology",
+    "sourcePage": 133,
+    "question": "A characteristic feature of a saddle joint is:",
+    "options": ["Opposition of the thumb", "High resistance to dislocation", "Pure hinge movement", "Limited range of motion"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p133q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 133,
+    "question": "Which structure is superficial to the extensor retinaculum (of the wrist)?",
+    "options": ["Superficial branch of ulnar nerve", "Median nerve", "Radial artery", "Deep branch of radial nerve"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p133q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L3- Axilla",
+    "sourcePage": 133,
+    "question": "Which structure lies lateral to the axillary artery in its third part?",
+    "options": ["Axillary vein", "Musculocutaneous nerve", "Ulnar nerve", "Median nerve"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p134q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L3- Axilla",
+    "sourcePage": 134,
+    "question": "A branch of the third part of the axillary artery is:",
+    "options": ["Superior thoracic artery", "Thoracoacromial artery", "Subscapular artery", "Internal thoracic artery"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p134q2",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "The Foot",
+    "sourcePage": 134,
+    "question": "Injury to the lateral plantar nerve with loss of toe abduction. Which muscle is spared?",
+    "options": ["Dorsal interossei", "Adductor hallucis", "Flexor digitorum brevis", "Lumbricals"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p134q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 134,
+    "question": "Inability to adduct the middle finger indicates damage to:",
+    "options": ["Second dorsal interosseous", "Second palmar interosseous", "Third dorsal interosseous", "Third palmar interosseous"],
+    "answerIndex": 1,
+    "notes": "The middle finger is conventionally the axis of the hand and is not itself adducted by a palmar interosseous, so the wording/numbering of this question is unusual — transcribed as given from the source answer key."
+  },
+  {
+    "id": "p134q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L9- Joints of Upper Limb and Radiology",
+    "sourcePage": 134,
+    "question": "A radiological sign used to identify posterior shoulder dislocation is:",
+    "options": ["Lightbulb sign", "Humeral head inferior to glenoid", "Widening of acromion", "Humerus anterior to glenoid cavity"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p135q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L9- Joints of Upper Limb and Radiology",
+    "sourcePage": 135,
+    "question": "Subacromial impingement syndrome most commonly involves:",
+    "options": ["Coracoid process", "Acromion", "Coracobrachialis muscle", "Teres minor tendon"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p135q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L9- Joints of Upper Limb and Radiology",
+    "sourcePage": 135,
+    "question": "Which carpal bone is most prone to avascular necrosis and may not be clearly visible on X-ray?",
+    "options": ["Pisiform", "Hamate", "Scaphoid", "Triquetrum"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p135q3",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterior and Posterior Thoracic Walls",
+    "sourcePage": 135,
+    "question": "The angle of Louis corresponds to the level of:",
+    "options": ["T2–T3", "T3–T4", "T4–T5", "T5–T6"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p135q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L8- Brachial Plexus & Nerve Lesions",
+    "sourcePage": 135,
+    "question": "(Hand position shown) Which nerve is being tested?",
+    "options": ["Superficial ulnar nerve", "Deep radial nerve", "Median nerve", "Deep ulnar nerve"],
+    "answerIndex": 3,
+    "image": "assets/questions/p135-hand-gesture.jpg"
+  },
+  {
+    "id": "p136q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L2- Back, Shoulder, and Scapular Region",
+    "sourcePage": 136,
+    "question": "Which muscle is supplied by the spinal accessory nerve?",
+    "options": ["Latissimus dorsi", "Levator scapulae", "Trapezius", "Rhomboid major"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p136q2",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L2- Back, Shoulder, and Scapular Region",
+    "sourcePage": 136,
+    "question": "Pain between the shoulder blades during arm abduction above 90° suggests injury to:",
+    "options": ["Deltoid", "Serratus anterior", "Trapezius", "Rhomboid minor"],
+    "answerIndex": 2,
+    "notes": "Answer key marks C (Trapezius), though pain specifically localized between the scapulae (medial border) is classically associated with rhomboid dysfunction — verify."
+  },
+  {
+    "id": "p136q3",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterior and Posterior Thoracic Walls",
+    "sourcePage": 136,
+    "question": "The posterior intercostal membrane is formed by:",
+    "options": ["External intercostal muscle", "Internal intercostal muscle", "Innermost intercostal muscle", "Subcostal muscles"],
+    "answerIndex": 0,
+    "notes": "Answer key marks A (External intercostal muscle), but standard teaching holds the posterior intercostal membrane is the posterior continuation of the internal intercostal muscle (medial to the rib angle) — verify."
+  },
+  {
+    "id": "p136q4",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L1- Pectoral Region and Mammary Gland",
+    "sourcePage": 136,
+    "question": "Lymph from the axillary tail of the breast drains mainly to:",
+    "options": ["Parasternal nodes", "Pectoral nodes", "Apical nodes", "Infraclavicular nodes"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p137q1",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Joints of Lower Limb",
+    "sourcePage": 137,
+    "question": "Pain is referred to the hip joint in knee pathology because:",
+    "options": ["Sciatic nerve supplies both joints", "Femoral and obturator nerves supply both joints", "Same arterial supply", "Same venous drainage"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p137q2",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Joints of the Back, Lesions, and Radiology",
+    "sourcePage": 137,
+    "question": "Low back pain worsened by forward bending suggests involvement of:",
+    "options": ["Facet joints", "Lumbar intervertebral disc (L4–L5)", "Anterior longitudinal ligament", "Intertransverse ligaments"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p137q4",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Nerves and Lesions of Lower Limb",
+    "sourcePage": 137,
+    "question": "Which statement regarding sciatic nerve injury is true?",
+    "options": ["Tibial nerve is more prone to injury", "Common peroneal nerve is more prone to injury", "Hip abduction is lost", "Knee extension is affected"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p138q1",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Gluteal Region",
+    "sourcePage": 138,
+    "question": "Which muscles insert into the lateral aspect of the tibia?",
+    "options": ["Gluteus medius and minimus", "Gluteus maximus and tensor fasciae latae", "Tensor fasciae latae and biceps femoris", "Gluteus maximus and biceps femoris"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p138q2",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Medial Compartment of the Thigh",
+    "sourcePage": 138,
+    "question": "Which muscle originates from both the ischial tuberosity and pubic bone?",
+    "options": ["Biceps femoris", "Adductor magnus", "Adductor brevis", "Gracilis"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p138q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L8- Brachial Plexus & Nerve Lesions",
+    "sourcePage": 138,
+    "question": "Injury near the quadrangular space results in:",
+    "options": ["Loss of sensation over medial forearm", "Loss of deltoid tone and abduction", "Loss of elbow flexion", "Loss of wrist extension"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p138q4",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Nerves and Lesions of Lower Limb",
+    "sourcePage": 138,
+    "question": "Damage to the obturator nerve causes:",
+    "options": ["Inability to adduct the thigh", "Trendelenburg gait", "Foot drop", "Loss of knee extension"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p139q1",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Joints of Lower Limb",
+    "sourcePage": 139,
+    "question": "Which ligament supports the ankle during eversion?",
+    "options": ["Lateral ligament", "Deltoid ligament", "Calcaneofibular ligament", "Anterior talofibular ligament"],
+    "answerIndex": 1
+  },
+  {
+    "id": "p139q2",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Posterior Abdominal Wall",
+    "sourcePage": 139,
+    "question": "The thoracic duct passes through the:",
+    "options": ["Caval opening", "Esophageal hiatus", "Aortic hiatus", "Costal margin"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p139q3",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterior and Posterior Thoracic Walls",
+    "sourcePage": 139,
+    "question": "Which muscle attaches to the posterior surface of the sternum?",
+    "options": ["Internal intercostal muscles", "External intercostal muscles", "Transversus thoracis", "Subcostal muscles"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p139q4",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Muscles of the Back and Vertebral Column",
+    "sourcePage": 139,
+    "question": "Which muscle assists in deep inspiration?",
+    "options": ["Serratus posterior inferior", "Rhomboid major", "Serratus posterior superior", "Levator scapulae"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p140q1",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Muscles of the Back and Vertebral Column",
+    "sourcePage": 140,
+    "question": "The deepest intrinsic back muscle is:",
+    "options": ["Erector spinae", "Iliocostalis", "Multifidus", "Longissimus"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p140q2",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Joints of the Back, Lesions, and Radiology",
+    "sourcePage": 140,
+    "question": "(Spine X-ray shown) The diagnosis is:",
+    "options": ["Kyphosis", "Lordosis", "Scoliosis", "Spondylolisthesis"],
+    "answerIndex": 2,
+    "image": "assets/questions/p140-scoliosis.jpg"
+  },
+  {
+    "id": "p140q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L8- Brachial Plexus & Nerve Lesions",
+    "sourcePage": 140,
+    "question": "Fracture of the surgical neck of the humerus affects:",
+    "options": ["Radial nerve", "Median nerve", "Axillary nerve", "Ulnar nerve"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p140q4",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Posterior and Lateral Compartments of Leg",
+    "sourcePage": 140,
+    "question": "Which muscle originates from the upper half of the posterior surface of the tibia?",
+    "options": ["Extensor hallucis longus", "Flexor hallucis longus", "Soleus", "Extensor digitorum longus"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p141q1",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 141,
+    "question": "Femoral vein collapses more easily than artery because:",
+    "options": ["Thinner wall and lower pressure", "It is medial", "Outside femoral sheath", "No valves"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p141q2",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterior and Posterior Thoracic Walls",
+    "sourcePage": 141,
+    "question": "Posterior membrane of thoracic wall is formed by:",
+    "options": ["Internal intercostal muscle", "External intercostal muscle", "Innermost intercostal muscle", "Subcostal muscles"],
+    "answerIndex": 1,
+    "notes": "Answer key marks B (External intercostal muscle), but standard teaching holds the posterior intercostal membrane is the posterior continuation of the internal intercostal muscle — verify (same discrepancy as the equivalent question on page 136)."
+  },
+  {
+    "id": "p141q3",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Joints of the Back, Lesions, and Radiology",
+    "sourcePage": 141,
+    "question": "Ligament preventing hyperflexion of vertebral column:",
+    "options": ["Posterior longitudinal ligament", "Anterior longitudinal ligament", "Interspinous ligament", "Intertransverse ligament"],
+    "answerIndex": 0
+  },
+  {
+    "id": "p141q4",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Gluteal Region",
+    "sourcePage": 141,
+    "question": "Which structure connects the pelvis to the knee?",
+    "options": ["Semitendinosus", "Semimembranosus", "Iliotibial tract", "Lateral collateral ligament"],
+    "answerIndex": 2,
+    "notes": "Fixed typos in source options: \"Semitendonosis\" -> \"Semitendinosus\", \"Semimembrnosis\" -> \"Semimembranosus\"."
+  },
+  {
+    "id": "p142q1",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Medial Compartment of the Thigh",
+    "sourcePage": 142,
+    "question": "Which muscle supports the pubic arch?",
+    "options": ["Sartorius", "Gracilis", "Adductor longus", "Pectineus"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p142q2",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Posterior and Lateral Compartments of Leg",
+    "sourcePage": 142,
+    "question": "Which muscle is responsible for eversion of the foot?",
+    "options": ["Tibialis anterior", "Tibialis posterior", "Peroneus (fibularis) longus", "Flexor hallucis longus"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p142q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 142,
+    "question": "Which nerve supplies flexor digiti minimi?",
+    "options": ["Median nerve", "Superficial branch of ulnar nerve", "Deep branch of ulnar nerve", "Radial nerve"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p142q4",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterolateral Abdominal Wall",
+    "sourcePage": 142,
+    "question": "Which muscle contributes to the formation of the rectus sheath?",
+    "options": ["Latissimus dorsi", "Pyramidalis muscle", "Internal oblique muscle", "Erector spinae"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p143q1",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 143,
+    "question": "Which structure passes superficial to the flexor retinaculum of the hand?",
+    "options": ["Median nerve", "Ulnar nerve", "Palmar cutaneous branch of median nerve", "Flexor digitorum profundus tendon"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p143q2",
+    "type": "mcq",
+    "section": "Lower Limb",
+    "lecture": "Joints of Lower Limb",
+    "sourcePage": 143,
+    "question": "Why is the medial meniscus of the knee more commonly injured?",
+    "options": ["Because it is poorly vascularized", "Because it is attached to the medial collateral ligament", "Because it moves freely during flexion", "Because it is not supported by muscles"],
+    "answerIndex": 1,
+    "notes": "Fixed typo in source: question referred to \"medial meniscus of the elbow,\" corrected to \"knee\" (the meniscus is a knee structure)."
+  },
+  {
+    "id": "p143q3",
+    "type": "mcq",
+    "section": "Upper Limb",
+    "lecture": "L8- Brachial Plexus & Nerve Lesions",
+    "sourcePage": 143,
+    "question": "Injury to the radial nerve results in:",
+    "options": ["Claw hand", "Ape hand", "Wrist drop", "Loss of thumb opposition"],
+    "answerIndex": 2
+  },
+  {
+    "id": "p144-1",
+    "type": "flashcard",
+    "section": "Upper Limb",
+    "lecture": "L7- The Hand",
+    "sourcePage": 144,
+    "prompt": "Describe the ulnar nerve in the hand including its beginning, course, and distribution.",
+    "answer": "Beginning:\nThe ulnar nerve enters the hand through Guyon's canal, superficial to the flexor retinaculum, between the pisiform and the hook of hamate.\n\nCourse:\nWithin the hand, the ulnar nerve divides into a superficial branch and a deep branch. The deep branch passes across the palm with the deep palmar arch.\n\nDistribution:\nMotor: Supplies the intrinsic muscles of the hand (interossei, medial two lumbricals, adductor pollicis, and deep head of FPB).\nSensory: Supplies the palmar surface of the little finger and the medial half of the ring finger."
+  },
+  {
+    "id": "p145-1",
+    "type": "flashcard",
+    "section": "Upper Limb",
+    "lecture": "L3- Axilla",
+    "sourcePage": 145,
+    "prompt": "Describe the axilla including its walls, base, apex, and contents.",
+    "answer": "Walls:\nAnterior wall: Pectoralis major and pectoralis minor, subclavius\nPosterior wall: Subscapularis, teres major, and latissimus dorsi\nMedial wall: Serratus anterior, upper 4-5 ribs, inter-costal spaces\nLateral wall: Coracobrachialis, biceps muscles, bicipital groove of humerus\n\nBase:\nThe lower end of the axilla formed by skin stretching between the anterior and posterior walls.\nBounded:\nMedially by the chest wall\nAnteriorly by the anterior axillary fold\nPosteriorly by the posterior axillary fold\n\nApex:\nAnteriorly: clavicle\nPosteriorly: upper border of scapula\nMedially: outer border of first rib\n\nContents:\nAxillary artery and its branches\nAxillary vein and its tributaries\nCords and branches of the brachial plexus\nAxillary lymph nodes\nAxillary fat\nAxillary tail"
+  },
+  {
+    "id": "p146-1",
+    "type": "flashcard",
+    "section": "Upper Limb",
+    "lecture": "L9- Joints of Upper Limb and Radiology",
+    "sourcePage": 146,
+    "prompt": "Describe the wrist joint including its type, capsule, ligaments, movements, and nerve supply.",
+    "answer": "Type:\nThe wrist joint (radiocarpal joint) is a synovial joint of ellipsoid type.\n\nArticulating surfaces:\nProximally: distal end of the radius and articular disc of ulna\nDistally: proximal row of carpal bones (scaphoid, lunate, triquetrum)\n\nCapsule:\nThe joint is enclosed by a fibrous capsule which is attached proximally to the radius and articular disc, and distally to the proximal row of carpal bones. The capsule is lined by synovial membrane.\n\nLigaments:\nPalmar radiocarpal ligament\nDorsal radiocarpal ligament\nRadial collateral ligament\nUlnar collateral ligament\n\nMovements (Actions):\nFlexion\nExtension\nAbduction (radial deviation)\nAdduction (ulnar deviation)\nCircumduction\n\nNerve supply:\nMedian nerve\nRadial nerve\nUlnar nerve"
+  },
+  {
+    "id": "p147-1",
+    "type": "flashcard",
+    "section": "Lower Limb",
+    "lecture": "Neurovascular structures and relationships in anteromedial thigh",
+    "sourcePage": 147,
+    "prompt": "Describe the femoral sheath including its formation, clinical correlations, compartments, and boundaries.",
+    "answer": "Formation (Beginning):\nThe femoral sheath is a funnel-shaped fascial sheath formed as a downward prolongation of the fascia transversalis anteriorly and the iliac fascia posteriorly, below the inguinal ligament.\n\nClinical correlation:\nIt surrounds the proximal part of the femoral vessels and lymphatics for about 1 inch (2.5 cm) below the inguinal ligament.\n\nCompartments:\nThe femoral sheath is divided by vertical septa into three compartments:\n1. Lateral compartment: occupied by the femoral artery\n2. Intermediate compartment: occupied by the femoral vein\n3. Medial compartment: occupied by the femoral canal\n\nBoundaries:\nAnterior wall: Fascia transversalis\nPosterior wall: Iliac fascia"
+  },
+  {
+    "id": "p148-1",
+    "type": "flashcard",
+    "section": "Lower Limb",
+    "lecture": "Back of Thigh & The Popliteal Fossa",
+    "sourcePage": 148,
+    "prompt": "Describe the popliteal artery including its beginning, branches, and termination.",
+    "answer": "Beginning:\nThe popliteal artery begins as a continuation of the femoral artery after it passes through the adductor hiatus.\n\nBranches:\nMuscular branches\nGenicular branches, which form the genicular anastomosis:\n- Superior medial genicular artery\n- Superior lateral genicular artery\n- Inferior medial genicular artery\n- Inferior lateral genicular artery\n- Middle genicular artery\n\nTermination:\nThe popliteal artery ends at the lower border of the popliteus muscle, where it divides into the anterior tibial and posterior tibial arteries."
+  },
+  {
+    "id": "p149-1",
+    "type": "flashcard",
+    "section": "Lower Limb",
+    "lecture": "The Foot",
+    "sourcePage": 149,
+    "prompt": "Describe the arches of the foot, mentioning the bones forming each arch and their functions.",
+    "answer": "1) Medial longitudinal arch\nBones: Calcaneus, talus, navicular, three cuneiforms, and first three metatarsals.\nFunction: Main weight-bearing arch; Absorbs shock; Provides elasticity during walking\n\n2) Lateral longitudinal arch\nBones: Calcaneus, cuboid, and fourth and fifth metatarsals.\nFunction: Provides stability; Supports body weight; Less elastic than the medial arch\n\n3) Transverse arch\nBones: Cuboid, three cuneiforms, and bases of the metatarsals.\nFunction: Maintains the concavity of the sole; Distributes body weight across the foot; Protects plantar vessels and nerves"
+  },
+  {
+    "id": "p150-1",
+    "type": "flashcard",
+    "section": "Back and Vertebral Column",
+    "lecture": "Muscles of the Back and Vertebral Column",
+    "sourcePage": 150,
+    "prompt": "Describe the intrinsic (deep) muscles of the back, mentioning their groups, muscles, and functions.",
+    "answer": "I. Superficial group\nA. Splenius muscles (back of neck only): Splenius capitis, Splenius cervicis\nAction: Extensors and rotators of the head and neck.\n\nB. Superficial vertically running muscles\nErector spinae muscle (Sacrospinalis), formed of three columns:\n1. Iliocostalis\n2. Longissimus\n3. Spinalis (thoracic region only)\nAction: Extensors and rotators of the vertebral column.\n\nII. Intermediate group (Obliquely running muscles)\nTransversospinalis, formed of:\n1. Semispinalis (most superficial)\n2. Multifidus (lies under semispinalis, mainly lumbar)\n3. Rotatores (most deep & shortest, mainly thoracic)\nAction: Semispinalis extends the head & vertebral column; Multifidus & rotatores stabilize the vertebral column\n\nIII. Deepest intrinsic muscles (shortest muscles)\nLie between adjacent vertebrae:\n1. Interspinalis\n2. Intertransversarii\nAction: Stabilization of the vertebral column.\n\nLevatores costarum\nAction: Rib elevators."
+  },
+  {
+    "id": "p151-1",
+    "type": "flashcard",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterolateral Abdominal Wall",
+    "sourcePage": 151,
+    "prompt": "Describe the inguinal canal including its boundaries, contents, and clinical correlations.",
+    "answer": "Boundaries:\nAnterior wall: Derived from aponeuroses -> External oblique aponeurosis, reinforced laterally by the origin of internal oblique.\nPosterior wall: Conjoint tendon medially and transversalis fascia laterally.\nRoof (superior wall): Formed by arching fibers of internal oblique and transversus abdominis muscles.\nInferior wall (floor): Formed by inguinal ligament and medially by the lacunar ligament.\n\nContents:\nIn males: Spermatic cord\nIn females: Round ligament of the uterus\nIlioinguinal nerve\n\nClinical correlations:\nSite of inguinal hernia\nWeakness of the posterior wall predisposes to direct inguinal hernia\nIndirect inguinal hernia passes through the deep inguinal ring"
+  },
+  {
+    "id": "p152q1",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterolateral Abdominal Wall",
+    "sourcePage": 152,
+    "question": "Which muscle prevents the action of lordosis?",
+    "options": ["Rectus abdominis", "", "", ""],
+    "answerIndex": 0,
+    "notes": "Source page only shows text for option (a); options b–d were blank/illegible in the original document."
+  },
+  {
+    "id": "p152q2",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterolateral Abdominal Wall",
+    "sourcePage": 152,
+    "question": "Which action does the combination of diaphragm and abdominal muscles contraction produce?",
+    "options": ["Straining down effort", "Deep inspiration", "", ""],
+    "answerIndex": 0,
+    "notes": "Source page only shows text for options (a) and (b); options c–d were blank/illegible in the original document."
+  },
+  {
+    "id": "p152q3",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterolateral Abdominal Wall",
+    "sourcePage": 152,
+    "question": "Which forms the anterolateral fascia?",
+    "options": ["Transversalis fascia", "Rectus abdominis", "Fascia iliaca", "Camper's fascia"],
+    "answerIndex": 3
+  },
+  {
+    "id": "p152q4",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Posterior Abdominal Wall",
+    "sourcePage": 152,
+    "question": "Which of the following muscles fixes the 12th rib during inspiration?",
+    "options": ["Quadratus lumborum", "Transversus abdominis", "External oblique", "Internal oblique"],
+    "answerIndex": 0,
+    "notes": "Fixed typo in source: \"quadriceps lumborum\" -> \"Quadratus lumborum\"."
+  },
+  {
+    "id": "p153q1",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Anterior and Posterior Thoracic Walls",
+    "sourcePage": 153,
+    "question": "Which of the following is a false rib?",
+    "options": ["Sixth", "First", "Seventh", "Tenth"],
+    "answerIndex": 3
+  },
+  {
+    "id": "p153q2",
+    "type": "mcq",
+    "section": "Back and Vertebral Column",
+    "lecture": "Muscles of the Back and Vertebral Column",
+    "sourcePage": 153,
+    "question": "Which vertebrae has a bifid spine?",
+    "options": ["Cervical", "Lumbar", "Thoracic", "Sacrum"],
+    "answerIndex": 0,
+    "notes": "Source says \"bifold spine\"; standard terminology is \"bifid spine\" (bifid spinous process), corrected in transcription."
+  },
+  {
+    "id": "p153q3",
+    "type": "mcq",
+    "section": "Thoracic and Abdominal Walls",
+    "lecture": "Posterior Abdominal Wall",
+    "sourcePage": 153,
+    "question": "Azygos vein drains into?",
+    "options": ["SVC", "IVC", "Right brachiocephalic vein"],
+    "answerIndex": 0,
+    "notes": "Source option (d) was blank/illegible and omitted."
+  }
+]

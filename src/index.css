@@ -1,6 +1,6 @@
 :root {
   color-scheme: dark;
-  font: 16px/145% "Segoe UI", Tahoma, sans-serif;
+  font-family: "Cairo", "Segoe UI", system-ui, sans-serif;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -13,17 +13,54 @@
 
 body {
   margin: 0;
-  background: #060913;
-  color: #eef1fb;
+  background: radial-gradient(at 20% -10%, #131a36 0%, #060913 55%), #060913;
+  color: #e7ecf8;
+  min-height: 100svh;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.aurora {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.aurora::before,
+.aurora::after {
+  content: "";
+  position: absolute;
+  width: 480px;
+  height: 480px;
+  border-radius: 50%;
+  filter: blur(120px);
+  opacity: 0.32;
+}
+
+.aurora::before {
+  top: -120px;
+  right: -80px;
+  background: radial-gradient(circle, #7c3aed 0%, transparent 65%);
+}
+
+.aurora::after {
+  bottom: -140px;
+  left: -100px;
+  background: radial-gradient(circle, #0ea5e9 0%, transparent 65%);
+  opacity: 0.28;
 }
 
 #root {
+  position: relative;
+  z-index: 1;
   min-height: 100svh;
 }
 
 h1,
 h2 {
-  font-weight: 600;
+  font-weight: 900;
 }
 
 button {
