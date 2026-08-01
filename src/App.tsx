@@ -187,6 +187,16 @@ export default function App() {
                 </button>
               ))}
             </div>
+            <p className="contact-line">
+              لقيت خطأ أو سؤال ناقص؟ راسلني على تيليجرام{" "}
+              <a
+                href="https://t.me/liouq"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                @liouq
+              </a>
+            </p>
           </div>
         )}
 

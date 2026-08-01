@@ -11,6 +11,9 @@ interface BaseQuestion {
   sourcePage: number;
   image?: string;
   notes?: string;
+  slideRef?: string; // e.g. "L1- Pectoral Region and Mammary Gland, Slide 14"
+  reviewed?: boolean; // true once cross-checked against the lecture slides
+  answerCorrected?: boolean; // true if the answer key was fixed during slide review
 }
 
 export interface MCQQuestion extends BaseQuestion {
@@ -18,7 +21,7 @@ export interface MCQQuestion extends BaseQuestion {
   question: string;
   options: string[];
   answerIndex: number;
-  explanation?: string;
+  explanation?: string; // why the correct option is right, and briefly why each other option is wrong
 }
 
 export interface FlashcardQuestion extends BaseQuestion {
