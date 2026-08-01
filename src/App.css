@@ -522,6 +522,14 @@
   margin-bottom: 8px;
 }
 
+.slide-ref {
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px dashed rgba(148, 163, 255, 0.2);
+  font-size: 0.76rem;
+  color: #67e8f9;
+}
+
 .reveal-btn,
 .next-btn {
   width: 100%;

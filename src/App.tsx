@@ -353,6 +353,9 @@ export default function App() {
                         <span>Explanation 💡</span>
                       </div>
                       {current.explanation}
+                      {current.slideRef && (
+                        <div className="slide-ref">📎 {current.slideRef}</div>
+                      )}
                     </div>
                   )}
                 </>
@@ -364,7 +367,12 @@ export default function App() {
                       إظهار الإجابة
                     </button>
                   ) : (
-                    <div className="flashcard-answer">{current.answer}</div>
+                    <div className="flashcard-answer">
+                      {current.answer}
+                      {current.slideRef && (
+                        <div className="slide-ref">📎 {current.slideRef}</div>
+                      )}
+                    </div>
                   )}
                 </>
               )}
@@ -439,6 +447,9 @@ export default function App() {
                             <span>Explanation 💡</span>
                           </div>
                           {q.explanation}
+                          {q.slideRef && (
+                            <div className="slide-ref">📎 {q.slideRef}</div>
+                          )}
                         </div>
                       )}
                     </>

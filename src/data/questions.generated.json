@@ -27,7 +27,10 @@
       "Superior ulnar collateral artery",
       "Inferior ulnar collateral artery"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The common interosseous artery arises directly from the ulnar artery — Slide 23 states it 'arises from the upper part of the ulnar artery' before dividing into the anterior and posterior interosseous arteries. The anterior interosseous artery is one of those two terminal divisions, not the parent trunk; the superior and inferior ulnar collateral arteries are branches of the brachial artery near the elbow, not of the ulnar artery itself.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 23",
+    "reviewed": true
   },
   {
     "id": "p5q1",
@@ -57,7 +60,10 @@
       "Ulnar nerve",
       "Axillary nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The median nerve's palmar digital branches supply the palmar surface, the nails, and the dorsal surface of the distal phalanx of the lateral 3½ digits (thumb, index, middle, lateral half of ring) — this covers the index fingertip (Slide 16). Radial nerve supplies dorsal skin of the proximal/middle phalanges only, not the fingertip; ulnar nerve covers the medial 1½ digits (ring and little), not the index; axillary nerve has no cutaneous distribution in the hand.",
+    "slideRef": "L7- The Hand, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p5q3",
@@ -87,7 +93,10 @@
       "Flexor pollicis longus",
       "Pronator teres"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Flexor digitorum superficialis has two heads of origin — Slide 15 shows the humero-ulnar head arising from the medial epicondyle of the humerus and the medial border of the coronoid process of the ulna, and the radial head arising from the oblique line on the anterior surface of the radius, giving it attachments to all three bones. Flexor digitorum profundus (Slide 16) originates only from the ulna and interosseous membrane; flexor pollicis longus (Slide 18) originates only from the radius and interosseous membrane; pronator teres (Slide 11) arises from the humerus and ulna only, with no radial origin.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 15",
+    "reviewed": true
   },
   {
     "id": "p6q2",
@@ -102,7 +111,10 @@
       "Cephalic vein",
       "Radial nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The axillary vein lies medial to the axillary artery throughout its course — Slide 15 states directly that 'the axillary artery runs lateral to the axillary vein.' The axillary nerve leaves the posterior cord to run posteriorly toward the quadrangular space, not medially; the cephalic vein crosses anterior to the first part of the artery before draining into the axillary vein, it is not itself medial to the artery; the radial nerve continues from the posterior cord and lies posterior to the artery, not medial.",
+    "slideRef": "L3- Axilla, Slide 15",
+    "reviewed": true
   },
   {
     "id": "p6q3",
@@ -147,7 +159,11 @@
       "Pectoral nodes",
       "Subscapular nodes"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 24 states that superficial lymph from the thumb, index finger, and lateral hand follows the cephalic vein specifically to the deltopectoral (infraclavicular) axillary nodes — a group Slide 21 lists as distinct from the apical nodes. 'Infraclavicular' is not offered as an option here, so apical (the closest related group in the same outflow chain, feeding the subclavian trunk per Slide 21) is the nearest match; central, pectoral, and subscapular nodes drain other regions per the slides, not the cephalic vein route.",
+    "slideRef": "L1- Pectoral Region and Mammary Gland, Slide 24",
+    "reviewed": true,
+    "notes": "Slide 24 names the deltopectoral (infraclavicular) nodes as the direct destination of cephalic-vein lymph, and Slide 21 treats infraclavicular as a group separate from apical. 'Infraclavicular' is not among the answer options, so the marked answer (apical) could not be fully confirmed against the slide's precise terminology. Left unchanged — flagged for review."
   },
   {
     "id": "p7q2",
@@ -162,7 +178,10 @@
       "Teres major",
       "Teres minor"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Pectoralis major's clavicular head originates from the medial half of the clavicle (Slide 9), so a clavicle fracture most directly disrupts this muscle. Pectoralis minor arises from ribs 3-5, not the clavicle (Slide 10); teres major and teres minor are not covered in this deck and have no stated clavicular attachment.",
+    "slideRef": "L1- Pectoral Region and Mammary Gland, Slide 9",
+    "reviewed": true
   },
   {
     "id": "p7q3",
@@ -177,7 +196,10 @@
       "Lunate",
       "Capitate"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The slide's clinical note on the anatomical snuffbox states that tenderness in the box signifies a fracture of the scaphoid bone, which forms the snuffbox floor and is the carpal bone classically injured on the radial (thumb) side of the hand (Slide 38). Triquetrum, lunate, and capitate are not implicated by this mechanism in the slide.",
+    "slideRef": "L7- The Hand, Slide 38",
+    "reviewed": true
   },
   {
     "id": "p7q4",
@@ -192,7 +214,12 @@
       "Oblique",
       "Circular"
     ],
-    "answerIndex": 2
+    "answerIndex": 0,
+    "answerCorrected": true,
+    "explanation": "Slide 9 opens its description of pectoralis major with 'a large thick triangular muscle,' directly naming its shape as triangular. It is not described as parallel, oblique, or circular anywhere on the slide — those are different muscle-architecture patterns not used for pectoralis major here.",
+    "slideRef": "L1- Pectoral Region and Mammary Gland, Slide 9",
+    "reviewed": true,
+    "notes": "Answer key marked C (Oblique); Slide 9 explicitly describes pectoralis major as 'a large thick triangular muscle.' Corrected to A (Triangular)."
   },
   {
     "id": "p8q1",
@@ -222,7 +249,10 @@
       "Long head of triceps",
       "Lateral head of triceps"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The quadrangular space's inferior border is teres major, while teres minor forms the superior (posterior) border, the long head of triceps forms the medial border, and the surgical neck of the humerus with the lateral head of triceps forms the lateral border (Slide 27). Teres minor bounds the space superiorly, not inferiorly; long head of triceps is medial, not inferior; lateral head of triceps lies laterally, not inferiorly.",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 27",
+    "reviewed": true
   },
   {
     "id": "p9q1",
@@ -237,7 +267,10 @@
       "Pectoral branch",
       "Subscapular artery"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Slide 18 states that medially, 60% of the breast's blood supply comes from perforating branches of the internal thoracic (mammary) artery, forming the medial mammary arteries. Infraclavicular artery, pectoral branch, and subscapular artery are not among the vessels the slide names for breast supply — only internal thoracic (medially) and thoracoacromial/lateral thoracic/posterior intercostal (laterally) are listed.",
+    "slideRef": "L1- Pectoral Region and Mammary Gland, Slide 18",
+    "reviewed": true
   },
   {
     "id": "p9q2",
@@ -252,7 +285,10 @@
       "Musculocutaneous nerve",
       "Median nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The radial nerve winds through the spiral (radial) groove on the posterior surface of the humerus as it courses through the posterior compartment of the arm (Slide 20; the groove is also labeled on the triceps origin diagram, Slide 7). The ulnar nerve runs medial to the brachial artery and passes behind the medial epicondyle, not the spiral groove; the musculocutaneous nerve pierces coracobrachialis and runs between biceps and brachialis; the median nerve stays anterior, crossing the brachial artery in the cubital fossa.",
+    "slideRef": "L4- The Arm, Slide 20",
+    "reviewed": true
   },
   {
     "id": "p9q4",
@@ -267,7 +303,10 @@
       "Triceps",
       "Coracobrachialis"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Brachialis is supplied mainly by the musculocutaneous nerve but also receives a small lateral part of its innervation from the radial nerve (Slide 6), giving it double innervation. Biceps brachii and coracobrachialis are supplied only by the musculocutaneous nerve, and triceps only by the radial nerve, with no second nerve listed for either on the slides.",
+    "slideRef": "L4- The Arm, Slide 6",
+    "reviewed": true
   },
   {
     "id": "p10q1",
@@ -282,7 +321,9 @@
       "In front of latissimus dorsi",
       "Over subscapularis"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "notes": "Topic not found in the provided slide deck. The objectives slide (Slide 2) lists 'surface anatomy & site of pulsation' as a learning goal, but no slide in the deck actually states where the axillary artery's pulsation is felt.",
+    "reviewed": true
   },
   {
     "id": "p10q2",
@@ -297,8 +338,12 @@
       "Basilic + brachial merge",
       "Medial border of coracobrachialis"
     ],
-    "answerIndex": 0,
-    "notes": "Answer key marks 'outer border of first rib', but standard anatomy holds the axillary vein begins at the lower border of teres major (continuation of the basilic vein) and ends — becoming the subclavian vein — at the outer border of the first rib. Also, option B says 'teres minor', likely a typo for 'teres major'. Verify."
+    "answerIndex": 2,
+    "answerCorrected": true,
+    "notes": "Answer key marked A (Outer border of first rib), but Slide 16 states the axillary vein BEGINS at the lower border of teres major, formed by the union of the venae comitantes of the brachial artery and the basilic vein, and ENDS at the outer/lateral border of the first rib (becoming the subclavian vein). The marked answer describes where the vein ends, not begins. Corrected to C ('Basilic + brachial merge'), the option that matches the slide's description of how/where the vein is formed. Option B ('teres minor') is likely a typo for 'teres major' but as written names the wrong muscle, so it cannot be selected as correct.",
+    "explanation": "Slide 16 states the axillary vein begins at the lower border of teres major, formed by the union of the venae comitantes of the brachial artery and the basilic vein — matching 'Basilic + brachial merge.' It does NOT begin at the outer border of the first rib; that same slide identifies the outer border of the first rib as where the vein ENDS, becoming the subclavian vein. 'Lower border of teres minor' names the wrong muscle (the slide says teres major); the medial border of coracobrachialis is not mentioned on the slide as a landmark for the vein at all.",
+    "slideRef": "L3- Axilla, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p10q3",
@@ -313,7 +358,11 @@
       "Lateral pectoral nerve",
       "Basilic vein"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 12 lists the cephalic vein among the four structures piercing the clavipectoral fascia, alongside the thoracoacromial artery, lateral pectoral nerve, and lymphatic vessels. Internal thoracic artery and basilic vein are not on that list.",
+    "slideRef": "L1- Pectoral Region and Mammary Gland, Slide 12",
+    "reviewed": true,
+    "notes": "Slide 12 also lists the lateral pectoral nerve as piercing the clavipectoral fascia, so option C is technically also correct per the slide. Kept the test bank's marked answer (cephalic vein) since it is not contradicted by the slide."
   },
   {
     "id": "p10q4",
@@ -328,7 +377,10 @@
       "Lateral pectoral nerve",
       "Medial pectoral nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 1's dissection image labels the long thoracic nerve running directly onto serratus anterior, and Slide 25 lists the long thoracic nerve (C5-C7) as a direct root-level branch of the brachial plexus. The thoracodorsal nerve (posterior cord) supplies latissimus dorsi, not serratus anterior; the lateral pectoral nerve supplies pectoralis major; the medial pectoral nerve supplies pectoralis minor.",
+    "slideRef": "L3- Axilla, Slide 1",
+    "reviewed": true
   },
   {
     "id": "p11q3",
@@ -343,7 +395,9 @@
       "APL",
       "Opponens pollicis"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "notes": "topic not found in the provided slide deck — the deck does not describe the insertion of abductor pollicis longus on the 1st metacarpal or the effect of a 1st-metacarpal fracture on any specific tendon.",
+    "reviewed": true
   },
   {
     "id": "p12q1",
@@ -373,7 +427,10 @@
       "Rhomboid major",
       "Teres major"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Teres minor originates from the upper two-thirds of the lateral border of the scapula (Slide 17), making it the muscle attaching to the upper part of that border. Teres major instead arises from the lower one-third of the lateral border (Slide 17); rhomboid minor and rhomboid major both attach to the medial border of the scapula, not the lateral border (Slide 12).",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 17",
+    "reviewed": true
   },
   {
     "id": "p12q3",
@@ -388,7 +445,10 @@
       "Rhomboid major",
       "Latissimus dorsi"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Trapezius receives its motor supply from the spinal part of the accessory nerve (11th cranial nerve), with sensory/proprioceptive fibers from C3-C4 (Slide 9). Levator scapulae is supplied by the C3-C4 cervical nerves and the dorsal scapular nerve (Slide 11); rhomboid major by the dorsal scapular nerve (Slide 12); latissimus dorsi by the thoracodorsal nerve (Slide 10).",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 9",
+    "reviewed": true
   },
   {
     "id": "p12q4",
@@ -403,7 +463,10 @@
       "Median nerve",
       "Radial nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The labeled forearm dissection on Slide 1 shows the median nerve on the medial side near the elbow, with the biceps brachii tendon lying lateral to the medial nerve/vessel bundle and the radial structures (brachioradialis, superficial radial artery) further lateral still — placing the biceps tendon immediately lateral to the brachial artery in the cubital fossa. The ulnar nerve does not pass through the cubital fossa (it runs posterior to the medial epicondyle); the median nerve lies medial to the artery, not lateral; the radial nerve lies lateral to the biceps tendon, outside the fossa proper.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 1",
+    "reviewed": true
   },
   {
     "id": "p13q1",
@@ -448,7 +511,10 @@
       "Pectoralis minor",
       "Subclavius"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 1 shows the long thoracic nerve coursing directly onto serratus anterior in the labeled dissection; Slide 25 lists it as a root-level branch (C5-C7) of the brachial plexus. Latissimus dorsi is supplied by the thoracodorsal nerve, pectoralis minor by the medial pectoral nerve, and subclavius by the nerve to subclavius — all shown as separate, distinct branches on Slide 25.",
+    "slideRef": "L3- Axilla, Slide 1",
+    "reviewed": true
   },
   {
     "id": "p13q4",
@@ -463,7 +529,10 @@
       "Coracobrachialis",
       "Biceps"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Pectoralis major's clavicular head originates from the medial half of the clavicle (Slide 9), making it the muscle most directly affected by a clavicle fracture. Pectoralis minor attaches to ribs 3-5 and the coracoid process, not the clavicle (Slide 10); coracobrachialis and biceps are not covered in this deck as clavicle-attached muscles.",
+    "slideRef": "L1- Pectoral Region and Mammary Gland, Slide 9",
+    "reviewed": true
   },
   {
     "id": "p14q1",
@@ -478,7 +547,10 @@
       "Lumbricals",
       "FDP"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The slide lists 'abduct fingers' as the first action of the 4 dorsal interossei, supplied by the ulnar nerve (Slide 30). Palmar interossei adduct the fingers instead; lumbricals flex the MCP joints and extend the IP joints; FDP flexes the distal interphalangeal joints — neither performs abduction.",
+    "slideRef": "L7- The Hand, Slide 30",
+    "reviewed": true
   },
   {
     "id": "p14q2",
@@ -493,7 +565,10 @@
       "Deltoid",
       "Trapezius"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Supraspinatus abducts the arm through the first 0-15° of motion, initiating abduction, so its injury impairs starting the movement (Slide 16). Infraspinatus laterally rotates the arm rather than abducting it (Slide 16); deltoid's middle fibers only take over abduction from 15-90° after the movement has begun (Slide 14); trapezius only assists abduction above 90° by rotating the scapula upward, not at initiation (Slide 9).",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p14q4",
@@ -523,7 +598,10 @@
       "Thoracoacromial artery",
       "Intercostal arteries"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 18 states the medial 60% of breast blood supply comes from the internal thoracic (mammary) artery via its perforating branches. The same slide groups lateral thoracic artery, thoracoacromial artery, and posterior intercostal arteries under the lateral supply, feeding the lateral mammary branches instead.",
+    "slideRef": "L1- Pectoral Region and Mammary Gland, Slide 18",
+    "reviewed": true
   },
   {
     "id": "p15q2",
@@ -538,7 +616,10 @@
       "Supinator",
       "Palmaris longus"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Supinator is a deep-group posterior-compartment muscle, and Slide 36 lists the deep branch of the radial nerve as the nerve supply for the deep-group extensors including supinator (Slide 46 further shows the deep branch physically piercing through supinator on its way into the posterior compartment). FCR, pronator teres, and palmaris longus are anterior-compartment muscles supplied by the median nerve (Slides 11, 12, 14).",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 36",
+    "reviewed": true
   },
   {
     "id": "p15q3",
@@ -553,7 +634,9 @@
       "Teres minor",
       "Deltoid"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "notes": "topic not found in the provided slide deck — insertion of pectoralis major/teres major/teres minor/deltoid into the bicipital (intertubercular) groove is not covered in this Arm lecture.",
+    "reviewed": true
   },
   {
     "id": "p15q4",
@@ -568,7 +651,10 @@
       "Subscapularis",
       "Teres minor"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Subscapularis medially rotates the arm and stabilizes the shoulder joint (Slide 15). Supraspinatus abducts the arm rather than rotating it (Slide 16); infraspinatus and teres minor both laterally rotate the arm, the opposite action (Slides 16-17).",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 15",
+    "reviewed": true
   },
   {
     "id": "p16q1",
@@ -583,7 +669,10 @@
       "Capitate",
       "Hamate"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The slide places the triquetrum in the proximal row along with the scaphoid, lunate, and pisiform (Slide 4). Trapezoid, capitate, and hamate all belong to the distal row.",
+    "slideRef": "L7- The Hand, Slide 4",
+    "reviewed": true
   },
   {
     "id": "p16q2",
@@ -598,7 +687,10 @@
       "Axillary",
       "Musculocutaneous"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The lateral antebrachial cutaneous nerve, labeled on Slide 21 running down the radial (lateral) side of the forearm, is the continuation of the musculocutaneous nerve and supplies skin over the radial side of the forearm. The radial nerve's own cutaneous territory covered in this deck is the posterior surface of the hand/wrist via its superficial branch (Slide 48), not the radial forearm skin; the ulnar nerve supplies the medial/ulnar skin (Slide 28); the axillary nerve does not extend into the forearm.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 21",
+    "reviewed": true
   },
   {
     "id": "p16q3",
@@ -613,7 +705,10 @@
       "Median",
       "Musculocutaneous"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Slide 29 states the median nerve 'leaves the cubital fossa to enter the forearm by passing between the two heads of the pronator teres' — i.e., it pierces through the muscle. The radial nerve instead pierces supinator (Slide 46); the ulnar nerve passes behind the medial epicondyle and between the two heads of flexor carpi ulnaris, not pronator teres (Slide 27); the musculocutaneous nerve terminates in the arm and is not described as entering the forearm muscles in this deck.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 29",
+    "reviewed": true
   },
   {
     "id": "p16q4",
@@ -628,7 +723,10 @@
       "Axillary",
       "Musculocutaneous"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The musculocutaneous nerve is explicitly described as running downward and piercing coracobrachialis before descending between biceps and brachialis (Slide 17). The radial, ulnar, and axillary nerves are never shown piercing coracobrachialis anywhere in the deck — the radial and ulnar nerves are related instead to the spiral groove and the brachial artery/medial epicondyle respectively.",
+    "slideRef": "L4- The Arm, Slide 17",
+    "reviewed": true
   },
   {
     "id": "p17q1",
@@ -643,7 +741,10 @@
       "Median",
       "Axillary"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Carpal tunnel syndrome results from compression of the median nerve as it passes through the carpal tunnel deep to the flexor retinaculum (Slide 43). The radial, ulnar, and axillary nerves do not travel through the carpal tunnel and are not affected.",
+    "slideRef": "L7- The Hand, Slide 43",
+    "reviewed": true
   },
   {
     "id": "p17q4",
@@ -658,7 +759,10 @@
       "Subscapular",
       "Thoracoacromial"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Slide 14 lists the third part's three branches as the subscapular, anterior circumflex humeral, and posterior circumflex humeral arteries. Lateral thoracic and thoracoacromial arteries are second-part branches, not third-part; superior (highest) thoracic artery is the first part's only branch.",
+    "slideRef": "L3- Axilla, Slide 14",
+    "reviewed": true
   },
   {
     "id": "p18q1",
@@ -673,7 +777,9 @@
       "Pronator teres",
       "ECU"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "notes": "topic not found in the provided slide deck — the deck lists anconeus and brachioradialis together as radial-nerve muscular branches in the axilla/arm (Slide 22) but never states their individual actions on the elbow joint, so which option 'helps extend the elbow' isn't settled by the slides.",
+    "reviewed": true
   },
   {
     "id": "p19q1",
@@ -688,7 +794,10 @@
       "Adduction of the middle finger",
       "Extension of the thumb"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The slide lists 'abduct fingers' as an action of the dorsal interossei, so the first dorsal interosseous abducts the index finger away from the axis of the hand (Slide 30). It does not flex the little finger (a hypothenar flexor digiti minimi action), adduct the middle finger (a palmar interosseous action), or extend the thumb (an extensor tendon action).",
+    "slideRef": "L7- The Hand, Slide 30",
+    "reviewed": true
   },
   {
     "id": "p19q2",
@@ -704,7 +813,10 @@
       "Pronator teres"
     ],
     "answerIndex": 1,
-    "notes": "Typo fixed: source read 'precises' → 'pierces'."
+    "notes": "Typo fixed: source read 'precises' → 'pierces'.",
+    "explanation": "The radial nerve runs through the posterior compartment of the arm, coiling through the spiral groove on the back of the humerus where triceps brachii — the only muscle of that compartment — lies, and the deck marks the radial nerve as present in the upper part of the posterior compartment (Slides 4, 20). Flexor carpi ulnaris, flexor digitorum superficialis, and pronator teres are forearm muscles that the deck never associates with the radial nerve's course through the arm.",
+    "slideRef": "L4- The Arm, Slide 20",
+    "reviewed": true
   },
   {
     "id": "p19q3",
@@ -719,7 +831,10 @@
       "Abductor pollicis brevis",
       "Flexor digitorum superficialis"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Abductor pollicis brevis is one of the thenar eminence muscles, supplied by the median nerve (Slide 26). Abductor digiti minimi is a hypothenar, not thenar, muscle; adductor pollicis is listed on the same slide but is the deeper outlier of the group, supplied by the ulnar nerve rather than the median nerve; flexor digitorum superficialis is an extrinsic forearm flexor, not an intrinsic thenar muscle.",
+    "slideRef": "L7- The Hand, Slide 26",
+    "reviewed": true
   },
   {
     "id": "p19q4",
@@ -734,7 +849,10 @@
       "Coracobrachialis",
       "Pronator teres"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Biceps brachii's listed actions are a weak flexor of the shoulder joint, flexion of the elbow, and supination of the forearm (Slide 5). Brachioradialis is given no supination action anywhere in the deck, coracobrachialis's only listed actions are flexion and weak adduction of the shoulder joint (Slide 6), and pronator teres pronates rather than supinates.",
+    "slideRef": "L4- The Arm, Slide 5",
+    "reviewed": true
   },
   {
     "id": "p21q8",
@@ -764,7 +882,10 @@
       "Carotid artery",
       "Radial artery"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 13 states the axillary artery begins at the lateral border of the first rib as a continuation of the subclavian artery. The brachial artery is what the axillary artery becomes distally, not the other way around; the carotid and radial arteries have no direct continuity with the axillary artery on this slide.",
+    "slideRef": "L3- Axilla, Slide 13",
+    "reviewed": true
   },
   {
     "id": "p21q10",
@@ -810,7 +931,10 @@
       "Wrist and inferior radioulnar"
     ],
     "answerIndex": 0,
-    "notes": "Typos fixed: source read 'radioalnar' → 'radioulnar' and 'posterio' → 'posterior'."
+    "notes": "Typos fixed: source read 'radioalnar' → 'radioulnar' and 'posterio' → 'posterior'.",
+    "explanation": "The Inferior (Distal) Radioulnar Joint slide is headed 'Movements of radioulnar joints: Pronation... Supination...', and the Superior (Proximal) Radioulnar Joint slide likewise lists 'Movements: around a vertical axis. Pronation & Supination' — the two joints act together as a linked pair to rotate the forearm. 'Only superior radioulnar' is wrong because the distal joint moves with it; 'superior and posterior radioulnar' is wrong because there is no posterior radioulnar joint in the deck; 'wrist and inferior radioulnar' is wrong because the wrist (radiocarpal) joint performs flexion/extension/deviation, not pronation/supination.",
+    "slideRef": "L9- Joints of Upper Limb and Radiology, Slide 43",
+    "reviewed": true
   },
   {
     "id": "p23q21",
@@ -841,7 +965,10 @@
       "Pivot joint",
       "Condyloid joint"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Slide 44 states the wrist (radiocarpal) joint's type is 'synovial condyloid joint (biaxial)', articulating the distal radius and articular disc proximally with the scaphoid, lunate and triquetrum distally. It is not ball-and-socket (that is the shoulder joint), not a hinge joint (that is the elbow, uniaxial), and not a pivot joint (that describes the radioulnar joints).",
+    "slideRef": "L9- Joints of Upper Limb and Radiology, Slide 44",
+    "reviewed": true
   },
   {
     "id": "p23q29",
@@ -856,7 +983,9 @@
       "Unipennate",
       "Parallel"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "notes": "topic not found in the provided slide deck — muscle fiber arrangement/architecture (fusiform, bipennate, unipennate, parallel) is not discussed for biceps brachii or any other muscle in this lecture.",
+    "reviewed": true
   },
   {
     "id": "p26q2",
@@ -871,7 +1000,10 @@
       "Biceps brachii",
       "Triceps"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Biceps brachii is the muscle explicitly listed with 'Supination of the forearm' among its actions (Slide 5). Brachioradialis and brachialis have no supination action listed — brachialis's only action given is flexion of the elbow joint (Slide 6) — and triceps' only listed action is extension of the elbow joint (Slide 7).",
+    "slideRef": "L4- The Arm, Slide 5",
+    "reviewed": true
   },
   {
     "id": "p26q9",
@@ -887,7 +1019,10 @@
       "Lateral border of the scapula"
     ],
     "answerIndex": 0,
-    "notes": "Typos fixed: source read 'infragenoid tubercle' → 'infraglenoid tubercle' and 'supragenoid tubercle' → 'supraglenoid tubercle'. Source also mislabeled two options both as 'D'; relettered the third option to 'C'."
+    "notes": "Typos fixed: source read 'infragenoid tubercle' → 'infraglenoid tubercle' and 'supragenoid tubercle' → 'supraglenoid tubercle'. Source also mislabeled two options both as 'D'; relettered the third option to 'C'.",
+    "explanation": "The triceps' long head is explicitly stated to originate from the infraglenoid tubercle of the scapula (Slide 7). The supraglenoid tubercle is instead the origin of biceps brachii's long head (Slide 5); the coracoid process gives origin to biceps' short head and to coracobrachialis (Slides 5–6), not triceps; and the lateral border of the scapula is not listed as a triceps origin on any slide.",
+    "slideRef": "L4- The Arm, Slide 7",
+    "reviewed": true
   },
   {
     "id": "p26q10",
@@ -902,7 +1037,10 @@
       "Flexor digitorum superficialis",
       "Opponens digiti minimi"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Abductor pollicis brevis is one of the thenar eminence muscles, supplied by the median nerve (Slide 26). 'Adductor pollicis longus' is not a real muscle in the deck (abductor pollicis longus is a forearm extensor, not thenar); flexor digitorum superficialis is an extrinsic forearm flexor; opponens digiti minimi is a hypothenar, not thenar, muscle.",
+    "slideRef": "L7- The Hand, Slide 26",
+    "reviewed": true
   },
   {
     "id": "p28-1",
@@ -911,7 +1049,9 @@
     "lecture": "L7- The Hand",
     "sourcePage": 28,
     "prompt": "1. snuffbox content",
-    "answer": "Medial border: Extensor Pollicis Longus\nLateral border: Tendons of the Abductor Pollicis Longus (APL) and Extensor Pollicis Brevis (EPB)\nFloor: Scaphoid and Trapezium"
+    "answer": "Medial border: Extensor Pollicis Longus\nLateral border: Tendons of the Abductor Pollicis Longus (APL) and Extensor Pollicis Brevis (EPB)\nFloor: Scaphoid and Trapezium",
+    "slideRef": "L7- The Hand, Slide 38",
+    "reviewed": true
   },
   {
     "id": "p30-1",
@@ -920,7 +1060,9 @@
     "lecture": "L5,6- The Forearm (Posterior & Anterior)",
     "sourcePage": 30,
     "prompt": "2. List 4 contents of cubital fossa from medial to lateral:",
-    "answer": "Median nerve\nBrachial artery\nBiceps brachii tendon\nRadial nerve"
+    "answer": "Median nerve\nBrachial artery\nBiceps brachii tendon\nRadial nerve",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 1",
+    "reviewed": true
   },
   {
     "id": "p32-1",
@@ -929,7 +1071,9 @@
     "lecture": "L4- The Arm",
     "sourcePage": 32,
     "prompt": "3. Enumerate 7 branches of brachial artery:",
-    "answer": "1- Deep brachial artery (profunda brachii)\n2- Nutrient artery of the humerus\n3- Superior ulnar collateral artery\n4- Inferior ulnar collateral artery\n5- Radial artery\n6- Ulnar artery\n7- Terminal branches (radial and ulnar arteries)"
+    "answer": "1- Deep brachial artery (profunda brachii)\n2- Nutrient artery of the humerus\n3- Superior ulnar collateral artery\n4- Inferior ulnar collateral artery\n5- Radial artery\n6- Ulnar artery\n7- Terminal branches (radial and ulnar arteries)",
+    "slideRef": "L4- The Arm, Slide 13",
+    "reviewed": true
   },
   {
     "id": "p34q4",
@@ -944,7 +1088,10 @@
       "Axillary",
       "Brachial"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The brachial artery's own slide describes it as 'the artery of the upper arm,' the continuation of the axillary artery running through the arm before dividing into the radial and ulnar arteries near the elbow (Slide 12). The radial and ulnar arteries are only its terminal branches, not the main arm artery, and the axillary artery is proximal to the arm, ending where the brachial artery begins.",
+    "slideRef": "L4- The Arm, Slide 12",
+    "reviewed": true
   },
   {
     "id": "p35q5",
@@ -976,7 +1123,10 @@
       "Ellipsoid"
     ],
     "answerIndex": 2,
-    "notes": "Typo fixed: source read 'Henge joint' → 'Hinge joint'."
+    "notes": "Typo fixed: source read 'Henge joint' → 'Hinge joint'.",
+    "explanation": "Slide 9 explicitly labels the shoulder (glenohumeral) joint's type as 'Ball and socket synovial joint', formed by the head of the humerus and the glenoid cavity of the scapula. It is not a hinge joint (that is the elbow), not a pivot joint (that describes the radioulnar joints), and not ellipsoid (that describes the wrist/condyloid joint).",
+    "slideRef": "L9- Joints of Upper Limb and Radiology, Slide 9",
+    "reviewed": true
   },
   {
     "id": "p36q10",
@@ -1041,7 +1191,9 @@
     "sourcePage": 37,
     "notes": "Options b–d were blank/illegible in the source page. [converted from single-option MCQ to flashcard during merge]",
     "prompt": "Which of the following muscles flex the hip?",
-    "answer": "Rectus femoris"
+    "answer": "Rectus femoris",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 55",
+    "reviewed": true
   },
   {
     "id": "p39q21",
@@ -1107,7 +1259,10 @@
       "Serratus Anterior",
       "Rhomboid Minor"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Trapezius is supplied by the spinal part of the accessory nerve (11th cranial nerve) (Slide 9). Deltoid is supplied by the axillary nerve (Slide 14); rhomboid minor by the dorsal scapular nerve (Slide 12); serratus anterior is not among the muscles the deck lists under the accessory nerve.",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 9",
+    "reviewed": true
   },
   {
     "id": "p41q2",
@@ -1122,7 +1277,9 @@
       "Subscapularis",
       "Latissimus Dorsi"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "notes": "Topic not found in the provided slide deck. Slide 8 mentions the 'bicipital groove of humerus' only as a lateral-wall landmark (alongside coracobrachialis and biceps); no slide describes which muscles insert into its floor or lips.",
+    "reviewed": true
   },
   {
     "id": "p41q3",
@@ -1137,7 +1294,10 @@
       "Subclavius",
       "Posterior lymph node"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Slide 4 states the apex is bounded medially by the outer border of the first rib (anteriorly by the clavicle, posteriorly by the upper border of the scapula). 'Inner border' reverses the correct landmark; subclavius is an anterior WALL muscle, not an apex boundary; 'posterior lymph node' is not listed as a boundary structure at all.",
+    "slideRef": "L3- Axilla, Slide 4",
+    "reviewed": true
   },
   {
     "id": "p41q4",
@@ -1152,7 +1312,9 @@
       "Teres Major",
       "Pectoralis Major"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "notes": "Topic not found in the provided slide deck. As with the bicipital-groove floor question (p41q2), the deck names the bicipital groove only as a lateral-wall landmark (Slide 8) and never describes muscle insertions onto its lips.",
+    "reviewed": true
   },
   {
     "id": "p42q5",
@@ -1167,7 +1329,10 @@
       "Radial nerve",
       "Musculocutaneous nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The median nerve's palmar digital branches supply the nails and dorsal surface of the distal phalanx of the lateral 3½ digits, which includes the index finger (Slide 16). Ulnar nerve supplies the medial 1½ digits, not the index; radial nerve supplies dorsal skin of the proximal/middle phalanges only, not the nail bed; musculocutaneous nerve has no cutaneous distribution in the hand.",
+    "slideRef": "L7- The Hand, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p42q6",
@@ -1182,7 +1347,10 @@
       "Radial nerve",
       "Superficial branch of the radial nerve"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Slide 24 states the radial artery 'lies medial to the superficial branch of the radial nerve' as it runs down the forearm, so this branch travels alongside it laterally. The median nerve runs centrally with the anterior compartment muscles, not with the radial artery; the ulnar nerve accompanies the ulnar artery instead (Slide 27); by the level of the forearm the radial nerve trunk has already divided into superficial and deep branches (Slide 47), so it is the superficial branch specifically, not the undivided radial nerve, that runs with the artery.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 24",
+    "reviewed": true
   },
   {
     "id": "p42q7",
@@ -1197,7 +1365,10 @@
       "Highest Thoracic",
       "Thoracoacromial"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Slide 14 lists the subscapular artery as one of the third part's three branches (together with the anterior and posterior circumflex humeral arteries). The lateral thoracic and thoracoacromial arteries arise from the second part; the highest (superior) thoracic artery is the sole first-part branch.",
+    "slideRef": "L3- Axilla, Slide 14",
+    "reviewed": true
   },
   {
     "id": "p43-1",
@@ -1215,7 +1386,9 @@
     "lecture": "L2- Back, Shoulder, and Scapular Region",
     "sourcePage": 44,
     "prompt": "Enumerate the muscles that form the Rotator Cuff:",
-    "answer": "Supraspinatus\nInfraspinatus\nSubscapularis\nTeres Minor"
+    "answer": "Supraspinatus\nInfraspinatus\nSubscapularis\nTeres Minor",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 21",
+    "reviewed": true
   },
   {
     "id": "p45-1",
@@ -1224,7 +1397,9 @@
     "lecture": "L2- Back, Shoulder, and Scapular Region",
     "sourcePage": 45,
     "prompt": "Enumerate the muscles that attach to the Greater Tubercle of the Humerus:",
-    "answer": "Teres Minor\nSupraspinatus\nInfraspinatus"
+    "answer": "Teres Minor\nSupraspinatus\nInfraspinatus",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 18",
+    "reviewed": true
   },
   {
     "id": "p46q1",
@@ -1269,7 +1444,10 @@
       "Radial Nerve",
       "Median Nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The ulnar nerve supplies the little finger on both palmar and dorsal surfaces via its palmar cutaneous branch and its superficial/dorsal digital branches to the medial 1½ digits (Slide 16). It is not a combined ulnar-and-radial supply, nor purely radial or median, since those nerves cover the lateral or dorsal-proximal aspects of other digits, not the little finger.",
+    "slideRef": "L7- The Hand, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p46q4",
@@ -1299,7 +1477,10 @@
       "Ulnar",
       "Musculocutaneous"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The radial nerve lies directly against the humeral shaft as it winds through the spiral groove in the posterior compartment (Slides 7, 20), so a mid-shaft humeral fracture puts this nerve at risk. The axillary nerve relates to the surgical neck of the humerus, not the shaft; the ulnar nerve runs medially, well away from the shaft, toward the medial epicondyle; the musculocutaneous nerve runs anteriorly between biceps and brachialis, not against the humerus.",
+    "slideRef": "L4- The Arm, Slide 20",
+    "reviewed": true
   },
   {
     "id": "p47q6",
@@ -1344,8 +1525,12 @@
       "Trapezium",
       "Hamate"
     ],
-    "answerIndex": 3,
-    "notes": "Answer key marks 'Hamate', but standard anatomy teaches that the radial pulse is palpated against the distal end of the radius — verify."
+    "answerIndex": 0,
+    "answerCorrected": true,
+    "explanation": "Slide 25 gives the radial pulse site as 'the distal part of forearm, on anterior surface of radius, covered only by skin & fascia,' with the anatomical snuffbox (floored by the scaphoid, Slide 51) as the alternative site — both landmarks are the radius (or scaphoid), not the hamate. Ulna and trapezium are never cited in the deck as radial pulse landmarks; the hamate appears only as a carpal-tunnel boundary structure (Slide 32), unrelated to the radial pulse.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 25",
+    "notes": "Answer key marked 'Hamate', but Slide 25 and Slide 51 both state the radial pulse is taken on the anterior surface of the distal radius (or within the anatomical snuffbox, floored by the scaphoid) — not against the hamate. Corrected to Radius.",
+    "reviewed": true
   },
   {
     "id": "p48q9",
@@ -1359,7 +1544,10 @@
       "Flexor digitorum superficialis"
     ],
     "answerIndex": 1,
-    "notes": "Source page only shows options a and b legibly; options c and d were blank in the scan."
+    "explanation": "Flexor digitorum superficialis attaches to all three bones — Slide 15 shows its humero-ulnar head arising from the medial epicondyle of the humerus and the coronoid process of the ulna, and its radial head from the oblique line of the radius. Flexor digitorum profundus (Slide 16) originates only from the ulna and interosseous membrane, with no humeral or radial attachment.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 15",
+    "notes": "Source page only shows options a and b legibly; options c and d were blank in the scan.",
+    "reviewed": true
   },
   {
     "id": "p48q10",
@@ -1373,6 +1561,9 @@
       "Internal thoracic"
     ],
     "answerIndex": 1,
+    "explanation": "Slide 18 names the internal thoracic (mammary) artery as the source of 60% of the breast's blood supply medially, via its medial mammary branches. The lateral thoracic artery, per the same slide, feeds the lateral mammary branches instead.",
+    "slideRef": "L1- Pectoral Region and Mammary Gland, Slide 18",
+    "reviewed": true,
     "notes": "Source page only shows options a and b legibly; options c and d were blank in the scan."
   },
   {
@@ -1383,7 +1574,9 @@
     "sourcePage": 48,
     "notes": "Source page only shows option a legibly; options b-d were blank in the scan. [converted from single-option MCQ to flashcard during merge]",
     "prompt": "Which of the following structures make up the anterior axillary fold?",
-    "answer": "Pectoralis major"
+    "answer": "Pectoralis major",
+    "slideRef": "L3- Axilla, Slide 5",
+    "reviewed": true
   },
   {
     "id": "p48q12",
@@ -1399,7 +1592,10 @@
       "Brachialis - anconeus"
     ],
     "answerIndex": 2,
-    "notes": "Fixed typo 'Brachioraadialis' to 'Brachioradialis'."
+    "explanation": "Slide 40 states brachioradialis 'rotates forearm to midprone position,' in addition to flexing the elbow. Biceps brachii is a strong supinator, not a mid-prone rotator; triceps extends the elbow; brachialis and anconeus (option d) also act at the elbow (flexion and extension respectively) and play no role in forearm rotation.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 40",
+    "notes": "Fixed typo 'Brachioraadialis' to 'Brachioradialis'.",
+    "reviewed": true
   },
   {
     "id": "p49q13",
@@ -1413,7 +1609,10 @@
       "Upper 8 ribs"
     ],
     "answerIndex": 1,
-    "notes": "Source page only shows options a and b legibly; options c and d were blank in the scan."
+    "notes": "Source page only shows options a and b legibly; options c and d were blank in the scan.",
+    "explanation": "Slide 8's illustration of serratus anterior shows its fleshy digitations arising from a broad span of the upper ribs of the thoracic wall, matching 'upper 8 ribs' rather than a narrow origin limited to ribs 3-5.",
+    "slideRef": "L3- Axilla, Slide 8",
+    "reviewed": true
   },
   {
     "id": "p49q14",
@@ -1428,7 +1627,10 @@
       "Ulnar"
     ],
     "answerIndex": 1,
-    "notes": "Source page only shows options a-c legibly; option d was blank in the scan."
+    "notes": "Source page only shows options a-c legibly; option d was blank in the scan.",
+    "explanation": "The radial nerve courses directly against the humeral shaft in the spiral groove (Slides 7, 20), making it the nerve most at risk with a shaft-level humeral fracture. The axillary nerve is associated with the surgical neck of the humerus, not the shaft, and the ulnar nerve runs medially near the elbow, away from the shaft.",
+    "slideRef": "L4- The Arm, Slide 20",
+    "reviewed": true
   },
   {
     "id": "p49q15",
@@ -1457,7 +1659,8 @@
       "Subscapularis"
     ],
     "answerIndex": 1,
-    "notes": "Fixed typo 'ubscapularis' to 'Subscapularis'. Source page only shows options a and b legibly; options c and d were blank in the scan."
+    "notes": "Fixed typo 'ubscapularis' to 'Subscapularis'. Source page only shows options a and b legibly; options c and d were blank in the scan. Additionally, topic not found in the provided slide deck: subscapularis is named only as a posterior-wall muscle (Slides 8-9); no slide states its insertion onto the lesser tuberosity.",
+    "reviewed": true
   },
   {
     "id": "p50q17",
@@ -1472,7 +1675,10 @@
       "Cephalic vein",
       "Pectoralis minor"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Slide 15 states the axillary artery runs lateral to the axillary vein, i.e., the vein lies medial to the artery. The cords of the brachial plexus surround the artery (lateral, medial, and posterior), rather than lying purely medial to it; the cephalic vein lies anterior, crossing the first part before draining into the axillary vein; pectoralis minor crosses anterior to the artery, not medial to it.",
+    "slideRef": "L3- Axilla, Slide 15",
+    "reviewed": true
   },
   {
     "id": "p51q1",
@@ -1488,7 +1694,10 @@
       "Highest thoracic"
     ],
     "answerIndex": 1,
-    "notes": "Fixed typo 'Anterior circumflex numeral' to 'Anterior circumflex humeral'."
+    "notes": "Fixed typo 'Anterior circumflex numeral' to 'Anterior circumflex humeral'.",
+    "explanation": "Slide 14 lists the second part's two branches as the thoracoacromial and lateral thoracic arteries. Anterior circumflex humeral and subscapular arteries arise from the third part; highest (superior) thoracic artery is the first part's sole branch.",
+    "slideRef": "L3- Axilla, Slide 14",
+    "reviewed": true
   },
   {
     "id": "p51q2",
@@ -1503,7 +1712,10 @@
       "Teres major",
       "Pectoralis major"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Slide 5 states the anterior axillary fold is formed by the lower border of pectoralis major, while the posterior fold is formed by latissimus dorsi and teres major (both wrong here since they form the posterior, not anterior, fold). Subclavius is an anterior-wall muscle but lies deep to pectoralis major and does not reach the fold itself.",
+    "slideRef": "L3- Axilla, Slide 5",
+    "reviewed": true
   },
   {
     "id": "p51q3",
@@ -1518,7 +1730,9 @@
       "Axillary nerve",
       "Brachial artery"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "notes": "Topic not found in the provided slide deck. The quadrangular (quadrilateral) space and its contents are not mentioned or diagrammed anywhere in this deck.",
+    "reviewed": true
   },
   {
     "id": "p51q4",
@@ -1533,7 +1747,10 @@
       "Adduction of the arm",
       "Extension of the arm at shoulder joint"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Anterior fibers of deltoid flex (and medially rotate) the arm at the shoulder joint (Slide 14). Lateral rotation and extension are actions of the posterior fibers, not the anterior ones; adduction is not listed as a deltoid action on the slide.",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 14",
+    "reviewed": true
   },
   {
     "id": "p52q5",
@@ -1548,7 +1765,10 @@
       "Extension shoulder",
       "Adduction arm"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The slide states anterior deltoid fibers flex and medially rotate the arm (Slide 14), so medial rotation is a directly supported action of the anterior fibers. Extension of the shoulder is instead a posterior-fiber action; adduction is not listed as a deltoid action on the slide; flexion is also true of the anterior fibers per the same slide, but medial rotation is the option marked here.",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 14",
+    "reviewed": true
   },
   {
     "id": "p52q6",
@@ -1563,7 +1783,10 @@
       "Biceps brachii",
       "Trapezius"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Infraspinatus is one of the four rotator cuff muscles (subscapularis, supraspinatus, infraspinatus, teres minor) shown surrounding and stabilizing the shoulder joint (Slide 21). Triceps brachii and biceps brachii are arm muscles, not part of the rotator cuff; trapezius is a superficial back muscle that moves the scapula, not a rotator cuff muscle.",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 21",
+    "reviewed": true
   },
   {
     "id": "p52q7",
@@ -1579,7 +1802,10 @@
       "Nuchal line"
     ],
     "answerIndex": 0,
-    "notes": "Fixed typos 'trapizus' to 'trapezius' and 'dose ... inserted' to 'does ... insert'."
+    "notes": "Fixed typos 'trapizus' to 'trapezius' and 'dose ... inserted' to 'does ... insert'.",
+    "explanation": "Trapezius's upper fibers insert into the posterior aspect of the lateral third of the clavicle (Slide 8). The medial two-thirds and medial third of the clavicle are not trapezius insertion sites; the nuchal line is part of its origin, not its insertion.",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 8",
+    "reviewed": true
   },
   {
     "id": "p52q8",
@@ -1609,7 +1835,10 @@
       "Brachial artery",
       "Cord and branches of brachial plexus"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Slide 12 lists the axilla's contents as the axillary artery, the axillary vein and its tributaries, the cords and branches of the brachial plexus, axillary lymph nodes/vessels, and axillary fat. The basilic vein is only a tributary that joins to form the axillary vein, not a separately listed content; the subclavian and brachial arteries lie outside the axilla — Slide 13 shows the subclavian artery becomes the axillary artery at the first rib, and the axillary artery becomes the brachial artery at teres major.",
+    "slideRef": "L3- Axilla, Slide 12",
+    "reviewed": true
   },
   {
     "id": "p53q10",
@@ -1640,7 +1869,10 @@
       "Serratus anterior"
     ],
     "answerIndex": 0,
-    "notes": "Answer key marks 'Pectoralis major', but standard anatomy teaches the anterior boundary of the apex of the axilla is the posterior surface of the clavicle (middle third); pectoralis major forms the anterior WALL of the axilla, not the apex — verify."
+    "notes": "Slide 4 confirms the apex of the axilla is bounded anteriorly by the CLAVICLE (posteriorly by the upper border of the scapula, medially by the outer border of the first rib) — pectoralis major forms part of the anterior WALL of the axilla, not the apex boundary. None of the four listed options (pectoralis major, trapezius, deltoid, serratus anterior) matches the slide's actual answer of 'clavicle,' so the marked answer cannot be corrected to a slide-supported option. Left unchanged; flagged as a flawed question (correct answer is missing from the option list).",
+    "explanation": "Slide 4 explicitly states the apex is bounded anteriorly by the clavicle, not by pectoralis major — pectoralis major instead forms part of the anterior WALL of the axilla (Slide 8), a different boundary from the apex. Trapezius, deltoid, and serratus anterior are also not listed on Slide 4 as apex boundaries. Since 'clavicle' is not among the given options, no option here is actually correct per the slide.",
+    "slideRef": "L3- Axilla, Slide 4",
+    "reviewed": true
   },
   {
     "id": "p53q12",
@@ -1655,7 +1887,10 @@
       "Medial part of 1st rib to lateral border of pectoralis major",
       "2nd rib to 6th rib"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 14 gives the breast's base as extending medially to the lateral margin of the sternum and laterally to the mid-axillary line (with 2nd rib superiorly and 6th rib inferiorly), matching 'sternum to mid axillary line.' 'Lateral border of pectoralis major' is not the stated lateral limit; '1st rib' and '2nd-6th rib' describe the superior-inferior extent, not the medial-lateral axis asked about here.",
+    "slideRef": "L1- Pectoral Region and Mammary Gland, Slide 14",
+    "reviewed": true
   },
   {
     "id": "p54q14",
@@ -1671,7 +1906,10 @@
       "Serratus anterior"
     ],
     "answerIndex": 1,
-    "notes": "Original text read 'abducts the arm from 90-15 degrees' (numbers reversed) — fixed to '15-90 degrees' to match the standard teaching that deltoid abducts the arm through this range."
+    "notes": "Original text read 'abducts the arm from 90-15 degrees' (numbers reversed) — fixed to '15-90 degrees' to match the standard teaching that deltoid abducts the arm through this range.",
+    "explanation": "The middle fibers of deltoid abduct the arm from 15° to 90° (Slide 14). Trapezius assists abduction only above 90° by rotating the scapula upward together with serratus anterior (Slide 9); supraspinatus initiates abduction only from 0-15° (Slide 16); serratus anterior alone is not credited with this action range on the slides.",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 14",
+    "reviewed": true
   },
   {
     "id": "p54q15",
@@ -1686,7 +1924,10 @@
       "Pronation",
       "Dorsiflexion"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The Superior Radioulnar Joint slide illustrates forearm rotation: contraction of pronator teres and pronator quadratus produces the 'Pronated' position shown in the diagram, turning the palm to face backward, while biceps brachii and supinator return the forearm to the 'Supinated' position with the palm facing forward. Supination is the opposite (palm forward, wrong direction); extension is a straightening movement at a different joint, not a forearm-rotation term; dorsiflexion is not used anywhere in this deck (it is an ankle-joint term).",
+    "slideRef": "L9- Joints of Upper Limb and Radiology, Slide 36",
+    "reviewed": true
   },
   {
     "id": "p54q16",
@@ -1701,7 +1942,9 @@
       "Medial rotation",
       "Flexion of shoulder"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "notes": "Topic not found in the provided slide deck. Slide 8-9 name subscapularis only as a posterior-wall muscle; no slide states its action.",
+    "reviewed": true
   },
   {
     "id": "p56q1",
@@ -1760,7 +2003,10 @@
       "adductor magnus"
     ],
     "answerIndex": 1,
-    "image": "questions/p57-hip-xray.jpg"
+    "image": "questions/p57-hip-xray.jpg",
+    "explanation": "Adductor longus originates from the front of the body of the pubis, inferior to the pubic crest — right at the angle next to the pubic tubercle (Slide 9) — so a bony projection there with pain on adduction points to adductor longus. Gracilis arises lower down from the inferior pubic ramus and ischial ramus, adductor brevis from the outer surface of the inferior pubic ramus, and adductor magnus from the ischial ramus/tuberosity — none sit at the pubic-tubercle origin site the way adductor longus does.",
+    "slideRef": "Medial Compartment of the Thigh, Slide 9",
+    "reviewed": true
   },
   {
     "id": "p57q5",
@@ -1807,7 +2053,10 @@
       "ulnar nerve"
     ],
     "answerIndex": 0,
-    "image": "questions/p58-thenar-wasting.jpg"
+    "image": "questions/p58-thenar-wasting.jpg",
+    "explanation": "Thenar wasting points to median nerve compression at the wrist: the median nerve supplies all three superficial thenar muscles, and carpal tunnel compression produces weakness of thumb abduction/opposition with thenar wasting (Slide 43). Radial nerve damage causes wrist drop, not thenar wasting; musculocutaneous nerve supplies the anterior arm, not the hand; ulnar nerve damage wastes the hypothenar eminence and interossei, not the thenar group.",
+    "slideRef": "L7- The Hand, Slide 43",
+    "reviewed": true
   },
   {
     "id": "p58q8",
@@ -1822,7 +2071,10 @@
       "Radial",
       "Musculocutaneous nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Loss of sensation over the little and (medial) ring finger points to the ulnar nerve, whose palmar cutaneous and dorsal/superficial digital branches supply both surfaces of the medial 1½ digits (Slide 16). 'Ulnar and Medial' is not a real nerve pairing; radial nerve covers dorsal proximal/middle phalanges of the lateral fingers, not the little/ring fingers; musculocutaneous nerve has no cutaneous distribution in the hand.",
+    "slideRef": "L7- The Hand, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p58q9",
@@ -1837,7 +2089,10 @@
       "Extensor tendons",
       "Popliteal artery"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The extensor tendons (APL, EPB, ECRL, ECRB, EPL, ED, EI, EDM, ECU) pass through the 6 compartments deep to the extensor retinaculum at the wrist (Slide 49). Flexor tendons pass under the flexor retinaculum instead; the tibial nerve and popliteal artery are lower-limb structures unrelated to the wrist.",
+    "slideRef": "L7- The Hand, Slide 49",
+    "reviewed": true
   },
   {
     "id": "p58q10",
@@ -1882,7 +2137,10 @@
       "Glenoid labrum",
       "Rotator cuff muscles"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The Ligaments of Shoulder Joint slide lists the coracoacromial ligament as the one that 'protects the upper part of the joint', running from the coracoid process to the acromion — making it the specifically superior stabilizer. The long head of biceps is described as running through the joint via the transverse humeral ligament, not as a superior stabilizer; the glenoid labrum deepens the socket generally rather than stabilizing the superior aspect specifically; the rotator cuff muscles are named the chief overall stabilizer, not the superior-specific one.",
+    "slideRef": "L9- Joints of Upper Limb and Radiology, Slide 12",
+    "reviewed": true
   },
   {
     "id": "p59q13",
@@ -1897,7 +2155,10 @@
       "Glenoid cavity depth",
       "Coracoclavicular ligament"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The 'Factors strengthen the joint' slide lists the rotator cuff first as the muscles reinforcing the capsule — subscapularis anteriorly, supraspinatus superiorly, infraspinatus and teres minor posteriorly — making it the chief stabilizer of the shoulder joint. The deltoid is described elsewhere as a prime mover for abduction, not a capsule-reinforcing stabilizer; the glenoid cavity is explicitly called shallow and needs the labrum to deepen it, so its depth alone is not the chief stabilizer; the coracoclavicular ligament stabilizes the acromioclavicular joint, not the glenohumeral joint.",
+    "slideRef": "L9- Joints of Upper Limb and Radiology, Slide 11",
+    "reviewed": true
   },
   {
     "id": "p59q14",
@@ -2048,7 +2309,10 @@
       "sartorius",
       "Vastus lateralis"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The straight head of rectus femoris originates from the anterior inferior iliac spine (Slide 40), making rectus femoris the muscle attached there — pectineus arises from the superior ramus of the pubis (Slide 37), sartorius from the anterior superior iliac spine (Slide 28), and vastus lateralis from the intertrochanteric line, greater trochanter, and linea aspera of the femur (Slide 43), none of which is the AIIS.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 40",
+    "reviewed": true
   },
   {
     "id": "p62q24",
@@ -2093,7 +2357,10 @@
       "Rectus femoris",
       "Biceps femoris"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Sartorius is one of only two anterior-thigh muscles that act on both the hip and knee, and it flexes both joints (Slide 51, detailed on Slide 28) — rectus femoris, the other dual-joint muscle, flexes the hip but extends, not flexes, the knee (Slide 51), while gracilis and biceps femoris belong to compartments not covered as hip-and-knee flexors in this deck.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 51",
+    "reviewed": true
   },
   {
     "id": "p63q27",
@@ -2108,8 +2375,12 @@
       "Radiocarpal joint",
       "Lunotriquetral ligament"
     ],
-    "answerIndex": 1,
-    "notes": "Answer key marks 'scapholunate ligament'; tenderness classically localized over the scaphoid more often suggests scaphoid fracture — verify."
+    "answerIndex": 2,
+    "notes": "Answer key marked B (scapholunate ligament), a structure never mentioned anywhere in this deck. The 'Wrist joint injury' slide discusses exactly this fall-on-outstretched-hand-with-scaphoid-tenderness scenario, and the Wrist Joint slide shows the scaphoid is part of the radiocarpal joint's distal articular surface. Corrected to C (Radiocarpal joint).",
+    "answerCorrected": true,
+    "explanation": "The 'Wrist joint injury' slide describes exactly this scenario: a fall on the outstretched hand strains the wrist (radiocarpal) joint, and in a young adult the scaphoid — one of the radiocarpal joint's distal articulating bones (Slide 44) — is the bone 'commonly fractured', with symptoms that can be confused with other wrist joint pathology. Of the given options, this points to the radiocarpal joint, not the radioulnar joint (a separate joint between radius and ulna, unrelated to scaphoid tenderness); the deck never mentions a scapholunate or lunotriquetral ligament at all.",
+    "slideRef": "L9- Joints of Upper Limb and Radiology, Slide 49",
+    "reviewed": true
   },
   {
     "id": "p63q28",
@@ -2156,7 +2427,10 @@
       "Acromion"
     ],
     "answerIndex": 0,
-    "image": "questions/p64-shoulder-mri.jpg"
+    "image": "questions/p64-shoulder-mri.jpg",
+    "explanation": "This is an axial MRI of the shoulder matching the labeled rotator-cuff MRI slide in the deck, which identifies the subscapularis tendon lying anteriorly, supraspinatus and the coraco-acromial ligament superiorly, infraspinatus posterosuperiorly, and teres minor posteroinferiorly around the humeral head. Infraspinatus and teres minor sit posterior to the humeral head rather than anteriorly; the acromion is a bony process of the scapula, distinct from the labeled soft-tissue/tendon structures in this cut.",
+    "slideRef": "L9- Joints of Upper Limb and Radiology, Slide 26",
+    "reviewed": true
   },
   {
     "id": "p64q31",
@@ -2171,7 +2445,10 @@
       "Vastus lateralis",
       "Tibialis anterior"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The hamstring (ischial) portion of adductor magnus is shown originating from the ramus of the ischium and the ischial tuberosity (Slide 12), making adductor magnus the muscle with an ischial tuberosity origin. Pectineus and vastus lateralis are not shown arising from the ischial tuberosity in this deck, and tibialis anterior is a leg (not thigh) muscle unrelated to these origin sites.",
+    "slideRef": "Medial Compartment of the Thigh, Slide 12",
+    "reviewed": true
   },
   {
     "id": "p64q32",
@@ -2186,7 +2463,12 @@
       "Tibial tuberosity",
       "Greater trochanter of femur"
     ],
-    "answerIndex": 0
+    "answerIndex": 1,
+    "answerCorrected": true,
+    "explanation": "The adductor portion of adductor magnus runs from the inferior ramus of the pubis to the gluteal tuberosity and linea aspera of the femur (Slide 13's table). The adductor tubercle is the insertion of the muscle's separate hamstring portion, not the adductor portion, ruling out A; tibial tuberosity and greater trochanter are not listed as adductor magnus insertions at all.",
+    "slideRef": "Medial Compartment of the Thigh, Slide 13",
+    "notes": "Answer key marked A (Adductor tubercle); Slide 13's table clearly shows the adductor portion of adductor magnus inserts into the gluteal tuberosity and linea aspera, while the adductor tubercle is where the muscle's separate hamstring portion inserts. Corrected to B (Linea aspera of femur).",
+    "reviewed": true
   },
   {
     "id": "p64q33",
@@ -2276,7 +2558,10 @@
       "Adductor longus and gracilis",
       "Adductor magnus and obturator externus"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "In the obturator nerve diagram, the posterior division runs deep to adductor brevis after supplying obturator externus, then continues on to adductor magnus, while the anterior division runs superficial to supply adductor longus, gracilis, and part of adductor brevis (Slide 16). So the posterior division's muscles are obturator externus and adductor magnus, not adductor longus, which is anterior-division territory.",
+    "slideRef": "Medial Compartment of the Thigh, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p66q39",
@@ -2383,7 +2668,10 @@
       "Gluteus Maximus",
       "Biceps Femoris"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Rectus femoris is listed among the flexors of the thigh at the hip joint (Slide 55), consistent with its straight head crossing the hip joint (Slide 40) — vastus intermedius arises from the femoral shaft and does not cross the hip, and neither gluteus maximus nor biceps femoris appear among this deck's anterior-compartment hip flexors.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 55",
+    "reviewed": true
   },
   {
     "id": "p71q7",
@@ -2399,7 +2687,10 @@
       "Ossifies with age"
     ],
     "answerIndex": 3,
-    "image": "questions/p71-wrist-xray.jpg"
+    "image": "questions/p71-wrist-xray.jpg",
+    "explanation": "The 'Wrist joint injury' slide notes that in a young child a fall on the outstretched hand can displace the distal radial epiphysis — the cartilaginous growth plate near the wrist seen on X-ray. This growth-plate cartilage is not yet ossified in a child and ossifies as the person matures, matching 'ossifies with age.' It is not fibrocartilage (the deck's fibrocartilage examples are the glenoid labrum and the wrist's triangular articular disc); it does not itself connect two bones (that describes a ligament); and it is not a fracture.",
+    "slideRef": "L9- Joints of Upper Limb and Radiology, Slide 49",
+    "reviewed": true
   },
   {
     "id": "p71q8",
@@ -2476,7 +2767,10 @@
       "Biceps brachii"
     ],
     "answerIndex": 1,
-    "notes": "Fixed typos 'felxor carpi radials' to 'flexor carpi radialis' and 'extensor carpi radials brevis' to 'extensor carpi radialis brevis'."
+    "explanation": "Slide 46 states the deep branch of the radial nerve 'enters posterior comp. of forearm, pierces the supinator muscle' before continuing on as the posterior interosseous nerve. Flexor carpi radialis and biceps brachii are anterior-compartment/arm muscles unrelated to this branch; extensor carpi radialis brevis is supplied by the deep branch (Slide 36) but is not the muscle it physically pierces to reach the posterior compartment.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 46",
+    "notes": "Fixed typos 'felxor carpi radials' to 'flexor carpi radialis' and 'extensor carpi radials brevis' to 'extensor carpi radialis brevis'.",
+    "reviewed": true
   },
   {
     "id": "p73q5",
@@ -2526,7 +2820,10 @@
       "Pronator teres"
     ],
     "answerIndex": 0,
-    "notes": "Fixed typos 'Flexor digitorum profundos' to 'Flexor digitorum profundus' and 'flexor digitorum lounges' to 'flexor digitorum longus'."
+    "explanation": "Flexor digitorum profundus has a split nerve supply — Slide 16 shows the medial half innervated by the ulnar nerve and the lateral half by the median nerve (via its anterior interosseous branch). Flexor carpi ulnaris is supplied solely by the ulnar nerve (Slide 13); pronator teres is supplied solely by the median nerve (Slide 11); flexor digitorum longus is a leg muscle and does not appear in this forearm deck.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 16",
+    "notes": "Fixed typos 'Flexor digitorum profundos' to 'Flexor digitorum profundus' and 'flexor digitorum lounges' to 'flexor digitorum longus'.",
+    "reviewed": true
   },
   {
     "id": "p74q12",
@@ -2541,7 +2838,10 @@
       "Opponens pollicis",
       "Flexor digiti minimi brevis"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Palmaris brevis is the sole motor target of the superficial terminal branch of the ulnar nerve in the hand (Slide 18). The 1st and 2nd lumbricals and opponens pollicis are supplied by the median nerve; flexor digiti minimi brevis is supplied by the deep, not superficial, branch of the ulnar nerve.",
+    "slideRef": "L7- The Hand, Slide 18",
+    "reviewed": true
   },
   {
     "id": "p76q1",
@@ -2661,7 +2961,10 @@
       "Posterior Superior Iliac Spine",
       "Posterior Inferior Iliac Spine"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Sartorius originates from the anterior superior iliac spine (Slide 28, confirmed on Slide 54) — the anterior inferior iliac spine is instead the origin of the straight head of rectus femoris (Slide 40), and the posterior superior and posterior inferior iliac spines are not shown as sartorius attachments in this deck.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 28",
+    "reviewed": true
   },
   {
     "id": "p78q9",
@@ -2676,7 +2979,9 @@
       "Obturator artery",
       "Femoral artery"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "notes": "topic not found in the provided slide deck",
+    "reviewed": true
   },
   {
     "id": "p78q10",
@@ -2766,7 +3071,9 @@
       "Deep circumflex",
       "Superior circumflex"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "notes": "topic not found in the provided slide deck",
+    "reviewed": true
   },
   {
     "id": "p79q16",
@@ -2812,7 +3119,10 @@
       "Lateral Rotation of the knee",
       "Medial Rotation of the knee"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The four heads of quadriceps femoris insert via the common quadriceps tendon into the patella and, through the patellar ligament, the tibial tuberosity, making the group powerful extensors of the knee joint (Slide 47) — the quadriceps does not flex the knee (that is the antagonist hamstring action, Slide 46), and no rotary knee action is described for the group in this deck.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 47",
+    "reviewed": true
   },
   {
     "id": "p80q23",
@@ -2827,7 +3137,9 @@
       "Lesser sciatic foramen",
       "upper part of obturator foramen"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "notes": "topic not found in the provided slide deck",
+    "reviewed": true
   },
   {
     "id": "p80q24",
@@ -2995,7 +3307,10 @@
       "Extend the thigh",
       "Adduction of the thigh"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "At the hip joint, sartorius produces flexion, abduction, and lateral rotation of the thigh (Slide 28) — it does not medially rotate or adduct the thigh, and its hip action is flexion rather than extension.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 28",
+    "reviewed": true
   },
   {
     "id": "p89q2",
@@ -3040,7 +3355,10 @@
       "Vastus lateralis",
       "Rectus femoris"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Rectus femoris is described as the only quadriceps head that crosses the hip joint, so it alone acts on both the hip and the knee (Slide 40, confirmed on the Sartorius-vs-Rectus femoris comparison table, Slide 42) — vastus lateralis, medialis, and intermedius all arise from the femoral shaft itself and act only at the knee.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 40",
+    "reviewed": true
   },
   {
     "id": "p90q5",
@@ -3085,7 +3403,10 @@
       "Lateral rotation of the thigh",
       "Flexion of the thigh"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Obturator externus's action is given as lateral rotation of the thigh at the hip joint, and it is explicitly labeled a \"lateral rotator\" (Slide 18). Medial rotation, abduction, and flexion are not listed among its actions.",
+    "slideRef": "Medial Compartment of the Thigh, Slide 18",
+    "reviewed": true
   },
   {
     "id": "p90q8",
@@ -3100,7 +3421,10 @@
       "Femoral nerve",
       "Common peroneal nerve"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Gracilis's nerve supply is listed as the obturator nerve (Slide 5). Sural and common peroneal nerves belong to the leg, not this thigh muscle, and the femoral nerve supplies the anterior compartment, not gracilis.",
+    "slideRef": "Medial Compartment of the Thigh, Slide 5",
+    "reviewed": true
   },
   {
     "id": "p91q9",
@@ -3145,7 +3469,10 @@
       "Flexion of the leg",
       "Abduction of the thigh"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Quadriceps femoris extends the leg at the knee joint via the quadriceps mechanism (Slide 47), so paralysis would impair knee extension — dorsiflexion is an ankle movement, flexion of the leg is a hamstring (posterior compartment) action, and abduction of the thigh is not a quadriceps action, none of which this deck attributes to quadriceps femoris.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 47",
+    "reviewed": true
   },
   {
     "id": "p91q12",
@@ -3250,7 +3577,9 @@
       "Obturator artery",
       "External pudendal artery"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "notes": "topic not found in the provided slide deck",
+    "reviewed": true
   },
   {
     "id": "p93q19",
@@ -3280,7 +3609,10 @@
       "Abduction thigh",
       "Flexion leg"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Quadriceps femoris is the extensor of the leg at the knee joint via the quadriceps mechanism (Slide 47), so an injury to it would impair leg extension — adduction and abduction of the thigh are hip movements not produced by quadriceps, and flexion of the leg is a hamstring (posterior compartment) action.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 47",
+    "reviewed": true
   },
   {
     "id": "p94q21",
@@ -3385,7 +3717,10 @@
       "Median nerve",
       "Ulnar nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The profunda brachii (deep brachial) artery is explicitly described as turning backward to accompany the radial nerve in the spiral groove of the humerus (Slide 15; restated on Slide 13). Neither the median nerve nor the ulnar nerve travel with the radial nerve in the spiral groove — both remain in the anterior/medial arm and never enter the posterior compartment with it.",
+    "slideRef": "L4- The Arm, Slide 15",
+    "reviewed": true
   },
   {
     "id": "p96q2",
@@ -3400,7 +3735,10 @@
       "Infraglenoid tubercle of the scapula",
       "Posterior surface of the humerus"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The medial head of triceps is stated to arise from the lower half of the back (posterior surface) of the humerus, below and medial to the spiral groove (Slide 7). The coracoid process and supraglenoid tubercle are origins for coracobrachialis/biceps short head and biceps long head respectively (Slides 5–6), not triceps; the infraglenoid tubercle is the origin of triceps' long head, not its medial head (Slide 7).",
+    "slideRef": "L4- The Arm, Slide 7",
+    "reviewed": true
   },
   {
     "id": "p96q3",
@@ -3415,7 +3753,10 @@
       "Median nerve",
       "Tendon of biceps"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The deck's relations slide states plainly that the ulnar nerve lies medial to the brachial artery (Slide 14). The median nerve starts lateral to the artery and only crosses to become medial to it in the cubital fossa, not in the upper arm; the radial nerve leaves the anterior compartment early to wind through the posterior spiral groove; the biceps tendon is a content of the cubital fossa, not a medial relation of the artery in the upper arm.",
+    "slideRef": "L4- The Arm, Slide 14",
+    "reviewed": true
   },
   {
     "id": "p96q4",
@@ -3430,7 +3771,10 @@
       "median nerve",
       "biceps brachii tendon"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The labeled forearm dissection on Slide 1 places the median nerve on the medial side of the proximal forearm/cubital fossa, medial to the brachial artery, biceps tendon, and radial-sided structures. The deep branch of the radial nerve lies lateral, passing into the posterior compartment through supinator (Slide 46); the brachial artery sits between the median nerve and the biceps tendon, not at the medial-most position; the biceps brachii tendon is the most lateral of the four structures.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 1",
+    "reviewed": true
   },
   {
     "id": "p97q5",
@@ -3445,7 +3789,10 @@
       "Lateral",
       "Posterior"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Slide 18 states the lateral group of axillary lymph nodes lies along the medial side of the axillary vein and receives most of the lymphatics of the upper limb, except the superficial lymphatics of the lateral side, which go to the infraclavicular nodes instead — making the lateral group the main deep-drainage route. The infraclavicular (deltopectoral) nodes drain superficial lymphatics from the lateral hand/forearm/arm, not deep drainage; apical nodes receive drainage from all the other axillary groups rather than directly from the limb; posterior (subscapular) nodes drain the back.",
+    "slideRef": "L3- Axilla, Slide 18",
+    "reviewed": true
   },
   {
     "id": "p97q6",
@@ -3459,7 +3806,10 @@
       "Median nerve",
       "Ulnar nerve"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The ulnar nerve passes superficial to the flexor retinaculum, alongside the ulnar artery and the tendon of flexor carpi ulnaris (Slide 11). The tendon of flexor carpi radialis and the median nerve both pass deep to the flexor retinaculum, within the carpal tunnel (Slide 12).",
+    "slideRef": "L7- The Hand, Slide 11",
+    "reviewed": true
   },
   {
     "id": "p97q7",
@@ -3474,7 +3824,10 @@
       "Brachioradialis",
       "Pronator longus"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 12 lists flexor carpi radialis' action as 'Flexion & Abduction (radial/lateral deviation) of hand at wrist joint,' matching the question exactly. Flexor carpi ulnaris instead flexes and adducts the wrist (Slide 13); brachioradialis acts at the elbow rather than producing wrist movements (Slide 40); 'pronator longus' is not a muscle covered in this deck (pronator teres pronates the forearm, it does not move the wrist).",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 12",
+    "reviewed": true
   },
   {
     "id": "p97q8",
@@ -3489,7 +3842,10 @@
       "Flexor digitorum",
       "Pronator teres"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Flexor digitorum profundus is supplied by both nerves — Slide 16 shows the medial half innervated by the ulnar nerve and the lateral half by the median nerve (anterior interosseous branch). Flexor digitorum superficialis is supplied entirely by the median nerve (Slide 15); 'flexor digitorum' is not a distinct muscle in this deck; pronator teres is supplied solely by the median nerve (Slide 11).",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 16",
+    "reviewed": true
   },
   {
     "id": "p98q9",
@@ -3504,7 +3860,10 @@
       "Superior ulnar collateral",
       "Inferior ulnar collateral"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Slide 23 states the common interosseous artery 'arises from the upper part of the ulnar artery' before dividing into anterior and posterior interosseous branches. Profunda brachii and the superior/inferior ulnar collateral arteries are branches of the brachial artery given off in the arm, not of the ulnar artery itself.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 23",
+    "reviewed": true
   },
   {
     "id": "p98q10",
@@ -3519,7 +3878,10 @@
       "Anconeus",
       "Pronator Teres"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 40 credits brachioradialis with rotating the forearm to the mid-prone position, alongside flexing the elbow. Pronator quadratus fully pronates the forearm rather than resting it mid-prone (Slide 19); anconeus only extends the elbow (Slide 43); pronator teres pronates the forearm rather than bringing it to neutral/mid-prone (Slide 11).",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 40",
+    "reviewed": true
   },
   {
     "id": "p98q11",
@@ -3533,7 +3895,10 @@
       "Radial nerve",
       "Deep branch of radial nerve"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Abductor pollicis longus is one of the deep-group posterior-compartment muscles that Slide 36 lists as supplied by the deep branch of the radial nerve, and it reappears under the posterior interosseous nerve (the deep branch's continuation) on the branch diagram in Slide 49. The median nerve supplies the anterior compartment, not this muscle; the undivided radial nerve trunk in the forearm only directly supplies brachioradialis, ECRL, and part of brachialis/anconeus (Slide 48), not abductor pollicis longus.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 36",
+    "reviewed": true
   },
   {
     "id": "p98q12",
@@ -3547,7 +3912,9 @@
       "Proximal phalanx of the thumb",
       "Extensor expansion"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "notes": "topic not found in the provided slide deck — the slides identify EPL as a snuffbox border and as occupying compartment 3 of the extensor retinaculum, but do not state its distal insertion.",
+    "reviewed": true
   },
   {
     "id": "p99q13",
@@ -3562,7 +3929,10 @@
       "Extensor pollicis brevis tendon",
       "Extensor pollicis longus tendon"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The extensor carpi ulnaris tendon occupies the 6th (most medial) compartment deep to the extensor retinaculum (Slide 49). Extensor digiti minimi lies in compartment 5, extensor pollicis brevis in compartment 1, and extensor pollicis longus in compartment 3 — none is the 6th compartment.",
+    "slideRef": "L7- The Hand, Slide 49",
+    "reviewed": true
   },
   {
     "id": "p99q14",
@@ -3577,7 +3947,9 @@
       "Extensor pollicis longus",
       "Flexor pollicis longus"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "notes": "topic not found in the provided slide deck — the slides list APL, EPB, EPL, and FPL as snuffbox/compartment structures but do not state their specific insertions.",
+    "reviewed": true
   },
   {
     "id": "p99q15",
@@ -3592,7 +3964,10 @@
       "Triquetrum",
       "Pisiform"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The scaphoid forms the floor of the anatomical snuffbox (Slide 38). Lunate, triquetrum, and pisiform are carpal bones but are not part of the snuffbox floor.",
+    "slideRef": "L7- The Hand, Slide 38",
+    "reviewed": true
   },
   {
     "id": "p99q16",
@@ -3607,7 +3982,10 @@
       "By forming deep palmar arch",
       "By forming superficial palmar arch"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The radial artery ends in the hand by dividing into the princeps pollicis artery and, mainly, the deep palmar arch (Slide 33). It does not terminate by splitting into deep/superficial branches or into anterior/posterior interosseous vessels, and it forms the deep — not the superficial — palmar arch, which is instead formed mainly by the ulnar artery.",
+    "slideRef": "L7- The Hand, Slide 33",
+    "reviewed": true
   },
   {
     "id": "p100q17",
@@ -3622,7 +4000,9 @@
       "Ulnar nerve",
       "Musculocutaneous nerve"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "notes": "Topic not found in the provided slide deck. Slide 26's cadaver photo labels the musculocutaneous nerve near the lateral-wall muscles but does not label coracobrachialis itself or state that the nerve pierces it; no other slide addresses this relationship.",
+    "reviewed": true
   },
   {
     "id": "p100q18",
@@ -3667,7 +4047,10 @@
       "Ulnar",
       "Medial"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The musculocutaneous nerve ends as the lateral cutaneous nerve of the forearm, which is stated to supply the skin of the front and lateral forearm down to the root of the thumb (Slide 17). The radial and ulnar nerves have their own separate cutaneous territories shown on the sensory map (Slides 21, 23), and 'medial' is not a distinct forearm nerve in the deck — it names a cutaneous branch of the medial cord unrelated to the lateral forearm.",
+    "slideRef": "L4- The Arm, Slide 17",
+    "reviewed": true
   },
   {
     "id": "p101q21",
@@ -3681,7 +4064,10 @@
       "Radial nerve",
       "Median nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The dorsal branch of the ulnar nerve supplies the medial 1/3 of the dorsum of the hand, covering the entire dorsal (upper) surface of the little finger (Slide 17). Radial nerve covers the lateral dorsum of the hand and lateral fingers, not the little finger; median nerve is mainly palmar and does not supply the little finger at all.",
+    "slideRef": "L7- The Hand, Slide 17",
+    "reviewed": true
   },
   {
     "id": "p101q22",
@@ -3697,7 +4083,10 @@
       "Adductor pollicis"
     ],
     "answerIndex": 3,
-    "notes": "This page (101) also contains a section-divider graphic ('Upper limb (5)' topic list) below these two questions; only the two real questions were extracted."
+    "notes": "This page (101) also contains a section-divider graphic ('Upper limb (5)' topic list) below these two questions; only the two real questions were extracted. Note: the slide's own table (Slide 26) lists adductor pollicis as one of the '4 muscles of the thenar eminence,' but marks it as the outlier of the group — supplied by the deep branch of the ulnar nerve rather than the median nerve that supplies the other three — consistent with standard teaching that it is not part of the visible thenar bulge; answer left unchanged since the slide does not unambiguously overturn it.",
+    "explanation": "Flexor pollicis brevis and opponens pollicis are both median-nerve-supplied thenar muscles (Slide 26). 'Adductor pollicis brevis' is not a real muscle name in the deck (likely intended as abductor pollicis brevis, itself median-supplied and thenar); adductor pollicis is listed in the same table but is the deep, ulnar-nerve-supplied outlier of the group, distinct from the other three superficial thenar muscles.",
+    "slideRef": "L7- The Hand, Slide 26",
+    "reviewed": true
   },
   {
     "id": "p102q1",
@@ -3742,7 +4131,10 @@
       "Rectus Femoris",
       "Semitendinosus"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Sartorius flexes both the hip and the knee (Slide 51, detailed on Slide 28) — vastus medialis only extends the knee, rectus femoris flexes the hip but extends, not flexes, the knee (Slide 51), and semitendinosus is not covered as an anterior-thigh flexor in this deck.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 51",
+    "reviewed": true
   },
   {
     "id": "p103q5",
@@ -3787,7 +4179,10 @@
       "suprascapular nerve",
       "dorsal scapular nerve"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Supraspinatus is supplied by the suprascapular nerve, which also supplies infraspinatus (Slide 16). Upper and lower subscapular nerves supply subscapularis, not supraspinatus (Slide 15); the dorsal scapular nerve supplies levator scapulae and the rhomboids (Slides 11-12).",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p103q8",
@@ -3832,7 +4227,10 @@
       "Long thoracic nerve",
       "Spinal accessory nerve"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Trapezius, supplied by the spinal accessory nerve, works with serratus anterior to rotate the scapula upward for arm abduction above 90° (Slide 9); the accessory nerve runs superficially in the neck and is at risk during neck operations, so its injury blocks abduction past 90°. Axillary nerve injury would instead affect deltoid and teres minor, impairing abduction largely from 15-90° (Slides 14, 25); suprascapular nerve injury affects supraspinatus/infraspinatus and would impair initiating abduction (0-15°) rather than movement above 90° (Slide 16); the long thoracic nerve is not discussed anywhere in this deck.",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 9",
+    "reviewed": true
   },
   {
     "id": "p104q11",
@@ -3938,7 +4336,10 @@
       "Median N.",
       "Ulnar N."
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The radial nerve is the nerve shown winding through the spiral groove of the humerus (Slide 20; the groove is also labeled on the triceps diagram, Slide 7), so injury there affects the radial nerve. The axillary nerve relates instead to the surgical neck of the humerus, the median nerve stays anterior/medial toward the cubital fossa, and the ulnar nerve runs medially behind the medial epicondyle — none of them pass through the spiral groove.",
+    "slideRef": "L4- The Arm, Slide 20",
+    "reviewed": true
   },
   {
     "id": "p106q19",
@@ -3953,7 +4354,10 @@
       "Pronator teres",
       "Palmaris longus"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 13 shows the ulnar head of flexor carpi ulnaris arising from 'the medial aspect of the olecranon process & posterior border of ulna.' Flexor carpi radialis and palmaris longus arise only from the medial epicondyle of the humerus (Slides 12, 14), with no olecranon attachment; pronator teres arises from the medial epicondyle and the coronoid process, not the olecranon (Slide 11).",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 13",
+    "reviewed": true
   },
   {
     "id": "p106q20",
@@ -3983,7 +4387,10 @@
       "Upper border of teres major",
       "Lower border of teres minor"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 13 states the axillary artery begins at the lateral border of the first rib, as the continuation of the subclavian artery. 'Lower border of 1st rib' and 'upper border of teres major' are not the stated origin; the lower border of teres major (not teres minor) is instead where the axillary artery ENDS, continuing as the brachial artery.",
+    "slideRef": "L3- Axilla, Slide 13",
+    "reviewed": true
   },
   {
     "id": "p107q22",
@@ -3998,7 +4405,10 @@
       "Humerus",
       "Long head of triceps"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Teres major forms the inferior boundary of the quadrangular space, with teres minor forming the superior border, the long head of triceps the medial border, and the surgical neck of the humerus together with the lateral head of triceps forming the lateral border (Slide 27). Teres minor bounds the space superiorly, not inferiorly; the humerus itself (its surgical neck) is a lateral boundary, not inferior; long head of triceps is medial, not inferior.",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 27",
+    "reviewed": true
   },
   {
     "id": "p107q23",
@@ -4013,7 +4423,10 @@
       "Rhomboid major",
       "Rhomboid minor"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The lower third of the lateral border of the scapula gives origin to teres major (Slide 17). Teres minor instead arises from the upper two-thirds of the lateral border; rhomboid major and rhomboid minor both attach to the medial border of the scapula, not the lateral border (Slide 12).",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 17",
+    "reviewed": true
   },
   {
     "id": "p107q24",
@@ -4028,7 +4441,10 @@
       "Extensor carpi radialis brevis",
       "Extensor carpi radialis longus"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Slide 48 lists extensor carpi radialis longus among the muscles supplied directly by muscular branches of the radial nerve trunk itself (with brachioradialis and part of brachialis/anconeus), given off before the nerve divides into superficial and deep branches. Extensor carpi radialis brevis is instead supplied by the deep branch after the radial nerve divides (Slide 36); flexor digitorum longus and extensor digitorum longus are lower-limb muscles, not part of this forearm deck.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 48",
+    "reviewed": true
   },
   {
     "id": "p108q25",
@@ -4088,7 +4504,10 @@
       "Coracobrachialis",
       "Pronator quadratus"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Biceps brachii's actions explicitly include supination of the forearm (Slide 5). Brachialis and coracobrachialis have no supination action listed — their actions are limited to elbow flexion and shoulder flexion/weak adduction (Slide 6) — and pronator quadratus is a pronator by name and is never described as a supinator anywhere in this deck.",
+    "slideRef": "L4- The Arm, Slide 5",
+    "reviewed": true
   },
   {
     "id": "p109q29",
@@ -4103,7 +4522,10 @@
       "Internal mammary nodes",
       "Posterior mediastinal nodes"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Slide 20 states that 75% of total breast lymph drains into the axillary lymph nodes. Internal thoracic (parasternal) nodes receive the medial-quadrant 20%, posterior intercostal/mediastinal nodes receive the posterior 5%, and the thoracic duct is not named on the slide as a direct breast drainage route.",
+    "slideRef": "L1- Pectoral Region and Mammary Gland, Slide 20",
+    "reviewed": true
   },
   {
     "id": "p109q30",
@@ -4118,7 +4540,10 @@
       "Ulnar artery",
       "Tendon of flexor pollicis longus"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The tendon of flexor pollicis longus, with its synovial sheath, passes deep to the flexor retinaculum at the wrist (Slide 12). The tendon of palmaris longus, the ulnar nerve, and the ulnar artery all pass superficial to the flexor retinaculum instead (Slide 11).",
+    "slideRef": "L7- The Hand, Slide 12",
+    "reviewed": true
   },
   {
     "id": "p109q31",
@@ -4142,7 +4567,9 @@
     "lecture": "L1- Pectoral Region and Mammary Gland",
     "sourcePage": 110,
     "prompt": "Give the origin, insertion, nerve supply, and action of pectoralis major.",
-    "answer": "Origin:\n- Clavicular head: Medial half of the clavicle\n- Sternocostal head: Sternum, Upper six costal cartilages, Aponeurosis of external oblique muscle\nInsertion:\n- Lateral lip of the intertubercular (bicipital) groove of the humerus\nNerve Supply:\n- Medial pectoral nerve (C8-T1)\n- Lateral pectoral nerve (C5-C7)\nActions:\n- Adduction of the arm\n- Medial rotation of the arm\n- Flexion of the arm (clavicular head)\n- Extension from flexed position (sternocostal head)"
+    "answer": "Origin:\n- Clavicular head: Medial half of the clavicle\n- Sternocostal head: Sternum, Upper six costal cartilages, Aponeurosis of external oblique muscle\nInsertion:\n- Lateral lip of the intertubercular (bicipital) groove of the humerus\nNerve Supply:\n- Medial pectoral nerve (C8-T1)\n- Lateral pectoral nerve (C5-C7)\nActions:\n- Adduction of the arm\n- Medial rotation of the arm\n- Flexion of the arm (clavicular head)\n- Extension from flexed position (sternocostal head)",
+    "slideRef": "L1- Pectoral Region and Mammary Gland, Slide 9",
+    "reviewed": true
   },
   {
     "id": "p111-1",
@@ -4162,7 +4589,9 @@
     "sourcePage": 112,
     "prompt": "Brachial Artery – Beginning, Termination, Branches:",
     "answer": "Beginning:\n- Starts at the lower border of teres major\n- It is the continuation of the axillary artery\nTermination:\n- Ends at the level of the neck of the radius, in the cubital fossa\n- Divides into: Radial artery, Ulnar artery\nBranches:\n1. Profunda brachii artery (deep artery of arm)\n2. Superior ulnar collateral artery\n3. Inferior ulnar collateral artery\n4. Muscular branches (to anterior arm muscles)\n5. Nutrient artery (to humerus)",
-    "notes": "This page shows only the filled-in content, consistent with the flashcard format used elsewhere in this source; no separate blank prompt page was found for it."
+    "notes": "This page shows only the filled-in content, consistent with the flashcard format used elsewhere in this source; no separate blank prompt page was found for it.",
+    "slideRef": "L4- The Arm, Slide 12",
+    "reviewed": true
   },
   {
     "id": "p113q3",
@@ -4177,7 +4606,10 @@
       "Adductor longus",
       "Psoas major"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Rectus femoris flexes the thigh at the hip and extends the leg at the knee (Slide 51, matching the formative-assessment answer on Slide 60) — sartorius flexes both joints rather than extending the knee, and adductor longus and psoas major are not shown producing knee extension in this deck.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 51",
+    "reviewed": true
   },
   {
     "id": "p114q6",
@@ -4237,7 +4669,10 @@
       "Nerve supplied by obturator nerve",
       "Nerve supplied by femoral nerve"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Gracilis is nerve-supplied by the obturator nerve (Slide 5). Its origin is from the outer surface of the inferior pubic ramus and ischial ramus, not the medial part of the superior ramus, ruling out A; it inserts into the upper medial surface of the tibial shaft (the \"SGS\"/pes anserinus group), not the linea aspera, ruling out B; and femoral-nerve supply (D) is wrong since it's obturator.",
+    "slideRef": "Medial Compartment of the Thigh, Slide 5",
+    "reviewed": true
   },
   {
     "id": "p115q11",
@@ -4252,7 +4687,10 @@
       "Quadratus femoris",
       "Biceps femoris"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Rectus femoris flexes the thigh at the hip and extends the leg at the knee (Slide 51, matching the formative-assessment answer on Slide 60) — sartorius flexes both joints instead of extending the knee, and quadratus femoris and biceps femoris are gluteal/posterior muscles not covered as hip flexor/knee extensors in this deck.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 51",
+    "reviewed": true
   },
   {
     "id": "p115q12",
@@ -4267,7 +4705,10 @@
       "Innervated by obturator nerve",
       "Innervated by femoral nerve"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Gracilis's nerve supply is stated as the obturator nerve (Slide 5), making C the true statement. Its actual origin is the outer surface of the inferior pubic ramus and ischial ramus (not the superior ramus, ruling out A), and it inserts into the upper medial surface of the tibial shaft, not the linea aspera (ruling out B); D is wrong since it is not femoral-nerve supplied.",
+    "slideRef": "Medial Compartment of the Thigh, Slide 5",
+    "reviewed": true
   },
   {
     "id": "p116q13",
@@ -4282,7 +4723,10 @@
       "Subclavian",
       "Popliteal"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Slide 13 states the axillary artery begins at the lateral border of the first rib as a continuation of the subclavian artery. The brachial artery is what the axillary artery becomes distally, not its origin; the common carotid and popliteal arteries have no continuity with the axillary artery on this slide.",
+    "slideRef": "L3- Axilla, Slide 13",
+    "reviewed": true
   },
   {
     "id": "p117q1",
@@ -4447,7 +4891,10 @@
       "Iliac fossa of hip bone",
       "Anterior superior iliac spine"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Sartorius originates from the anterior superior iliac spine (Slide 28, confirmed on Slide 54) — the superior ramus of the pubis is pectineus's origin (Slide 37), the iliac fossa is iliacus's origin (Slide 32), and the posterior superior iliac spine is not a sartorius attachment shown in this deck.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 28",
+    "reviewed": true
   },
   {
     "id": "p119q4",
@@ -4582,7 +5029,10 @@
       "Posterior compartment of the thigh",
       "Gluteal region"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The medial compartment's nerve supply is stated as the obturator nerve (Slide 4). The anterior, posterior, and gluteal regions are not listed under obturator nerve territory in this deck.",
+    "slideRef": "Medial Compartment of the Thigh, Slide 4",
+    "reviewed": true
   },
   {
     "id": "p122q13",
@@ -4747,7 +5197,9 @@
       "Upper part of obturator foramen",
       "Ischial ramus"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "notes": "topic not found in the provided slide deck",
+    "reviewed": true
   },
   {
     "id": "p124q24",
@@ -4777,7 +5229,10 @@
       "Flexion of the hip",
       "Medial rotation of the leg"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The quadriceps mechanism is described as producing powerful extension of the knee joint (Slide 47) — it does not flex the knee, flexion of the hip is a separate action belonging only to the rectus femoris head (not the mechanism as a whole), and medial rotation of the leg is not attributed to the quadriceps mechanism in this deck.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 47",
+    "reviewed": true
   },
   {
     "id": "p125q26",
@@ -4882,7 +5337,10 @@
       "Deep branch of ulnar artery",
       "Radial artery alone"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The superficial palmar arch is formed mainly by the ulnar artery, communicating laterally with the superficial branch of the radial artery (Slide 34). It is not formed by the superficial branch of the radial artery alone, by the deep branch of the ulnar artery (which contributes to the deep arch instead), or by the radial artery alone (which forms the deep arch).",
+    "slideRef": "L7- The Hand, Slide 34",
+    "reviewed": true
   },
   {
     "id": "p128q3",
@@ -4943,7 +5401,10 @@
       "Obturator externus",
       "Adductor longus"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "In the obturator nerve diagram, adductor brevis lies sandwiched between the nerve's anterior division (passing superficial to it) and posterior division (passing deep to it), consistent with receiving branches from both (Slide 16). Pectineus and adductor longus sit in the anterior division's territory only, and obturator externus in the posterior division's territory only.",
+    "slideRef": "Medial Compartment of the Thigh, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p129q3",
@@ -4958,7 +5419,10 @@
       "Infraspinatus",
       "Latissimus dorsi"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Infraspinatus laterally rotates the arm and stabilizes the shoulder joint (Slide 16). Teres major medially rotates and adducts the arm instead (Slide 17); latissimus dorsi medially rotates, adducts, and extends the arm (Slide 10); pectoralis major is not covered in this deck, but among the given options only infraspinatus is credited with lateral rotation.",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p129q4",
@@ -4973,7 +5437,12 @@
       "Trochanteric fossa",
       "Anterior border of greater trochanter"
     ],
-    "answerIndex": 2
+    "answerIndex": 0,
+    "answerCorrected": true,
+    "explanation": "Obturator externus's fibers pass laterally, below and then behind the hip joint, to insert into the medial side of the greater trochanter (Slide 18) — matching \"medial surface of greater trochanter,\" not the lateral surface or anterior border, and the slide's own wording never says \"trochanteric fossa.\"",
+    "slideRef": "Medial Compartment of the Thigh, Slide 18",
+    "notes": "Answer key marked C (Trochanteric fossa); Slide 18 explicitly states the fibers are \"inserted into medial side of greater trochanter,\" matching option A's wording. Corrected to A (Medial surface of greater trochanter).",
+    "reviewed": true
   },
   {
     "id": "p130q1",
@@ -5019,7 +5488,8 @@
       "Median nerve"
     ],
     "answerIndex": 0,
-    "notes": "Question references an X-ray image that was not present/rendered on this source page and is not among the 9 pre-extracted images in this test bank — needs image extraction if the original source is located."
+    "notes": "topic not found in the provided slide deck — question references an X-ray image that is not present among the 54 rendered slide pages or the pre-extracted question images, so the nerve-injury scenario it depicts cannot be verified against this deck.",
+    "reviewed": true
   },
   {
     "id": "p130q4",
@@ -5049,7 +5519,12 @@
       "Pronator teres",
       "Supinator"
     ],
-    "answerIndex": 2
+    "answerIndex": 0,
+    "answerCorrected": true,
+    "explanation": "Slide 15 states the radial head of flexor digitorum superficialis arises from 'the oblique line on anterior surface of shaft of radius' — matching the question's wording exactly. Flexor digitorum profundus originates from the ulna only, not the radius (Slide 16); pronator teres inserts on the middle of the lateral shaft of the radius, with no mention of the oblique line (Slide 11); supinator attaches to the neck and upper shaft of the radius, also not the oblique line (Slide 46).",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 15",
+    "notes": "Answer key marked C (Pronator teres); Slide 15 clearly shows the radial head of flexor digitorum superficialis arising from the oblique line on the anterior surface of the radius, while pronator teres inserts on the lateral aspect of the radial shaft (Slide 11) with no mention of the oblique line. Corrected to A (Flexor digitorum superficialis).",
+    "reviewed": true
   },
   {
     "id": "p131q2",
@@ -5064,7 +5539,10 @@
       "Shoulder abduction",
       "Supination and pronation"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The Superior Radioulnar Joint slide shows the annular ligament forming a collar around the head of the radius, holding it against the radial notch of the ulna; this joint's only movements, around a vertical axis, are pronation and supination, so injury to the annular ligament disrupts forearm rotation. Elbow flexion and extension happen at the humero-ulnar/humero-radial hinge joint, not through the annular ligament; shoulder abduction is produced by deltoid and supraspinatus, unrelated to this ligament.",
+    "slideRef": "L9- Joints of Upper Limb and Radiology, Slide 36",
+    "reviewed": true
   },
   {
     "id": "p131q3",
@@ -5109,7 +5587,10 @@
       "Gracilis",
       "Adductor brevis"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The deck's own review question pairs pectineus and adductor magnus as the two muscles with double nerve supply, offering \"a & b\" as a combined answer choice (Slide 26), and adductor magnus's dual (obturator + tibial part of sciatic) supply is explicitly taught elsewhere (Slide 12). By contrast, adductor longus, gracilis, and adductor brevis are each shown with only the obturator nerve as their nerve supply (Slides 9, 5, and 11), leaving pectineus as the muscle with dual innervation among the options given here.",
+    "slideRef": "Medial Compartment of the Thigh, Slide 26",
+    "reviewed": true
   },
   {
     "id": "p132q2",
@@ -5155,7 +5636,10 @@
       "Entire muscle by ulnar nerve",
       "Medial half by median nerve, lateral half by ulnar nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 16 explicitly states flexor digitorum profundus is innervated by the 'ulnar nerve (medial half)' and 'median nerve (lateral half)' via its anterior interosseous branch, matching option A exactly. The other options either assign the whole muscle to a single nerve or swap which half belongs to which nerve — both contradicted by the same slide.",
+    "slideRef": "L5,6- The Forearm (Posterior & Anterior), Slide 16",
+    "reviewed": true
   },
   {
     "id": "p133q1",
@@ -5170,7 +5654,10 @@
       "Lumbricals only",
       "Extrinsic hand muscles"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The slide lists putting the hand into the writing position as an action of the dorsal interossei (Slide 30). Thenar and hypothenar muscles govern thumb/little-finger opposition and grip, not fine finger control; lumbricals alone are not credited with this role on the slide (the writing-position action is attributed to the interossei); extrinsic hand muscles provide gross power grip rather than fine intrinsic control.",
+    "slideRef": "L7- The Hand, Slide 30",
+    "reviewed": true
   },
   {
     "id": "p133q2",
@@ -5185,7 +5672,9 @@
       "Pure hinge movement",
       "Limited range of motion"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "notes": "topic not found in the provided slide deck — the deck identifies the sternoclavicular joint as a saddle joint but never discusses the thumb carpometacarpal joint or saddle-joint characteristics such as thumb opposition.",
+    "reviewed": true
   },
   {
     "id": "p133q3",
@@ -5200,7 +5689,10 @@
       "Radial artery",
       "Deep branch of radial nerve"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The radial artery runs superficially as it crosses toward the anatomical snuffbox near the extensor retinaculum region (Slide 39), while the slide's explicit list of structures superficial to the extensor retinaculum itself covers veins, the superficial branch of the radial nerve, and the dorsal branch of the ulnar nerve (Slide 13). The superficial branch of the ulnar nerve is actually a palmar hand structure, not this one; the median nerve lies deep, under the flexor retinaculum on the palmar side; the deep branch of the radial nerve (posterior interosseous nerve) runs deep in the forearm.",
+    "slideRef": "L7- The Hand, Slide 13",
+    "reviewed": true
   },
   {
     "id": "p133q4",
@@ -5215,7 +5707,10 @@
       "Ulnar nerve",
       "Median nerve"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Slide 15's relations diagram places the musculocutaneous nerve as the most lateral structure related to the axillary artery at this level (it has already left the neurovascular bundle to enter coracobrachialis), while the axillary vein, ulnar nerve, and medial cutaneous nerves lie medial to the artery. The median nerve is also positioned lateral to the artery in the same diagram, but sits closer to the vessel than the more laterally-placed musculocutaneous nerve.",
+    "slideRef": "L3- Axilla, Slide 15",
+    "reviewed": true
   },
   {
     "id": "p134q1",
@@ -5230,7 +5725,10 @@
       "Subscapular artery",
       "Internal thoracic artery"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Slide 14 lists the subscapular artery among the third part's three branches (with the anterior and posterior circumflex humeral arteries). Superior (highest) thoracic artery is the first-part branch; thoracoacromial artery arises from the second part; internal thoracic artery is not a branch of the axillary artery at all on this slide.",
+    "slideRef": "L3- Axilla, Slide 14",
+    "reviewed": true
   },
   {
     "id": "p134q2",
@@ -5261,7 +5759,10 @@
       "Third palmar interosseous"
     ],
     "answerIndex": 1,
-    "notes": "The middle finger is conventionally the axis of the hand and is not itself adducted by a palmar interosseous, so the wording/numbering of this question is unusual — transcribed as given from the source answer key."
+    "notes": "The middle finger is conventionally the axis of the hand and is not itself adducted by a palmar interosseous, so the wording/numbering of this question is unusual — transcribed as given from the source answer key.",
+    "explanation": "The slide credits the palmar interossei, supplied by the ulnar nerve, with adducting the fingers (Slide 30), so a palmar interosseous is the type of muscle implicated in loss of adduction (per the source key's numbering, preserved as noted above). The dorsal interossei abduct rather than adduct, so damage to a dorsal interosseous would impair abduction, not adduction.",
+    "slideRef": "L7- The Hand, Slide 30",
+    "reviewed": true
   },
   {
     "id": "p134q4",
@@ -5276,7 +5777,9 @@
       "Widening of acromion",
       "Humerus anterior to glenoid cavity"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "notes": "topic not found in the provided slide deck — the deck's dislocation slides cover only inferior/anterior shoulder dislocation on X-ray and do not mention posterior dislocation or the lightbulb sign.",
+    "reviewed": true
   },
   {
     "id": "p135q1",
@@ -5291,7 +5794,10 @@
       "Coracobrachialis muscle",
       "Teres minor tendon"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The 'Factors strengthen the joint' slide shows the coracoacromial arch (acromion, coracoacromial ligament and coracoid process) forming a secondary socket directly over the head of the humerus, with the supraspinatus tendon of the rotator cuff running beneath it — the space where the tendon can be compressed, making the acromion the structure most implicated. The coracoid process and coracobrachialis lie anteriorly, away from this subacromial space; teres minor lies posteriorly and is not part of the subacromial compartment shown.",
+    "slideRef": "L9- Joints of Upper Limb and Radiology, Slide 11",
+    "reviewed": true
   },
   {
     "id": "p135q2",
@@ -5306,7 +5812,10 @@
       "Scaphoid",
       "Triquetrum"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The 'Wrist joint injury' slide identifies the scaphoid as the carpal bone 'commonly fractured' after a fall on the outstretched hand in young adults, and warns its injury signs are easily confused with a simple wrist ligament strain — reflecting how easily a scaphoid injury can be missed or under-recognized. The pisiform, hamate, and triquetrum are not discussed anywhere in the deck as fracture-prone or diagnostically tricky bones.",
+    "slideRef": "L9- Joints of Upper Limb and Radiology, Slide 49",
+    "reviewed": true
   },
   {
     "id": "p135q3",
@@ -5352,7 +5861,10 @@
       "Trapezius",
       "Rhomboid major"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Trapezius is supplied by the spinal part of the accessory nerve (Slide 9). Latissimus dorsi is supplied by the thoracodorsal nerve (Slide 10); levator scapulae by C3-C4 and the dorsal scapular nerve (Slide 11); rhomboid major by the dorsal scapular nerve (Slide 12).",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 9",
+    "reviewed": true
   },
   {
     "id": "p136q2",
@@ -5368,7 +5880,10 @@
       "Rhomboid minor"
     ],
     "answerIndex": 2,
-    "notes": "Answer key marks C (Trapezius), though pain specifically localized between the scapulae (medial border) is classically associated with rhomboid dysfunction — verify."
+    "notes": "Answer key marks C (Trapezius). Slide 9 shows trapezius works with serratus anterior to rotate the scapula upward specifically for arm abduction above 90°, which supports trapezius's involvement in that motion, but the deck does not explicitly describe a clinical picture of localized interscapular pain to settle the trapezius-vs-rhomboid dispute. Kept as marked because the slides do not directly settle the specific disputed point, per review guidance.",
+    "explanation": "The deck credits trapezius (working with serratus anterior) with rotating the scapula upward specifically for arm abduction above 90° (Slide 9), which is consistent with trapezius involvement in this scenario, though the slides do not explicitly describe the interscapular pain pattern itself. Deltoid mediates abduction mainly from 15-90°, not the phase above 90° described here (Slide 14); serratus anterior partners with trapezius for this motion but is not otherwise discussed in the deck; rhomboid minor's listed actions are elevation and retraction of the scapula, not a role tied to abduction above 90° (Slide 12).",
+    "slideRef": "L2- Back, Shoulder, and Scapular Region, Slide 9",
+    "reviewed": true
   },
   {
     "id": "p136q3",
@@ -5399,7 +5914,11 @@
       "Apical nodes",
       "Infraclavicular nodes"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Slide 22 breaks breast lymph drainage down by quadrant: the upper lateral quadrant drains to the pectoral (anterior) axillary nodes, while the lower lateral quadrant plus the axillary tail drains specifically to the subscapular (posterior) axillary nodes. 'Subscapular' is not offered as an option here, so the marked answer (pectoral) does not match the slide's specific statement for the axillary tail.",
+    "slideRef": "L1- Pectoral Region and Mammary Gland, Slide 22",
+    "reviewed": true,
+    "notes": "Slide 22 explicitly states the axillary tail (with the lower lateral quadrant) drains to the subscapular (posterior) axillary nodes, not pectoral nodes; 'subscapular' is not among the given options, so this could not be corrected to a slide-supported choice. Left unchanged — flagged for review."
   },
   {
     "id": "p137q1",
@@ -5474,7 +5993,10 @@
       "Adductor brevis",
       "Gracilis"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Adductor magnus has two heads spanning both bones named in the question: the adductor portion arises from the inferior ramus of the pubis, and the hamstring portion from the ischial ramus and ischial tuberosity (Slide 12) — so it originates from both the pubic bone and the ischial tuberosity. Biceps femoris, adductor brevis, and gracilis are not shown with this dual pubic-plus-ischial-tuberosity origin.",
+    "slideRef": "Medial Compartment of the Thigh, Slide 12",
+    "reviewed": true
   },
   {
     "id": "p138q3",
@@ -5702,7 +6224,10 @@
       "Adductor longus",
       "Pectineus"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Adductor longus is described as triangular and the most anteriorly placed of the three adductor muscles, spanning from the front of the body of the pubis down to the linea aspera (Slide 9) — this broad triangular span across the front of the pubic region is the basis for it being regarded as supporting the pubic arch. Sartorius is shown originating up near the ilium rather than the pubis (Slide 2), gracilis is a thin, strap-like muscle rather than a broad support (Slide 5), and pectineus is not one of this compartment's five muscles at all (Slide 4).",
+    "slideRef": "Medial Compartment of the Thigh, Slide 9",
+    "reviewed": true
   },
   {
     "id": "p142q2",
@@ -5732,7 +6257,10 @@
       "Deep branch of ulnar nerve",
       "Radial nerve"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Flexor digiti minimi, a hypothenar muscle, is supplied by the deep branch of the ulnar nerve (Slide 27). Median nerve supplies thenar and lateral lumbrical muscles, not hypothenar muscles; the superficial branch of the ulnar nerve supplies only palmaris brevis plus sensation, not flexor digiti minimi; radial nerve has no motor supply to intrinsic hand muscles.",
+    "slideRef": "L7- The Hand, Slide 27",
+    "reviewed": true
   },
   {
     "id": "p142q4",
@@ -5762,7 +6290,10 @@
       "Palmar cutaneous branch of median nerve",
       "Flexor digitorum profundus tendon"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The palmar cutaneous branch of the median nerve passes superficial to the flexor retinaculum, supplying skin over the lateral palm (Slide 11). The ulnar nerve trunk is also listed as superficial to the retinaculum on the same slide, so is not anatomically 'wrong', but the branch specifically tested here is the median nerve's cutaneous branch; the main trunk of the median nerve and the flexor digitorum profundus tendon are both deep to the retinaculum, within the carpal tunnel (Slide 12).",
+    "slideRef": "L7- The Hand, Slide 11",
+    "reviewed": true
   },
   {
     "id": "p143q2",
@@ -5802,7 +6333,9 @@
     "lecture": "L7- The Hand",
     "sourcePage": 144,
     "prompt": "Describe the ulnar nerve in the hand including its beginning, course, and distribution.",
-    "answer": "Beginning:\nThe ulnar nerve enters the hand through Guyon's canal, superficial to the flexor retinaculum, between the pisiform and the hook of hamate.\n\nCourse:\nWithin the hand, the ulnar nerve divides into a superficial branch and a deep branch. The deep branch passes across the palm with the deep palmar arch.\n\nDistribution:\nMotor: Supplies the intrinsic muscles of the hand (interossei, medial two lumbricals, adductor pollicis, and deep head of FPB).\nSensory: Supplies the palmar surface of the little finger and the medial half of the ring finger."
+    "answer": "Beginning:\nThe ulnar nerve enters the hand through Guyon's canal, superficial to the flexor retinaculum, between the pisiform and the hook of hamate.\n\nCourse:\nWithin the hand, the ulnar nerve divides into a superficial branch and a deep branch. The deep branch passes across the palm with the deep palmar arch.\n\nDistribution:\nMotor: Supplies the intrinsic muscles of the hand (interossei, medial two lumbricals, adductor pollicis, and deep head of FPB).\nSensory: Supplies the palmar surface of the little finger and the medial half of the ring finger.",
+    "slideRef": "L7- The Hand, Slide 18",
+    "reviewed": true
   },
   {
     "id": "p145-1",
@@ -5811,7 +6344,9 @@
     "lecture": "L3- Axilla",
     "sourcePage": 145,
     "prompt": "Describe the axilla including its walls, base, apex, and contents.",
-    "answer": "Walls:\nAnterior wall: Pectoralis major and pectoralis minor, subclavius\nPosterior wall: Subscapularis, teres major, and latissimus dorsi\nMedial wall: Serratus anterior, upper 4-5 ribs, inter-costal spaces\nLateral wall: Coracobrachialis, biceps muscles, bicipital groove of humerus\n\nBase:\nThe lower end of the axilla formed by skin stretching between the anterior and posterior walls.\nBounded:\nMedially by the chest wall\nAnteriorly by the anterior axillary fold\nPosteriorly by the posterior axillary fold\n\nApex:\nAnteriorly: clavicle\nPosteriorly: upper border of scapula\nMedially: outer border of first rib\n\nContents:\nAxillary artery and its branches\nAxillary vein and its tributaries\nCords and branches of the brachial plexus\nAxillary lymph nodes\nAxillary fat\nAxillary tail"
+    "answer": "Walls:\nAnterior wall: Pectoralis major and pectoralis minor, subclavius\nPosterior wall: Subscapularis, teres major, and latissimus dorsi\nMedial wall: Serratus anterior, upper 4-5 ribs, inter-costal spaces\nLateral wall: Coracobrachialis, biceps muscles, bicipital groove of humerus\n\nBase:\nThe lower end of the axilla formed by skin stretching between the anterior and posterior walls.\nBounded:\nMedially by the chest wall\nAnteriorly by the anterior axillary fold\nPosteriorly by the posterior axillary fold\n\nApex:\nAnteriorly: clavicle\nPosteriorly: upper border of scapula\nMedially: outer border of first rib\n\nContents:\nAxillary artery and its branches\nAxillary vein and its tributaries\nCords and branches of the brachial plexus\nAxillary lymph nodes\nAxillary fat\nAxillary tail",
+    "slideRef": "L3- Axilla, Slide 8",
+    "reviewed": true
   },
   {
     "id": "p146-1",
@@ -5820,7 +6355,9 @@
     "lecture": "L9- Joints of Upper Limb and Radiology",
     "sourcePage": 146,
     "prompt": "Describe the wrist joint including its type, capsule, ligaments, movements, and nerve supply.",
-    "answer": "Type:\nThe wrist joint (radiocarpal joint) is a synovial joint of ellipsoid type.\n\nArticulating surfaces:\nProximally: distal end of the radius and articular disc of ulna\nDistally: proximal row of carpal bones (scaphoid, lunate, triquetrum)\n\nCapsule:\nThe joint is enclosed by a fibrous capsule which is attached proximally to the radius and articular disc, and distally to the proximal row of carpal bones. The capsule is lined by synovial membrane.\n\nLigaments:\nPalmar radiocarpal ligament\nDorsal radiocarpal ligament\nRadial collateral ligament\nUlnar collateral ligament\n\nMovements (Actions):\nFlexion\nExtension\nAbduction (radial deviation)\nAdduction (ulnar deviation)\nCircumduction\n\nNerve supply:\nMedian nerve\nRadial nerve\nUlnar nerve"
+    "answer": "Type:\nThe wrist joint (radiocarpal joint) is a synovial joint of ellipsoid type.\n\nArticulating surfaces:\nProximally: distal end of the radius and articular disc of ulna\nDistally: proximal row of carpal bones (scaphoid, lunate, triquetrum)\n\nCapsule:\nThe joint is enclosed by a fibrous capsule which is attached proximally to the radius and articular disc, and distally to the proximal row of carpal bones. The capsule is lined by synovial membrane.\n\nLigaments:\nPalmar radiocarpal ligament\nDorsal radiocarpal ligament\nRadial collateral ligament\nUlnar collateral ligament\n\nMovements (Actions):\nFlexion\nExtension\nAbduction (radial deviation)\nAdduction (ulnar deviation)\nCircumduction\n\nNerve supply:\nMedian nerve\nRadial nerve\nUlnar nerve",
+    "slideRef": "L9- Joints of Upper Limb and Radiology, Slide 44",
+    "reviewed": true
   },
   {
     "id": "p147-1",
