@@ -2444,7 +2444,10 @@
       "Extensor digitorum longus",
       "Gastrocnemius"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Peroneus brevis produces both plantar flexion (weak) and eversion of the foot (Slide 69). Tibialis posterior plantar flexes but inverts rather than everts; extensor digitorum longus dorsiflexes the foot, not plantarflexes; gastrocnemius plantar flexes but is not among the deck's listed evertors.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 69",
+    "reviewed": true
   },
   {
     "id": "p62q26",
@@ -3000,7 +3003,10 @@
       "dorsiflexion of the foot",
       "plantarflexion of the foot"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Gastrocnemius plantarflexes the foot at the ankle joint when the knee is extended, and also flexes the knee (Slide 13) — it does not extend or medially rotate the knee, nor dorsiflex the foot.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 13",
+    "reviewed": true
   },
   {
     "id": "p76q2",
@@ -3211,7 +3217,10 @@
       "support lateral longitudinal arch of the foot",
       "Dorsiflexion of the foot"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Tibialis posterior inverts the foot at the subtalar and transverse tarsal joints and supports the medial (not lateral) longitudinal arch (Slide 31) — eversion and dorsiflexion belong to other muscles, and 'lateral longitudinal arch' names the wrong arch for this muscle.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 31",
+    "reviewed": true
   },
   {
     "id": "p79q14",
@@ -3261,7 +3270,10 @@
       "Lower anterolateral of the leg",
       "Upper anterolateral of the leg"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The superficial peroneal nerve's cutaneous branches supply the skin of the lower part of the front of the leg and dorsum of the foot — the lower anterolateral leg (Slide 75), not the medial leg or the upper leg.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 75",
+    "reviewed": true
   },
   {
     "id": "p80q21",
@@ -3329,7 +3341,10 @@
       "Soleus",
       "Gastrocnemius"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The posterior tibial artery runs on the posterior surface of tibialis posterior and passes deep to soleus and gastrocnemius (Slide 46) — so tibialis posterior lies anterior to the artery while soleus and gastrocnemius lie posterior to it, making tibialis posterior the exception.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 46",
+    "reviewed": true
   },
   {
     "id": "p81q25",
@@ -3403,7 +3418,10 @@
       "Popliteus muscle",
       "Gastrocnemius"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Gastrocnemius is listed among the plantar flexors of the foot (Slide 45); EDL and tibialis anterior are dorsiflexors, and popliteus flexes the knee rather than plantarflexing the foot.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 45",
+    "reviewed": true
   },
   {
     "id": "p86q9",
@@ -3522,7 +3540,10 @@
       "Deep peroneal nerve",
       "Saphenous nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Peroneus longus is supplied by the superficial peroneal nerve (Slide 66) — not the tibial, deep peroneal, or saphenous nerves.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 66",
+    "reviewed": true
   },
   {
     "id": "p89q3",
@@ -3732,7 +3753,10 @@
       "Tibial nerve",
       "Saphenous nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Peroneus longus's nerve supply is the superficial peroneal nerve (Slide 66) — the deep peroneal, tibial, and saphenous nerves do not supply it.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 66",
+    "reviewed": true
   },
   {
     "id": "p92q15",
@@ -3869,8 +3893,12 @@
       "Tibial nerve",
       "Obturator nerve"
     ],
-    "answerIndex": 0,
-    "notes": "Answer key marks 'Common peroneal nerve', but standard anatomy teaches the sural nerve is formed mainly by the medial sural cutaneous branch of the tibial nerve (joined by a communicating branch from the common peroneal nerve) — verify."
+    "answerIndex": 2,
+    "answerCorrected": true,
+    "explanation": "The deck's nerve-origin table lists the sural nerve's origin as a branch of the tibial nerve, descending between the two heads of gastrocnemius (Slide 10); the common peroneal nerve only contributes a small sural communicating branch that usually joins it (Slide 57), rather than being its origin. Deep peroneal and obturator nerves are unrelated to the sural nerve.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 10",
+    "notes": "Answer key marked 'Common peroneal nerve', but Slide 10 and Slide 57 both classify the sural nerve as a cutaneous branch of the tibial nerve ('Sural nerve: ... Branch of tibial nerve'), with only a communicating branch contributed by the common peroneal nerve. Corrected to C (Tibial nerve).",
+    "reviewed": true
   },
   {
     "id": "p94q23",
@@ -4520,7 +4548,10 @@
       "Flexor hallucis",
       "biceps femoris"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Flexor digitorum longus originates from the medial part of the posterior surface of the tibia, below the soleal line (Slide 38); popliteus arises from the lateral condyle of the femur, not the tibia (Slide 28), and flexor hallucis longus arises from the posterior surface of the fibula (Slide 43).",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 38",
+    "reviewed": true
   },
   {
     "id": "p105q13",
@@ -5159,7 +5190,10 @@
       "Anterior tibial artery",
       "Posterior tibial artery"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The peroneal (fibular) artery is listed as a branch of the posterior tibial artery, arising close to its origin (Slide 49) — not from the dorsalis pedis, popliteal, or anterior tibial arteries.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 49",
+    "reviewed": true
   },
   {
     "id": "p119q1",
@@ -5299,7 +5333,10 @@
       "Dorsiflexion of the foot",
       "Plantar flexion of the foot"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Gastrocnemius plantarflexes the foot at the ankle joint when the knee is extended, and also flexes the knee (Slide 13) — it does not extend or medially rotate the knee, nor dorsiflex the foot.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 13",
+    "reviewed": true
   },
   {
     "id": "p121q9",
@@ -5403,7 +5440,10 @@
       "A branch of the femoral artery",
       "A continuation of the dorsalis pedis artery"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The posterior tibial artery is one of the two terminal branches of the popliteal artery, beginning at the lower border of popliteus (Slide 46) — it is not a branch of the anterior tibial or femoral arteries, nor a continuation of the dorsalis pedis artery.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 46",
+    "reviewed": true
   },
   {
     "id": "p122q15",
@@ -5472,7 +5512,10 @@
       "Support lateral longitudinal arch of the foot",
       "Flexion of distal phalanges"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Tibialis posterior inverts the foot and supports the medial (not lateral) longitudinal arch (Slide 31); it does not evert the foot, and flexion of the distal phalanges is performed by flexor digitorum/hallucis longus, not tibialis posterior.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 31",
+    "reviewed": true
   },
   {
     "id": "p123q19",
@@ -5523,7 +5566,10 @@
       "Lower anterolateral part of the leg",
       "Upper lateral part of the leg"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The superficial peroneal nerve supplies the skin of the lower part of the front of the leg and dorsum of the foot — the lower anterolateral leg (Slide 75), not the medial leg or the upper lateral leg.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 75",
+    "reviewed": true
   },
   {
     "id": "p124q22",
@@ -5538,7 +5584,10 @@
       "Gastrocnemius",
       "Flexor hallucis longus"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The posterior tibial artery runs directly on the posterior surface of tibialis posterior, placing that muscle anterior to it, while it passes deep to soleus and gastrocnemius, which lie posterior/superficial to the artery (Slide 46).",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 46",
+    "reviewed": true
   },
   {
     "id": "p124q23",
@@ -6597,7 +6646,10 @@
       "Soleus",
       "Extensor digitorum longus"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Soleus originates from the soleal line on the posterior surface of the tibia (its upper part) plus the upper fourth of the fibula (Slide 17); extensor hallucis longus and extensor digitorum longus are anterior-compartment muscles, and flexor hallucis longus arises from the fibula, not the tibia.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 17",
+    "reviewed": true
   },
   {
     "id": "p141q1",
@@ -6704,7 +6756,10 @@
       "Peroneus (fibularis) longus",
       "Flexor hallucis longus"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Peroneus (fibularis) longus everts the foot at the subtalar and transverse tarsal joints, in addition to weak plantar flexion (Slide 66); tibialis posterior is an invertor, and flexor hallucis longus flexes the big toe rather than everting the foot.",
+    "slideRef": "Posterior and Lateral Compartments of Leg, Slide 66",
+    "reviewed": true
   },
   {
     "id": "p142q3",
