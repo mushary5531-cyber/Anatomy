@@ -976,7 +976,8 @@
       "Plantar flexion"
     ],
     "answerIndex": 1,
-    "notes": "Typos fixed: source read 'Evirsion' → 'Eversion' and 'invirsion' → 'Inversion'."
+    "reviewed": true,
+    "notes": "Typos fixed: source read 'Evirsion' → 'Eversion' and 'invirsion' → 'Inversion'. Topic not found in the provided slide deck: the deck covers foot skeleton, arches, sole/dorsum muscles, vessels and nerves, but never defines or illustrates inversion/eversion (or dorsiflexion/plantarflexion) as movements, so this answer could not be grounded to a specific slide."
   },
   {
     "id": "p23q24",
@@ -2190,7 +2191,10 @@
       "Femoral vein occlusion"
     ],
     "answerIndex": 1,
-    "notes": "Fixed typo 'tight' to 'thigh'. Source page only shows options a-c legibly."
+    "notes": "Fixed typo 'tight' to 'thigh'. Source page only shows options a-c legibly.",
+    "explanation": "Superficial inguinal lymph nodes drain all lymph from the entire lower limb, from thigh to leg (Slide 27) — so pathology/obstruction of these nodes blocks lymphatic return from the whole limb, producing the diffuse thigh-to-leg oedema described. Femoral artery thrombosis is an arterial occlusion, not a cause of oedema addressed anywhere in this venous/lymphatic drainage lecture. Femoral vein occlusion (DVT) is described in the deck as producing calf pain/tightness and calf tenderness from thrombosis in the soleal veins (Slide 16), not oedema spanning the whole thigh-to-leg.",
+    "slideRef": "Venous and Lymphatic Drainage of Leg, Slide 27",
+    "reviewed": true
   },
   {
     "id": "p59q12",
@@ -2241,7 +2245,10 @@
       "Posterior tibial artery",
       "Fibular artery"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The slide lists the arcuate artery as one of the named branches of the dorsalis pedis artery, alongside the lateral and medial tarsal arteries and the first dorsal/plantar metatarsal arteries (Slide 35). The lateral plantar artery is a branch of the posterior tibial artery, not of dorsalis pedis; the posterior tibial artery is instead the parent of the system (via anterior tibial artery) that dorsalis pedis continues from, not a branch of it; the fibular (peroneal) artery is a separate leg vessel unrelated to dorsalis pedis.",
+    "slideRef": "The Foot, Slide 35",
+    "reviewed": true
   },
   {
     "id": "p60q15",
@@ -2256,7 +2263,10 @@
       "Dorsalis pedis artery",
       "Deep femoral artery"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The slide states the lateral plantar artery, the larger terminal branch of the posterior tibial artery, curves medially on reaching the base of the 5th metatarsal to form the plantar arch (Slide 33, marked \"مهم جدا\"). The medial plantar artery is the smaller terminal branch and only supplies the medial side of the big toe, not the arch itself; the dorsalis pedis artery joins the lateral plantar artery to complete the arch but does not form it; the deep femoral artery is a thigh vessel unrelated to the foot.",
+    "slideRef": "The Foot, Slide 33",
+    "reviewed": true
   },
   {
     "id": "p60q16",
@@ -2271,7 +2281,10 @@
       "Medial cuneiform",
       "Talus head"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The slide defines the lateral longitudinal arch as consisting of the calcaneum, cuboid, and the 4th and 5th metatarsals (Slide 11), so cuboid is correct. Navicular and medial cuneiform are instead part of the medial longitudinal arch; the talus (including its head) also belongs to the medial arch, not the lateral one.",
+    "slideRef": "The Foot, Slide 11",
+    "reviewed": true
   },
   {
     "id": "p60q17",
@@ -2286,7 +2299,10 @@
       "Tibial nerve",
       "Sural nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Extensor hallucis brevis is the most medial of the four tendons of extensor digitorum brevis, and the slide gives this muscle's nerve supply (NS) as the terminal part of the deep peroneal nerve (Slide 47). The superficial peroneal nerve supplies dorsal foot skin, not this muscle; the tibial nerve supplies the sole, not dorsum muscles; the sural nerve is a purely cutaneous nerve of the lateral foot.",
+    "slideRef": "The Foot, Slide 47",
+    "reviewed": true
   },
   {
     "id": "p60q18",
@@ -2374,7 +2390,10 @@
       "Behind the lateral malleolus",
       "In the popliteal fossa"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The slide states the dorsalis pedis pulsation \"can be easily felt between the tendons of Extensor digitorum longus and Extensor halluces longus\" (Slide 50). Behind the medial malleolus is where the posterior tibial pulse is felt, not dorsalis pedis; behind the lateral malleolus and the popliteal fossa are not dorsalis pedis pulse points either.",
+    "slideRef": "The Foot, Slide 50",
+    "reviewed": true
   },
   {
     "id": "p62q23",
@@ -3086,7 +3105,10 @@
       "In front of the lateral malleolus",
       "Behind the lateral malleolus"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The great saphenous vein passes upward directly in front of the medial malleolus before ascending the medial side of the leg (Slide 3), matching the labeled diagram showing the great saphenous vein anterior to the medial malleolus (Slide 4). It does not run behind the medial malleolus, and it has no relation to the lateral malleolus at all — the vein that ascends behind the lateral malleolus is the small saphenous vein (Slide 9).",
+    "slideRef": "Venous and Lymphatic Drainage of Leg, Slide 3",
+    "reviewed": true
   },
   {
     "id": "p77q8",
@@ -3172,7 +3194,9 @@
       "Gastrocnemius",
       "Flexor Digitorum Longus"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "reviewed": true,
+    "notes": "Topic not found in the provided slide deck: the deck lists peroneus longus tendon, tibialis posterior tendon, flexor hallucis longus tendon and flexor digitorum longus tendon among the sole's muscle layers, and states only in general that \"sole muscles are chiefly concerned with supporting the arches of the foot\" (Slide 23), without ever specifying which individual muscle supports which named arch. This answer could not be grounded to a specific slide."
   },
   {
     "id": "p79q13",
@@ -3253,6 +3277,9 @@
       "Saphenous artery"
     ],
     "answerIndex": 0,
+    "explanation": "The slide states the medial plantar artery \"is the smaller of the terminal branches of the posterior Tibial artery\" (Slide 32). The anterior tibial artery instead continues as the dorsalis pedis artery, not the medial plantar; the peroneal (fibular) artery is a separate leg branch; a \"saphenous artery\" does not appear in this deck.",
+    "slideRef": "The Foot, Slide 32",
+    "reviewed": true,
     "notes": "Source question numbering skips 17-20 (jumps from 16 to 21) — those question numbers do not appear on any page in this range."
   },
   {
@@ -3347,7 +3374,9 @@
     "lecture": "The Foot",
     "sourcePage": 82,
     "prompt": "How many Tarsals are in a human foot?",
-    "answer": "7\n(Calcaneum, Talus, Navicular, Medial, middle, & lateral cuneiforms, and cuboid)"
+    "answer": "7\n(Calcaneum, Talus, Navicular, Medial, middle, & lateral cuneiforms, and cuboid)",
+    "slideRef": "The Foot, Slide 3",
+    "reviewed": true
   },
   {
     "id": "p83-1",
@@ -3632,7 +3661,9 @@
       "Peroneus longus",
       "Abductor digiti minimi"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "reviewed": true,
+    "notes": "Topic not found in the provided slide deck: tibialis posterior tendon is listed among the fourth-layer structures of the sole (Slide 28), and the deck only states in general that sole muscles support the foot's arches (Slide 23), but it never specifically ties tibialis posterior (or any other muscle) to the medial longitudinal arch. This answer could not be grounded to a specific slide."
   },
   {
     "id": "p91q11",
@@ -3665,7 +3696,10 @@
       "Tibial nerve",
       "Anterior peroneal nerve"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The slide's cutaneous nerve table shows the entire plantar surface is covered by branches of the tibial nerve: the medial calcaneal branch (heel), the medial plantar nerve (medial 2/3 of sole and medial 3.5 toes), and the lateral plantar nerve (lateral 1/3 of sole and lateral 1.5 toes) are all listed as arising from the tibial nerve (Slide 20). Medial plantar nerve alone is only one of these branches and misses the lateral third and heel; the saphenous nerve supplies the medial leg/ankle, not the sole; \"anterior peroneal nerve\" does not appear in this deck (the deep peroneal nerve supplies the dorsum, not the sole).",
+    "slideRef": "The Foot, Slide 20",
+    "reviewed": true
   },
   {
     "id": "p92q13",
@@ -3851,7 +3885,10 @@
       "Deep peroneal artery",
       "Deep planter artery"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The slide states the dorsalis pedis artery \"begins in front of the ankle as a continuation of anterior tibial artery\" (Slide 50). The posterior tibial artery instead gives rise to the medial and lateral plantar arteries, not dorsalis pedis; there is no \"deep peroneal artery\" in this deck (deep peroneal is a nerve); the deep plantar artery is a branch of dorsalis pedis itself, not its parent vessel.",
+    "slideRef": "The Foot, Slide 50",
+    "reviewed": true
   },
   {
     "id": "p94q24",
@@ -3902,7 +3939,10 @@
       "Anterior Tibial vein",
       "Posterior Tibial vein"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The great saphenous vein passes through the saphenous opening in the deep fascia to join the femoral vein (Slide 3), confirmed by the labeled diagram showing the great saphenous vein terminating at the femoral vein near the saphenous ring (Slide 5). It does not drain into the popliteal vein — that is where the small saphenous vein ends (Slide 9) — nor into the anterior or posterior tibial veins, which are deep venae comitantes of the tibial arteries (Slide 19).",
+    "slideRef": "Venous and Lymphatic Drainage of Leg, Slide 3",
+    "reviewed": true
   },
   {
     "id": "p96q1",
@@ -4372,7 +4412,10 @@
       "Superficial peroneal nerve",
       "Tibial nerve"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The slide gives the deep peroneal nerve's cutaneous branch as supplying \"adjacent side of big and 2nd toes\" on the dorsum of the foot (Slide 54). Medial plantar nerve and tibial nerve supply the sole, not the dorsum; the superficial peroneal nerve covers the rest of the dorsum's skin, but this specific web space between the 1st and 2nd toes belongs to the deep peroneal nerve.",
+    "slideRef": "The Foot, Slide 54",
+    "reviewed": true
   },
   {
     "id": "p103q7",
@@ -4459,7 +4502,10 @@
       "Navicular",
       "Cuboid"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The slide defines the lateral longitudinal arch as the calcaneum, cuboid, and the 4th and 5th metatarsals (Slide 11), so cuboid is correct. Lateral cuneiform and navicular belong to the medial longitudinal arch instead; the 3rd metatarsal is part of the transverse arch, not the lateral longitudinal arch.",
+    "slideRef": "The Foot, Slide 11",
+    "reviewed": true
   },
   {
     "id": "p104q12",
@@ -5304,7 +5350,9 @@
       "Peroneus (fibularis) brevis",
       "Flexor digitorum longus"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "reviewed": true,
+    "notes": "Topic not found in the provided slide deck: peroneus longus and flexor digitorum longus tendons are listed among the sole's muscle layers (Slides 24, 28), but peroneus brevis is not mentioned in the sole-muscle sections at all, and no slide states which of these muscles specifically maintains (or does not maintain) the lateral longitudinal arch. This answer could not be grounded to a specific slide."
   },
   {
     "id": "p121q12",
@@ -5558,7 +5606,10 @@
       "Anterior tibial artery",
       "Dorsalis pedis artery"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The slide identifies the medial plantar artery as \"the smaller of the terminal branches of the posterior Tibial artery\" (Slide 32). The peroneal artery and anterior tibial artery are separate leg vessels that do not give rise to the medial plantar artery; the dorsalis pedis artery is a continuation of the anterior tibial artery on the dorsum, not the source of the medial plantar artery.",
+    "slideRef": "The Foot, Slide 32",
+    "reviewed": true
   },
   {
     "id": "p125q27",
@@ -5591,7 +5642,10 @@
       "In front of the lateral malleolus",
       "Behind the lateral malleolus"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The great saphenous vein's course is directly in front of the medial malleolus as it ascends from the dorsal venous arch (Slide 3), consistent with the anatomical illustration labeling the great saphenous vein anterior to the medial malleolus (Slide 4). It is never behind the medial malleolus, and the lateral malleolus pathway belongs to the small saphenous vein, which ascends behind the lateral malleolus, not the great saphenous vein (Slide 9).",
+    "slideRef": "Venous and Lymphatic Drainage of Leg, Slide 3",
+    "reviewed": true
   },
   {
     "id": "p126q29",
@@ -6096,7 +6150,10 @@
       "Flexor digitorum brevis",
       "Lumbricals"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The slide's innervation table shows flexor digitorum brevis is supplied by the medial plantar nerve, unlike abductor digiti minimi and quadratus plantae which are supplied by the lateral plantar nerve (Slide 30), so it is spared when the lateral plantar nerve is injured. Dorsal interossei perform toe abduction and are lateral-plantar-nerve territory (deep branch, Slide 24/28), so they are lost, matching the injury; adductor hallucis is also supplied by the lateral plantar nerve's deep branch (Slide 24), so it is paralyzed, not spared; the lumbricals are mixed (only the 1st is medial-plantar-supplied, the 2nd-4th are lateral-plantar-supplied, Slide 24), so they are not fully spared as a group.",
+    "slideRef": "The Foot, Slide 30",
+    "reviewed": true
   },
   {
     "id": "p134q3",
@@ -6799,7 +6856,9 @@
     "lecture": "The Foot",
     "sourcePage": 149,
     "prompt": "Describe the arches of the foot, mentioning the bones forming each arch and their functions.",
-    "answer": "1) Medial longitudinal arch\nBones: Calcaneus, talus, navicular, three cuneiforms, and first three metatarsals.\nFunction: Main weight-bearing arch; Absorbs shock; Provides elasticity during walking\n\n2) Lateral longitudinal arch\nBones: Calcaneus, cuboid, and fourth and fifth metatarsals.\nFunction: Provides stability; Supports body weight; Less elastic than the medial arch\n\n3) Transverse arch\nBones: Cuboid, three cuneiforms, and bases of the metatarsals.\nFunction: Maintains the concavity of the sole; Distributes body weight across the foot; Protects plantar vessels and nerves"
+    "answer": "1) Medial longitudinal arch\nBones: Calcaneus, talus, navicular, three cuneiforms, and first three metatarsals.\nFunction: Main weight-bearing arch; Absorbs shock; Provides elasticity during walking\n\n2) Lateral longitudinal arch\nBones: Calcaneus, cuboid, and fourth and fifth metatarsals.\nFunction: Provides stability; Supports body weight; Less elastic than the medial arch\n\n3) Transverse arch\nBones: Cuboid, three cuneiforms, and bases of the metatarsals.\nFunction: Maintains the concavity of the sole; Distributes body weight across the foot; Protects plantar vessels and nerves",
+    "slideRef": "The Foot, Slide 11",
+    "reviewed": true
   },
   {
     "id": "p150-1",
