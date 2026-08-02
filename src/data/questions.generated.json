@@ -144,7 +144,9 @@
       "Increased backward thoracic curvature",
       "Lateral lumbar curvature"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "reviewed": true,
+    "notes": "topic not found in the provided slide deck — no slide defines or names kyphosis (the opening slide shows unlabeled spine-curvature illustrations with no text identifying which curve is which)"
   },
   {
     "id": "p7q1",
@@ -496,7 +498,10 @@
       "Only sympathetic",
       "Joins intercostal nerves"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 29 shows each spinal nerve splitting into a small, purely segmental dorsal ramus and a large ventral ramus — unlike the ventral rami (which interlace into limb plexuses), the dorsal rami stay segmental and simply run to the back at their own level, so they do not form plexuses. The same slide labels the dorsal ramus 'mixed,' ruling out 'only motor'; the lateral (autonomic) horn is shown as a separate outflow from the general somatic dorsal ramus, ruling out 'only sympathetic'; and Slide 19 states the intercostal nerves are formed from the anterior (ventral) rami of the thoracic nerves, not the dorsal rami, ruling out 'joins intercostal nerves.'",
+    "slideRef": "Muscles of the Back and Vertebral Column, Slide 29",
+    "reviewed": true
   },
   {
     "id": "p13q3",
@@ -583,7 +588,10 @@
       "Synovial",
       "Syndesmosis"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Intervertebral discs are secondary cartilaginous joints — Slide 6 ('Types of Joints of Vertebral Column') lists '2ry cartilaginous joints: Fibrocartilaginous intervertebral discs between the adjacent vertebral bodies,' and Slide 4 likewise labels the disc as 'the secondary cartilaginous joint (Intervertebral Disc).' They are not primary cartilaginous (a different joint category not used for the disc in the deck); not synovial (the facet/zygapophysial joints, not the discs, are the synovial joints between vertebrae per Slide 4); and not a syndesmosis (a fibrous joint uniting bones with a ligament/membrane, not the fibrocartilage disc described here).",
+    "slideRef": "Joints of the Back, Lesions, and Radiology, Slide 6",
+    "reviewed": true
   },
   {
     "id": "p15q1",
@@ -867,7 +875,9 @@
       "Excessive outward curvature of the spine",
       "Natural inward curvature of the spine"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "reviewed": true,
+    "notes": "topic not found in the provided slide deck — no slide defines or names lordosis"
   },
   {
     "id": "p21q9",
@@ -900,7 +910,10 @@
       "Large, kidney-shaped body",
       "Presence of costal facets for rib articulation"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Slide 36 states cervical vertebrae are unique for having a transverse foramen (foramen transversarium) in each transverse process, through which the vertebral artery and vein pass — the summary table (Slide 44) confirms only the cervical row lists 'with transverse foramen.' A large kidney-shaped body belongs to the lumbar vertebrae (Slide 42, Slide 44), not cervical. Costal facets for rib articulation are the defining feature of thoracic vertebrae (Slide 40, Slide 41). Cervical vertebrae do have a large vertebral foramen (Slide 36), but the summary table shows lumbar vertebrae also have a large foramen, so the transverse foramen is the feature that is truly specific to cervical vertebrae.",
+    "slideRef": "Muscles of the Back and Vertebral Column, Slide 36",
+    "reviewed": true
   },
   {
     "id": "p22q11",
@@ -915,7 +928,9 @@
       "The lower border of the first lumbar vertebra",
       "The lower border of the fourth lumbar vertebra"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "notes": "topic not found in the provided slide deck",
+    "reviewed": true
   },
   {
     "id": "p22q19",
@@ -1264,7 +1279,8 @@
       "Arachnoid and pia"
     ],
     "answerIndex": 2,
-    "notes": "Typo fixed: source read 'pina' → 'pia' (twice)."
+    "notes": "Typo fixed: source read 'pina' → 'pia' (twice). Additionally: topic not found in the provided slide deck — no slide discusses the meningeal layers (dura/arachnoid/pia) or lumbar puncture/CSF aspiration, so no explanation or slideRef could be grounded in the deck.",
+    "reviewed": true
   },
   {
     "id": "p41q1",
@@ -1434,7 +1450,10 @@
       "Vastus Medialis",
       "Gluteus Maximus"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Sartorius is listed among the muscles producing medial rotation of the knee, alongside semitendinosus, semimembranosus, popliteus, and gracilis (Slide 23). Iliopsoas is a hip flexor and does not act on the knee; vastus medialis is part of quadriceps femoris and extends the knee rather than rotating it; gluteus maximus extends and laterally rotates the hip, not the knee.",
+    "slideRef": "Joints of Lower Limb, Slide 23",
+    "reviewed": true
   },
   {
     "id": "p46q2",
@@ -5816,7 +5835,10 @@
       "Tibial collateral ligament",
       "Fibular collateral ligament"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The posterior cruciate ligament is taut during flexion and is stretched in hyperflexion injury, limiting excessive flexion of the knee (Slides 21 and 26). The anterior cruciate ligament is taut during extension and is stretched in hyperextension injury, not hyperflexion; the tibial and fibular collateral ligaments reinforce the knee capsule medially and laterally and are not described as limiting flexion.",
+    "slideRef": "Joints of Lower Limb, Slide 26",
+    "reviewed": true
   },
   {
     "id": "p131q4",
@@ -5831,7 +5853,10 @@
       "Tibial collateral ligament",
       "Fibular collateral ligament"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The slide states that if the posterior cruciate ligament is torn, the tibia can be pulled excessively backward on the femur, which is the posterior drawer sign (Slide 26). Anterior cruciate ligament tears instead produce an anterior drawer sign (excess forward tibial movement); the tibial and fibular collateral ligaments are not associated with the drawer test.",
+    "slideRef": "Joints of Lower Limb, Slide 26",
+    "reviewed": true
   },
   {
     "id": "p132q1",
@@ -5864,7 +5889,10 @@
       "Quadratus lumborum",
       "Multifidus"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The erector spinae diagrams (Slide 26, Slide 30) place iliocostalis as the most lateral of the three erector spinae columns (spinalis medial, longissimus middle, iliocostalis lateral), running along the sides of the vertebral column from the sacrum/ilium up to the ribs and neck — matching pain 'along the sides' on lateral flexion. External oblique is an anterolateral abdominal wall muscle, not one of the back muscles covered in this deck's classification of vertebral-column muscles. Quadratus lumborum is shown medial to iliocostalis lumborum, closer to the transverse processes (Slide 19, Slide 20), not at the sides. Multifidus is a deep transversospinalis muscle lying close against the spinous processes (Slide 27), not laterally placed.",
+    "slideRef": "Muscles of the Back and Vertebral Column, Slide 26",
+    "reviewed": true
   },
   {
     "id": "p132q3",
@@ -6192,7 +6220,10 @@
       "Same arterial supply",
       "Same venous drainage"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The slide directly states that the femoral and obturator nerves supply both the hip and knee joints, so pain in one joint is referred to the other (Slide 26). The sciatic nerve is not given as a shared joint-supplying nerve in this context; shared arterial supply and shared venous drainage are not the mechanism described for referred pain, which follows nerve distribution (Hilton's law), not blood vessels.",
+    "slideRef": "Joints of Lower Limb, Slide 26",
+    "reviewed": true
   },
   {
     "id": "p137q2",
@@ -6207,7 +6238,10 @@
       "Anterior longitudinal ligament",
       "Intertransverse ligaments"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The lumbar intervertebral disc (L4–L5) is the site the deck ties to back pain: Slide 49 shows an MRI of posterior herniation of the L4/5 disc with the right L5 nerve root compressed, and Slide 45 states that disc herniation with spinal stenosis in the lumbar region is 'the common cause of back pain & sciatica.' Facet (zygapophysial) joints are instead the plane synovial joints between the articular processes (Slide 4), not the lesion documented here; the anterior longitudinal ligament attaches to the front of the vertebral bodies (Slide 9) and is not linked to back pain anywhere in the deck; intertransverse ligaments merely connect the transverse processes (Slide 9) and are likewise not identified as a pain source.",
+    "slideRef": "Joints of the Back, Lesions, and Radiology, Slide 49",
+    "reviewed": true
   },
   {
     "id": "p137q4",
@@ -6303,7 +6337,10 @@
       "Calcaneofibular ligament",
       "Anterior talofibular ligament"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The slide states that the medial ligament of the ankle, the deltoid ligament, stabilizes the ankle joint during eversion and prevents subluxation (Slide 37). The lateral ligament complex reinforces the ankle laterally and resists inversion, not eversion; the calcaneofibular and anterior talofibular ligaments are both components of that lateral ligament complex, so they share the same limitation and are not eversion stabilizers.",
+    "slideRef": "Joints of Lower Limb, Slide 37",
+    "reviewed": true
   },
   {
     "id": "p139q2",
@@ -6348,7 +6385,10 @@
       "Serratus posterior superior",
       "Levator scapulae"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Slide 19 states the action of serratus posterior superior is to elevate the ribs, making it an accessory muscle of inspiration, while serratus posterior inferior depresses the ribs as an accessory muscle of expiration. Rhomboid major and levator scapulae are superficial (extrinsic) muscles that move the scapula (Slide 8, Slide 15) and play no role in respiration.",
+    "slideRef": "Muscles of the Back and Vertebral Column, Slide 19",
+    "reviewed": true
   },
   {
     "id": "p140q1",
@@ -6363,7 +6403,10 @@
       "Multifidus",
       "Longissimus"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Slide 20 arranges the deep (intrinsic) muscles into three columns from superficial to deep: the superficial column (erector spinae — iliocostalis, longissimus, spinalis), the intermediate transversospinalis column (semispinalis, multifidus, rotatores), and the deepest column (interspinalis, intertransversarii). Of the four options given, only multifidus belongs to the intermediate transversospinalis group, which Slide 27 shows lying directly under semispinalis — deeper than iliocostalis and longissimus, which are both parts of the more superficial erector spinae.",
+    "slideRef": "Muscles of the Back and Vertebral Column, Slide 20",
+    "reviewed": true
   },
   {
     "id": "p140q2",
@@ -6379,7 +6422,10 @@
       "Spondylolisthesis"
     ],
     "answerIndex": 2,
-    "image": "questions/p140-scoliosis.jpg"
+    "image": "questions/p140-scoliosis.jpg",
+    "explanation": "The deck's own labeled radiograph matches scoliosis: Slide 37 pairs a 'Normal Spine Alignment' film with a 'Double Thoracic Scoliosis' film showing the same lateral spinal curvature as the question's image, and Slide 38 shows an equivalent curvature pattern captioned 'Radiography of congenital scoliosis.' Kyphosis, lordosis, and spondylolisthesis are not shown or labeled on any radiograph in the deck, so nothing in the slides supports those alternatives for this image.",
+    "slideRef": "Joints of the Back, Lesions, and Radiology, Slide 37",
+    "reviewed": true
   },
   {
     "id": "p140q3",
@@ -6457,7 +6503,10 @@
       "Interspinous ligament",
       "Intertransverse ligament"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The posterior longitudinal ligament runs inside the vertebral canal, attached to the posterior surfaces of the vertebral bodies and discs, continuing upward as the membrana tectoria (Slide 9, Slide 12) — lying behind the vertebral bodies puts it in position to resist their anterior separation and check hyperflexion. The anterior longitudinal ligament instead attaches to the front and sides of the vertebral bodies (Slide 9), positioning it to resist hyperextension rather than hyperflexion; the interspinous ligament connects the length of adjacent spinous processes and the intertransverse ligament connects the transverse processes (Slide 10) — neither runs along the vertebral bodies themselves where flexion is checked.",
+    "slideRef": "Joints of the Back, Lesions, and Radiology, Slide 9",
+    "reviewed": true
   },
   {
     "id": "p141q4",
@@ -6576,6 +6625,9 @@
       "Because it is not supported by muscles"
     ],
     "answerIndex": 1,
+    "explanation": "The slide explains that the medial meniscus is attached to the tibial (medial) collateral ligament, which restricts its mobility and makes it less able to adapt during sudden knee movements, unlike the lateral meniscus, which is not attached to the fibular collateral ligament and is pulled clear by popliteus (Slide 26). Poor vascularization is not the stated reason; moving freely during flexion describes the lateral meniscus, the opposite of the medial one; lack of muscular support is not mentioned as the mechanism.",
+    "slideRef": "Joints of Lower Limb, Slide 26",
+    "reviewed": true,
     "notes": "Fixed typo in source: question referred to \"medial meniscus of the elbow,\" corrected to \"knee\" (the meniscus is a knee structure)."
   },
   {
@@ -6664,7 +6716,9 @@
     "lecture": "Muscles of the Back and Vertebral Column",
     "sourcePage": 150,
     "prompt": "Describe the intrinsic (deep) muscles of the back, mentioning their groups, muscles, and functions.",
-    "answer": "I. Superficial group\nA. Splenius muscles (back of neck only): Splenius capitis, Splenius cervicis\nAction: Extensors and rotators of the head and neck.\n\nB. Superficial vertically running muscles\nErector spinae muscle (Sacrospinalis), formed of three columns:\n1. Iliocostalis\n2. Longissimus\n3. Spinalis (thoracic region only)\nAction: Extensors and rotators of the vertebral column.\n\nII. Intermediate group (Obliquely running muscles)\nTransversospinalis, formed of:\n1. Semispinalis (most superficial)\n2. Multifidus (lies under semispinalis, mainly lumbar)\n3. Rotatores (most deep & shortest, mainly thoracic)\nAction: Semispinalis extends the head & vertebral column; Multifidus & rotatores stabilize the vertebral column\n\nIII. Deepest intrinsic muscles (shortest muscles)\nLie between adjacent vertebrae:\n1. Interspinalis\n2. Intertransversarii\nAction: Stabilization of the vertebral column.\n\nLevatores costarum\nAction: Rib elevators."
+    "answer": "I. Superficial group\nA. Splenius muscles (back of neck only): Splenius capitis, Splenius cervicis\nAction: Extensors and rotators of the head and neck.\n\nB. Superficial vertically running muscles\nErector spinae muscle (Sacrospinalis), formed of three columns:\n1. Iliocostalis\n2. Longissimus\n3. Spinalis (thoracic region only)\nAction: Extensors and rotators of the vertebral column.\n\nII. Intermediate group (Obliquely running muscles)\nTransversospinalis, formed of:\n1. Semispinalis (most superficial)\n2. Multifidus (lies under semispinalis, mainly lumbar)\n3. Rotatores (most deep & shortest, mainly thoracic)\nAction: Semispinalis extends the head & vertebral column; Multifidus & rotatores stabilize the vertebral column\n\nIII. Deepest intrinsic muscles (shortest muscles)\nLie between adjacent vertebrae:\n1. Interspinalis\n2. Intertransversarii\nAction: Stabilization of the vertebral column.\n\nLevatores costarum\nAction: Rib elevators.",
+    "slideRef": "Muscles of the Back and Vertebral Column, Slide 20",
+    "reviewed": true
   },
   {
     "id": "p151-1",
@@ -6767,6 +6821,9 @@
       "Sacrum"
     ],
     "answerIndex": 0,
+    "explanation": "Slide 36 states cervical vertebrae C2–C6 generally have a bifid spinous process, which increases the surface area for attachment of the strong nuchal ligament — a feature not shared by thoracic (long, tapering spinous process, Slide 41), lumbar (short, thick, quadrangular spinous process, Slide 42/44), or the sacrum (spinous processes fuse into the median sacral crest, Slide 43/44).",
+    "slideRef": "Muscles of the Back and Vertebral Column, Slide 36",
+    "reviewed": true,
     "notes": "Source says \"bifold spine\"; standard terminology is \"bifid spine\" (bifid spinous process), corrected in transcription."
   },
   {
