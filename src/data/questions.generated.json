@@ -1107,7 +1107,10 @@
       "Adductor magnus"
     ],
     "answerIndex": 1,
-    "notes": "Typo fixed: source read 'Rectos remoris' → 'Rectus femoris'."
+    "notes": "Typo fixed: source read 'Rectos remoris' → 'Rectus femoris'.",
+    "explanation": "The superior gluteal nerve supplies three muscles — gluteus medius, gluteus minimus, and tensor fasciae latae (Slide 30) — so tensor fasciae latae is correct. Gluteus maximus is supplied by the inferior gluteal nerve, not the superior; rectus femoris is a quadriceps muscle supplied by the femoral nerve, outside gluteal-nerve territory; adductor magnus is supplied by the obturator nerve (and sciatic nerve for its hamstring part), not a gluteal nerve.",
+    "slideRef": "Gluteal Region, Slide 30",
+    "reviewed": true
   },
   {
     "id": "p36q9",
@@ -1141,8 +1144,12 @@
       "Upper border of the popliteal region",
       "Lower border of the popliteal region"
     ],
-    "answerIndex": 2,
-    "notes": "Answer key marks 'upper border of the popliteal region', but standard anatomy holds the femoral artery terminates at the adductor hiatus (becoming the popliteal artery), which is option B here — verify."
+    "answerIndex": 1,
+    "answerCorrected": true,
+    "explanation": "The femoral artery ends at the adductor hiatus in adductor magnus, where it enters the popliteal fossa and becomes the popliteal artery (Slide 29). Mid inguinal ligament is where the artery begins, not ends; the 'upper/lower border of the popliteal region' are not the termination landmark the slide teaches.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 29",
+    "notes": "Answer key marked 'upper border of the popliteal region' (option C); Slide 29 states the femoral artery ends at the adductor hiatus, becoming the popliteal artery. Corrected to B (Adductor Hiatus).",
+    "reviewed": true
   },
   {
     "id": "p36q12",
@@ -1152,7 +1159,9 @@
     "sourcePage": 36,
     "notes": "Options b–d were blank/illegible in the source page; only option (a) Profunda femoris was legible, matching the answer key. [converted from single-option MCQ to flashcard during merge]",
     "prompt": "What is a branch of the femoral artery?",
-    "answer": "Profunda femoris"
+    "answer": "Profunda femoris",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 32",
+    "reviewed": true
   },
   {
     "id": "p37q13",
@@ -1167,7 +1176,10 @@
       "Femoral nerve"
     ],
     "answerIndex": 0,
-    "notes": "Option d was blank/illegible in the source page."
+    "explanation": "The saphenous nerve is one of the six named contents of the adductor canal (Slide 25), traveling with the femoral vessels before becoming superficial. The nerve to vastus lateralis is not a canal content — only the nerve to vastus medialis is — and the femoral nerve trunk itself ends in the femoral triangle, so it does not continue into the canal.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 25",
+    "notes": "Option d was blank/illegible in the source page.",
+    "reviewed": true
   },
   {
     "id": "p37q14",
@@ -1181,7 +1193,8 @@
       "Ilioinguinal nerve"
     ],
     "answerIndex": 1,
-    "notes": "Options c–d were blank/illegible in the source page. Also, the answer key marks the Ilioinguinal nerve, but the skin below the medial inguinal ligament (over the femoral triangle) is classically supplied by the femoral branch of the genitofemoral nerve — verify."
+    "notes": "Options c–d were blank/illegible in the source page. Answer key marks the Ilioinguinal nerve. Slides 13 and 18 label a 'femoral branch of genitofemoral nerve' near the femoral sheath in this region, which is consistent with the standard-anatomy concern originally flagged, but the deck never explicitly states which nerve supplies the skin below the medial inguinal ligament, so this cannot be confidently corrected from the slides alone. Left unresolved — topic not conclusively settled in the provided slide deck.",
+    "reviewed": true
   },
   {
     "id": "p37q15",
@@ -1192,7 +1205,7 @@
     "notes": "Options b–d were blank/illegible in the source page. [converted from single-option MCQ to flashcard during merge]",
     "prompt": "Which of the following muscles flex the hip?",
     "answer": "Rectus femoris",
-    "slideRef": "Anterior Compartment of the Thigh, Slide 55",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 40",
     "reviewed": true
   },
   {
@@ -1208,7 +1221,10 @@
       "Inguinal ligament",
       "Lacunar ligament"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The lacunar ligament forms the medial boundary of the femoral ring (Slide 18). The femoral vein forms the lateral boundary, the superior pubic ramus forms the posterior boundary, and the inguinal ligament forms the anterior boundary — none of these are medial.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 18",
+    "reviewed": true
   },
   {
     "id": "p39q22",
@@ -1218,7 +1234,9 @@
     "sourcePage": 39,
     "notes": "Options b–d were blank/illegible in the source page. [converted from single-option MCQ to flashcard during merge]",
     "prompt": "What's in the intermediate compartment of the femoral sheath?",
-    "answer": "Femoral vein"
+    "answer": "Femoral vein",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 13",
+    "reviewed": true
   },
   {
     "id": "p39q23",
@@ -1228,7 +1246,9 @@
     "sourcePage": 39,
     "notes": "Options b–d were blank/illegible in the source page. [converted from single-option MCQ to flashcard during merge]",
     "prompt": "What's the lateral boundary of the femoral triangle?",
-    "answer": "Sartorius"
+    "answer": "Sartorius",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 5",
+    "reviewed": true
   },
   {
     "id": "p39q24",
@@ -1959,7 +1979,10 @@
       "superior gluteal nerve",
       "sciatic nerve"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The slides teach that IM gluteal injections must be given in the upper outer quadrant of the buttock specifically to avoid injuring the sciatic nerve, which runs deep to gluteus maximus in the lower/medial part of the region (Slide 53-54); an injection placed elsewhere ('intermediate') risks striking it, matching the nerve-injury presentation described. Gluteus maximus is the injection site's muscle itself, not the structure endangered; piriformis is a bony/muscular landmark rather than what a misplaced injection typically injures; the superior gluteal nerve lies in the safe upper quadrant, away from the injection site implied here.",
+    "slideRef": "Gluteal Region, Slide 53",
+    "reviewed": true
   },
   {
     "id": "p56q2",
@@ -1973,7 +1996,10 @@
       "inferior gluteal nerve"
     ],
     "answerIndex": 0,
-    "notes": "Source page only shows options a and b legibly."
+    "notes": "Source page only shows options a and b legibly.",
+    "explanation": "The posterior cutaneous nerve of the thigh enters the gluteal region through the lower part of the greater sciatic foramen, below piriformis, and runs downward on the posterior (superficial) surface of the sciatic nerve (Slide 52) — matching a structure below piriformis that lies superficial to the sciatic nerve. The inferior gluteal nerve also exits below piriformis but supplies gluteus maximus and is not described as running superficial along the sciatic nerve.",
+    "slideRef": "Gluteal Region, Slide 52",
+    "reviewed": true
   },
   {
     "id": "p56q3",
@@ -1987,7 +2013,10 @@
       "Superior gluteal nerve injury"
     ],
     "answerIndex": 1,
-    "notes": "Source page only shows options a and b legibly."
+    "notes": "Source page only shows options a and b legibly.",
+    "explanation": "Superior gluteal nerve injury paralyzes the hip abductors (gluteus medius/minimus), producing hip-abductor weakness, a positive Trendelenburg sign, and a characteristic waddling gait (Slide 28) — matching a child brought in for an abnormal gait. Paralysis of gluteus maximus (inferior gluteal nerve) instead weakens hip extension and is not the classic cause of a waddling gait on these slides.",
+    "slideRef": "Gluteal Region, Slide 28",
+    "reviewed": true
   },
   {
     "id": "p57q4",
@@ -2037,7 +2066,10 @@
       "Rectus femoris"
     ],
     "answerIndex": 0,
-    "notes": "Fixed typo 'Vastus latralis' to 'Vastus lateralis'. Source page only shows options a-c legibly."
+    "explanation": "The adductor (sub-sartorial) canal's lateral wall is formed by vastus medialis, since the canal runs just medial to that muscle (Slide 23). Vastus lateralis and rectus femoris do not contribute to the canal wall.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 23",
+    "notes": "Fixed typo 'Vastus latralis' to 'Vastus lateralis'. Source page only shows options a-c legibly.",
+    "reviewed": true
   },
   {
     "id": "p58q7",
@@ -2107,7 +2139,10 @@
       "Biceps femoris",
       "Gastrocnemius (medial head)"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The boundaries slide places Semimembranosus together with Semitendinosus as the muscles forming the upper medial boundary of the popliteal fossa, so Semimembranosus is a valid answer (Semitendinosus lies alongside it and is also correct anatomically, but is not the marked choice here). Biceps femoris instead forms the upper LATERAL boundary; Gastrocnemius (medial head) forms the LOWER medial boundary, not the upper one.",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 28",
+    "reviewed": true
   },
   {
     "id": "p59q11",
@@ -2233,7 +2268,10 @@
       "Pudendal nerve",
       "Posterior femoral cutaneous nerve"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The pudendal nerve leaves the pelvis through the lower part of the greater sciatic foramen (below piriformis), then immediately re-enters the pelvis/perineum through the lesser sciatic foramen along with the internal pudendal vessels (Slide 16) — making it a structure that passes through both foramina. The superior gluteal nerve exits only through the greater sciatic foramen above piriformis; the sciatic nerve and posterior femoral cutaneous nerve exit only through the greater sciatic foramen below piriformis and do not re-enter via the lesser foramen.",
+    "slideRef": "Gluteal Region, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p61q19",
@@ -2249,7 +2287,10 @@
       "Passage of sciatic nerve"
     ],
     "answerIndex": 0,
-    "notes": "Option a's text is garbled in the source ('abdominal smth') — likely intended to describe lymphatic drainage/expansion, but transcribed literally since the exact intended word is unclear."
+    "explanation": "The femoral canal's clinical importance is that its abdominal opening (the femoral ring) is a weak point in the lower abdominal wall through which abdominal contents can be forced down, producing a femoral hernia (Slides 19-20). The femoral artery runs in the lateral compartment of the femoral sheath, not the canal itself, and neither the obturator nerve (which passes through the obturator canal) nor the sciatic nerve travels through the femoral canal.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 19",
+    "notes": "Option a's text is garbled in the source ('abdominal smth') — likely intended to describe herniation of abdominal contents (the femoral canal's role as the site of femoral hernia), but transcribed literally since the exact intended wording is unclear.",
+    "reviewed": true
   },
   {
     "id": "p61q20",
@@ -2264,7 +2305,10 @@
       "Continuation of fascia lata with inguinal ligament"
     ],
     "answerIndex": 0,
-    "notes": "Source page only shows options a-c legibly."
+    "explanation": "The femoral sheath's anterior wall is a downward continuation of the fascia transversalis of the anterior abdominal wall (Slide 11), so flexing the thigh on the trunk relaxes this fascial continuity, making the deep structures easier to palpate. Iliopsoas' attachment to the lumbar vertebrae and the continuity of fascia lata with the inguinal ligament are both true anatomically but are not the fascial relationship the slide links to this maneuver.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 11",
+    "notes": "Source page only shows options a-c legibly.",
+    "reviewed": true
   },
   {
     "id": "p61q21",
@@ -2310,7 +2354,7 @@
       "Vastus lateralis"
     ],
     "answerIndex": 0,
-    "explanation": "The straight head of rectus femoris originates from the anterior inferior iliac spine (Slide 40), making rectus femoris the muscle attached there — pectineus arises from the superior ramus of the pubis (Slide 37), sartorius from the anterior superior iliac spine (Slide 28), and vastus lateralis from the intertrochanteric line, greater trochanter, and linea aspera of the femur (Slide 43), none of which is the AIIS.",
+    "explanation": "The straight head of rectus femoris arises from the anterior inferior iliac spine (Slide 40) — it is the only quadriceps head that crosses the hip joint. Pectineus arises from the superior ramus of the pubis, not the AIIS; sartorius arises from the anterior superior iliac spine, one landmark higher (Slide 27); vastus lateralis arises from the intertrochanteric line, greater trochanter and linea aspera of the femur, not from any pelvic spine (Slide 43).",
     "slideRef": "Anterior Compartment of the Thigh, Slide 40",
     "reviewed": true
   },
@@ -2327,7 +2371,10 @@
       "Biceps femoris",
       "Gracilis"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The hip/knee action table lists Biceps femoris as extending the hip and flexing (plus laterally rotating) the knee. Gluteus maximus is a hip extensor but does not act on the knee; tensor fasciae latae flexes the hip rather than extending it; Gracilis flexes the knee but does not extend the hip.",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 17",
+    "reviewed": true
   },
   {
     "id": "p62q25",
@@ -2358,8 +2405,8 @@
       "Biceps femoris"
     ],
     "answerIndex": 0,
-    "explanation": "Sartorius is one of only two anterior-thigh muscles that act on both the hip and knee, and it flexes both joints (Slide 51, detailed on Slide 28) — rectus femoris, the other dual-joint muscle, flexes the hip but extends, not flexes, the knee (Slide 51), while gracilis and biceps femoris belong to compartments not covered as hip-and-knee flexors in this deck.",
-    "slideRef": "Anterior Compartment of the Thigh, Slide 51",
+    "explanation": "Sartorius is explicitly a flexor for both the hip and knee joints (Slide 27, \"N.B: it is a flexor for both hip and knee joint\"). Rectus femoris flexes the hip but extends, rather than flexes, the knee (Slide 40); gracilis lies in the medial compartment, grouped with the adductors of the thigh, not the flexors (Slide 30); biceps femoris is a posterior-compartment muscle, which the deck groups as an extensor of the hip and flexor of the knee — the opposite hip action (Slide 30).",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 27",
     "reviewed": true
   },
   {
@@ -2395,7 +2442,10 @@
       "semitendinosus",
       "Semimembranosus"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Semimembranosus inserts on the postero-medial surface of the medial condyle of the tibia. Semitendinosus, by contrast, is shown inserting more anteriorly on the upper medial surface of the tibial shaft, not the condyle; Sartorius and gracilis are not covered as inserting at the medial condyle in this deck.",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 12",
+    "reviewed": true
   },
   {
     "id": "p63q29",
@@ -2483,7 +2533,10 @@
       "Greater trochanter",
       "Ischial spine"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Femoral artery puncture for arterial blood sampling is performed at the midinguinal point, defined as midway between the anterior superior iliac spine (ASIS) and the pubic symphysis (Slides 29 and 44), making the ASIS a key surface landmark for locating the vessel. The pubic tubercle, greater trochanter, and ischial spine are not part of this landmark.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 44",
+    "reviewed": true
   },
   {
     "id": "p65q34",
@@ -2497,7 +2550,10 @@
       "midinguinal point"
     ],
     "answerIndex": 1,
-    "notes": "Source read 'midinguinal ligament' for option b — fixed to 'midinguinal point', the standard landmark term, distinct from the 'midpoint of inguinal ligament' in option a."
+    "explanation": "The femoral vein lies just medial to the femoral artery, which enters the thigh at the midinguinal point — midway between the ASIS and the pubic symphysis (Slide 29). This is distinct from the 'midpoint of the inguinal ligament,' a different, more lateral landmark.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 29",
+    "notes": "Source read 'midinguinal ligament' for option b — fixed to 'midinguinal point', the standard landmark term, distinct from the 'midpoint of inguinal ligament' in option a.",
+    "reviewed": true
   },
   {
     "id": "p65q35",
@@ -2528,7 +2584,10 @@
       "posterior smth"
     ],
     "answerIndex": 0,
-    "notes": "Options b and c are garbled/illegible in the source ('anterior smth', 'posterior smth'), transcribed literally. Also, the marked answer (superficial circumflex iliac artery) is normally a direct branch of the femoral artery, not the profunda femoris, whose true branches are the medial/lateral circumflex femoral and perforating arteries — verify."
+    "explanation": "Slide 33 lists profunda femoris' true branches as the medial and lateral circumflex femoral arteries plus four perforating arteries; the superficial circumflex iliac artery is actually a direct branch of the femoral artery itself (Slide 32), not of profunda femoris. Options b and c are illegible in the source, so which of them the slide would actually support cannot be determined.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 33",
+    "notes": "Options b and c are garbled/illegible in the source ('anterior smth', 'posterior smth'), transcribed literally. Slide 33 confirms profunda femoris' true branches are the medial/lateral circumflex femoral and perforating arteries, and Slide 32 shows the superficial circumflex iliac artery is instead a direct branch of the femoral artery — so the marked answer (option a) appears inconsistent with the slide. However, options b/c are illegible, so the correct replacement cannot be confidently identified from the source; left uncorrected.",
+    "reviewed": true
   },
   {
     "id": "p65q37",
@@ -2543,7 +2602,10 @@
       "Adductor longus",
       "Psoas major"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The femoral triangle floor runs lateral to medial as iliopsoas, pectineus, then adductor longus (Slide 6), and within iliopsoas, iliacus lies lateral to psoas major (confirmed by the lateral-to-medial ordering iliacus, psoas major, pectineus, adductor longus taught elsewhere in the deck), making iliacus the most lateral floor muscle. Pectineus and adductor longus lie more medially, and psoas major lies medial to iliacus.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 6",
+    "reviewed": true
   },
   {
     "id": "p66q38",
@@ -2592,7 +2654,10 @@
       "Rectus Femoris",
       "Adductor Magnus"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The superior gluteal nerve supplies gluteus medius, gluteus minimus, and tensor fasciae latae (Slide 30), so tensor fasciae latae is correct. Gluteus maximus is innervated by the inferior gluteal nerve instead; rectus femoris (femoral nerve) and adductor magnus (obturator/sciatic nerves) are not gluteal-nerve territory at all.",
+    "slideRef": "Gluteal Region, Slide 30",
+    "reviewed": true
   },
   {
     "id": "p68q2",
@@ -2607,7 +2672,10 @@
       "Upper border of popliteal region",
       "Lower border of popliteal region"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The femoral artery ends at the adductor hiatus in adductor magnus, entering the popliteal fossa as the popliteal artery (Slide 29). Mid-inguinal ligament is where it begins, not ends; the 'upper/lower border of popliteal region' are not the termination landmark taught in the deck.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 29",
+    "reviewed": true
   },
   {
     "id": "p68q3",
@@ -2622,7 +2690,10 @@
       "Saphenous Nerve",
       "Nerve to Obturator Internus"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The saphenous nerve is the cutaneous branch of the femoral nerve's posterior division (Slide 38). The obturator nerve and nerve to obturator internus arise from other lumbosacral plexus branches, not the femoral nerve; profunda femoris is an artery, not a nerve branch.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 38",
+    "reviewed": true
   },
   {
     "id": "p68q4",
@@ -2638,7 +2709,10 @@
       "Popliteal Artery"
     ],
     "answerIndex": 2,
-    "notes": "Pages 69 and 70 in the source are exact duplicates of page 68 (same questions 1-4, same answer key) — extracted only once here."
+    "explanation": "The saphenous nerve is a named content of the adductor canal (Slide 25). The sciatic nerve and popliteal artery are not canal contents — the femoral artery only becomes the popliteal artery after leaving the canal via the adductor hiatus — and only the nerve to vastus medialis, not vastus lateralis, runs in the canal.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 25",
+    "notes": "Pages 69 and 70 in the source are exact duplicates of page 68 (same questions 1-4, same answer key) — extracted only once here.",
+    "reviewed": true
   },
   {
     "id": "p71q5",
@@ -2669,8 +2743,8 @@
       "Biceps Femoris"
     ],
     "answerIndex": 0,
-    "explanation": "Rectus femoris is listed among the flexors of the thigh at the hip joint (Slide 55), consistent with its straight head crossing the hip joint (Slide 40) — vastus intermedius arises from the femoral shaft and does not cross the hip, and neither gluteus maximus nor biceps femoris appear among this deck's anterior-compartment hip flexors.",
-    "slideRef": "Anterior Compartment of the Thigh, Slide 55",
+    "explanation": "Rectus femoris's straight head crosses the hip joint and flexes the thigh there (Slide 40). Vastus intermedius arises from the femoral shaft and only crosses the knee, acting purely as a knee extensor (Slide 43); biceps femoris is a posterior-compartment muscle grouped as a hip extensor and knee flexor, the opposite hip action (Slide 30); gluteus maximus is not part of the thigh compartments covered in this deck.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 40",
     "reviewed": true
   },
   {
@@ -2705,7 +2779,10 @@
       "Superior ramus of pubis",
       "Inguinal Ligament"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The lacunar ligament forms the medial border of the femoral ring (Slide 18). The femoral vein forms the lateral border, the superior ramus of the pubis forms the posterior border, and the inguinal ligament forms the anterior border.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 18",
+    "reviewed": true
   },
   {
     "id": "p72q9",
@@ -2720,7 +2797,10 @@
       "Lymphatics",
       "Femoral Nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The femoral vein occupies the intermediate compartment of the femoral sheath, between the femoral artery laterally and the femoral canal medially (Slide 13). The femoral artery lies in the lateral compartment, lymphatics/femoral canal lie in the medial compartment, and the femoral nerve lies entirely outside the sheath.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 13",
+    "reviewed": true
   },
   {
     "id": "p72q10",
@@ -2735,7 +2815,10 @@
       "Rectus Femoris",
       "Inguinal Ligament"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Sartorius forms the lateral boundary of the femoral triangle, via its medial border (Slide 5). Adductor longus forms the medial boundary, rectus femoris is not a triangle boundary, and the inguinal ligament forms the base/superior boundary, not the lateral one.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 5",
+    "reviewed": true
   },
   {
     "id": "p73q3",
@@ -2871,7 +2954,10 @@
       "Medial malleolus",
       "Lateral malleolus"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Piriformis originates from the anterior surface of the 2nd, 3rd, and 4th sacral vertebrae within the pelvis (Slide 34), so 'Anterior surface of the sacral vertebrae' is correct. The posterior surface of the sacrum is not its origin, and the medial/lateral malleoli are ankle landmarks entirely unrelated to piriformis.",
+    "slideRef": "Gluteal Region, Slide 34",
+    "reviewed": true
   },
   {
     "id": "p76q3",
@@ -2886,7 +2972,10 @@
       "Femoral nerve",
       "Sciatic nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The femoral vein lies medial to the femoral artery within the femoral triangle (Slide 31). The great saphenous vein runs superficially in the roof, not deep alongside the artery; the femoral nerve lies lateral to the artery; and the sciatic nerve is posterior, unrelated to the triangle's anterior contents.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 31",
+    "reviewed": true
   },
   {
     "id": "p76q4",
@@ -2901,7 +2990,10 @@
       "Ulnar nerve",
       "Tibial nerve"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The saphenous nerve arises as the cutaneous branch of the femoral nerve's posterior division (Slide 38). It is unrelated to the sciatic, ulnar, or tibial nerves.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 38",
+    "reviewed": true
   },
   {
     "id": "p77q5",
@@ -2916,7 +3008,10 @@
       "greater trochanter",
       "lateral condyle of tibia"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The muscle detail slide gives semimembranosus's insertion as the postero-medial surface of the medial condyle of the tibia. Lesser and greater trochanter are femoral landmarks unrelated to this muscle's insertion, and lateral condyle of tibia is the wrong side since semimembranosus is a medial hamstring.",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 12",
+    "reviewed": true
   },
   {
     "id": "p77q6",
@@ -2931,7 +3026,10 @@
       "Tibial nerve",
       "Femoral nerve"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Extensor digitorum longus is one of the four anterior-compartment muscles, and its nerve supply is stated directly as the deep peroneal nerve (Slide 8); the whole anterior compartment is likewise summarized as supplied by the deep peroneal nerve (Slide 5). Superficial peroneal nerve supplies skin and the lateral (peroneal) compartment, not EDL; tibial nerve supplies the posterior compartment; femoral nerve has no branches to the leg shown in this deck.",
+    "slideRef": "Anterior Compartment of Leg, Slide 8",
+    "reviewed": true
   },
   {
     "id": "p77q7",
@@ -2962,8 +3060,8 @@
       "Posterior Inferior Iliac Spine"
     ],
     "answerIndex": 0,
-    "explanation": "Sartorius originates from the anterior superior iliac spine (Slide 28, confirmed on Slide 54) — the anterior inferior iliac spine is instead the origin of the straight head of rectus femoris (Slide 40), and the posterior superior and posterior inferior iliac spines are not shown as sartorius attachments in this deck.",
-    "slideRef": "Anterior Compartment of the Thigh, Slide 28",
+    "explanation": "Sartorius originates from the anterior superior iliac spine (Slide 27). The anterior inferior iliac spine is instead the origin of rectus femoris's straight head (Slide 40); the posterior superior and posterior inferior iliac spines are posterior pelvic landmarks not associated with sartorius's origin in this deck.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 27",
     "reviewed": true
   },
   {
@@ -2996,7 +3094,10 @@
       "Tibial Nerve",
       "Superficial fascia"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The relations slide places the knee joint (along with the popliteal surface of femur and popliteus muscle) anterior to the popliteal artery. Popliteal vein and tibial nerve are both listed as posterior relations instead, and superficial fascia/skin form the posterior wall (roof), not an anterior relation to the artery.",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 38",
+    "reviewed": true
   },
   {
     "id": "p78q11",
@@ -3011,7 +3112,10 @@
       "Flexion of the thigh",
       "Lateral rotation of the thigh"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Gluteus medius's anterior fibers medially rotate the thigh, alongside its main abducting action (Slide 24), making medial rotation the movement it performs among these choices. It does not adduct or flex the thigh, and lateral rotation is instead produced by the deep short rotators (piriformis, gemelli, obturator internus, quadratus femoris), not gluteus medius.",
+    "slideRef": "Gluteal Region, Slide 24",
+    "reviewed": true
   },
   {
     "id": "p78q12",
@@ -3056,7 +3160,10 @@
       "Deep to Flexor retinaculum",
       "Superficial to Extensor retinaculum"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The tibialis anterior slide states its tendon 'passes deep to both extensor retinacula' before inserting on the medial cuneiform and base of the 1st metatarsal (Slide 6) — i.e., deep to the extensor retinaculum. It has no relation to the flexor retinaculum, which lies on the medial ankle for posterior-compartment tendons (Slide 30); it is likewise not superficial to either retinaculum, since the structures listed as superficial to the extensor retinaculum are the saphenous nerve/vein and superficial peroneal nerve (Slide 28).",
+    "slideRef": "Anterior Compartment of Leg, Slide 6",
+    "reviewed": true
   },
   {
     "id": "p79q15",
@@ -3120,8 +3227,8 @@
       "Medial Rotation of the knee"
     ],
     "answerIndex": 1,
-    "explanation": "The four heads of quadriceps femoris insert via the common quadriceps tendon into the patella and, through the patellar ligament, the tibial tuberosity, making the group powerful extensors of the knee joint (Slide 47) — the quadriceps does not flex the knee (that is the antagonist hamstring action, Slide 46), and no rotary knee action is described for the group in this deck.",
-    "slideRef": "Anterior Compartment of the Thigh, Slide 47",
+    "explanation": "All four heads of quadriceps femoris share a common tendon that inserts via the patella and patellar ligament into the tibial tuberosity, making the whole muscle a powerful extensor of the knee joint (Slide 45). Flexion of the knee is a posterior-compartment (hamstring) action, not a quadriceps action (Slide 30); lateral and medial rotation of the knee are not listed among the quadriceps mechanism's actions on this slide.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 45",
     "reviewed": true
   },
   {
@@ -3168,7 +3275,10 @@
       "iliacus, psoas major, pectineus, adductor brevis",
       "adductor longus, pectineus, psoas major, iliacus"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "From lateral to medial, the femoral triangle floor is formed by iliacus/psoas (iliopsoas), pectineus, then adductor longus (Slide 6). The other orderings place these muscles in the wrong sequence or substitute adductor brevis, which the slide does not include in the floor.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 6",
+    "reviewed": true
   },
   {
     "id": "p81q26",
@@ -3183,7 +3293,10 @@
       "Sacral vertebrae",
       "Pubic tubercle"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Gemellus superior originates from the ischial spine (Slide 37), matching that option. It does not arise from the ischial tuberosity (gemellus inferior's origin), the sacral vertebrae (piriformis's origin), or the pubic tubercle.",
+    "slideRef": "Gluteal Region, Slide 37",
+    "reviewed": true
   },
   {
     "id": "p82-1",
@@ -3201,8 +3314,10 @@
     "lecture": "Anterior Compartment of Leg",
     "sourcePage": 83,
     "prompt": "Enumerate the muscles that form the Anterior Compartment of the Leg:",
-    "answer": "1. Supraspinatus\n2. Infraspinatus\n3. Subscapularis\n4. Teres Minor",
-    "notes": "The answer content in the source mismatches the prompt — it lists the rotator cuff (SITS) muscles of the shoulder instead of leg muscles, likely a document merge/copy-paste error. The actual muscles of the anterior compartment of the leg are: Tibialis Anterior, Extensor Hallucis Longus, Extensor Digitorum Longus, and Fibularis (Peroneus) Tertius — verify before use."
+    "answer": "Tibialis Anterior\nExtensor Hallucis Longus (EHL)\nExtensor Digitorum Longus (EDL)\nFibularis (Peroneus) Tertius",
+    "notes": "The answer content in the source mismatches the prompt — it lists the rotator cuff (SITS) muscles of the shoulder instead of leg muscles, likely a document merge/copy-paste error. The actual muscles of the anterior compartment of the leg, per Slide 5 of this deck, are: Tibialis Anterior, Extensor Digitorum Longus, Peroneus (Fibularis) Tertius, and Extensor Hallucis Longus — verify before use. Answer text was corrupted in the original source (listed rotator cuff muscles instead of leg muscles); corrected during slide review using Slide 5 of the Anterior Compartment of Leg deck.",
+    "slideRef": "Anterior Compartment of Leg, Slide 5",
+    "reviewed": true
   },
   {
     "id": "p86q8",
@@ -3232,6 +3347,9 @@
       "Gastrocnemius"
     ],
     "answerIndex": 1,
+    "explanation": "The boundaries slide states the lateral boundary above is Biceps femoris (below it is the lateral head of gastrocnemius and plantaris). Semitendinosus & semimembranosus instead form the upper MEDIAL boundary, not lateral; Gastrocnemius (unqualified) is the lower lateral boundary, not the upper one.",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 28",
+    "reviewed": true,
     "notes": "Source page shows only 3 options with text — the 4th (d) bullet was left blank in the original document."
   },
   {
@@ -3247,7 +3365,10 @@
       "Head of the femur",
       "Linea Aspera"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The muscle detail slide gives semitendinosus's origin as the ischial tuberosity, the standard hamstring origin site. Superior ramus of pubis and head of femur are not hamstring origins in this deck; linea aspera is instead the origin of the short head of biceps femoris, not semitendinosus.",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 11",
+    "reviewed": true
   },
   {
     "id": "p87q15",
@@ -3277,7 +3398,10 @@
       "Posterior of femur",
       "Greater trochanter"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Gluteus medius inserts into the lateral surface of the greater trochanter (Slide 24), matching that option. It does not insert on the neck of femur, the obturator foramen (a bony opening, not a muscle attachment), or the posterior femur.",
+    "slideRef": "Gluteal Region, Slide 24",
+    "reviewed": true
   },
   {
     "id": "p88q17",
@@ -3308,8 +3432,8 @@
       "Adduction of the thigh"
     ],
     "answerIndex": 0,
-    "explanation": "At the hip joint, sartorius produces flexion, abduction, and lateral rotation of the thigh (Slide 28) — it does not medially rotate or adduct the thigh, and its hip action is flexion rather than extension.",
-    "slideRef": "Anterior Compartment of the Thigh, Slide 28",
+    "explanation": "At the hip, sartorius produces flexion, abduction, and lateral rotation of the thigh (Slide 27). Medial rotation is the opposite of its lateral-rotation action; it flexes rather than extends the thigh; and it abducts rather than adducts the thigh.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 27",
     "reviewed": true
   },
   {
@@ -3356,7 +3480,7 @@
       "Rectus femoris"
     ],
     "answerIndex": 3,
-    "explanation": "Rectus femoris is described as the only quadriceps head that crosses the hip joint, so it alone acts on both the hip and the knee (Slide 40, confirmed on the Sartorius-vs-Rectus femoris comparison table, Slide 42) — vastus lateralis, medialis, and intermedius all arise from the femoral shaft itself and act only at the knee.",
+    "explanation": "Rectus femoris is labelled \"the only part [that] crosses the hip joint,\" flexing the hip and extending the knee (Slide 40), a point the deck restates directly in its comparison table (Slide 42: Rectus femoris \"acts on hip and knee joints\"). Vastus intermedius, medialis, and lateralis all originate from the femur itself (shaft, intertrochanteric line, linea aspera) and therefore only cross and act on the knee joint (Slide 43).",
     "slideRef": "Anterior Compartment of the Thigh, Slide 40",
     "reviewed": true
   },
@@ -3373,7 +3497,10 @@
       "Saphenous nerve",
       "Femoral nerve"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The saphenous nerve is a named content of the adductor canal (Slide 25). 'Profunda femoral nerve' is not a real structure (profunda femoris is an artery); the nerve to vastus lateralis and the femoral nerve trunk are not canal contents — only the nerve to vastus medialis and the femoral nerve's saphenous branch are.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 25",
+    "reviewed": true
   },
   {
     "id": "p90q6",
@@ -3388,7 +3515,9 @@
       "Medial condyle of femur",
       "Anterior surface of tibia"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "reviewed": true,
+    "notes": "topic not found in the provided slide deck — popliteus muscle appears only as a landmark forming the floor of the popliteal fossa (Slide 30, the 'PPP') and in the relations list (Slide 38); its specific attachment points are never stated in text or clearly labeled in a diagram anywhere in the deck."
   },
   {
     "id": "p90q7",
@@ -3439,7 +3568,9 @@
       "Upper lateral surface of tibia",
       "Lateral condyle of femur"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "reviewed": true,
+    "notes": "topic not found in the provided slide deck — popliteus muscle appears only as a landmark forming the floor of the popliteal fossa (Slide 30, the 'PPP') and in the relations list (Slide 38); its specific origin is never stated in text or clearly labeled in a diagram anywhere in the deck."
   },
   {
     "id": "p91q10",
@@ -3470,8 +3601,8 @@
       "Abduction of the thigh"
     ],
     "answerIndex": 0,
-    "explanation": "Quadriceps femoris extends the leg at the knee joint via the quadriceps mechanism (Slide 47), so paralysis would impair knee extension — dorsiflexion is an ankle movement, flexion of the leg is a hamstring (posterior compartment) action, and abduction of the thigh is not a quadriceps action, none of which this deck attributes to quadriceps femoris.",
-    "slideRef": "Anterior Compartment of the Thigh, Slide 47",
+    "explanation": "Quadriceps femoris is the powerful extensor of the knee (leg) through the quadriceps mechanism (Slide 45), so paralysis would primarily impair leg extension. Dorsiflexion is an ankle movement produced by leg (not thigh) muscles; flexion of the leg is a posterior-compartment/hamstring action (Slide 30); abduction of the thigh is not a quadriceps action.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 45",
     "reviewed": true
   },
   {
@@ -3502,7 +3633,10 @@
       "L(2,3) S(1,2)",
       "S(1,2,3)"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The femoral nerve arises from the lumbar plexus roots L2, L3, and L4 (Slide 35). The other combinations either add sacral roots, which do not contribute to the femoral nerve, or omit L4.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 35",
+    "reviewed": true
   },
   {
     "id": "p92q14",
@@ -3532,7 +3666,10 @@
       "Vastus medialis",
       "Sartorius"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Vastus medialis forms the lateral wall of the adductor canal, since the canal runs just medial to that muscle (Slide 23). Vastus lateralis and adductor longus are not canal walls, and sartorius forms the roof, not the lateral wall.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 23",
+    "reviewed": true
   },
   {
     "id": "p92q16",
@@ -3547,7 +3684,10 @@
       "Adductor longus",
       "Adductor magnus"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Along with the inguinal ligament (base) and sartorius (lateral border), the femoral triangle's medial border is the medial border of adductor longus (Slide 5). Vastus lateralis, vastus medialis, and adductor magnus are not boundaries of the triangle.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 5",
+    "reviewed": true
   },
   {
     "id": "p93q17",
@@ -3578,7 +3718,7 @@
       "External pudendal artery"
     ],
     "answerIndex": 1,
-    "notes": "topic not found in the provided slide deck",
+    "notes": "topic not found in the provided slide deck — the deck shows only the superficial branches of the femoral artery near the saphenous opening (superficial epigastric, superficial circumflex iliac, superficial external pudendal, Slide 19), not the deep external pudendal artery specifically",
     "reviewed": true
   },
   {
@@ -3610,8 +3750,8 @@
       "Flexion leg"
     ],
     "answerIndex": 1,
-    "explanation": "Quadriceps femoris is the extensor of the leg at the knee joint via the quadriceps mechanism (Slide 47), so an injury to it would impair leg extension — adduction and abduction of the thigh are hip movements not produced by quadriceps, and flexion of the leg is a hamstring (posterior compartment) action.",
-    "slideRef": "Anterior Compartment of the Thigh, Slide 47",
+    "explanation": "Quadriceps femoris acts as a powerful extensor of the knee (leg) via the quadriceps mechanism (Slide 45), so an injury here affects leg extension. Adduction and abduction of the thigh are not quadriceps actions; flexion of the leg is a posterior-compartment/hamstring action, the opposite of what quadriceps does (Slide 30).",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 45",
     "reviewed": true
   },
   {
@@ -3627,7 +3767,10 @@
       "Apex of femoral triangle"
     ],
     "answerIndex": 1,
-    "notes": "Source page shows only 3 options with text — the 4th (d) bullet was left blank in the original document."
+    "explanation": "Femoral artery puncture is performed at the midinguinal point, midway between the ASIS and the pubic symphysis (Slide 29), so the needle is inserted between these two landmarks. 'Between ASIS and pubic tubercle' describes the inguinal ligament's course rather than the arterial landmark, and the apex of the femoral triangle is not where the artery is punctured.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 29",
+    "notes": "Source page shows only 3 options with text — the 4th (d) bullet was left blank in the original document.",
+    "reviewed": true
   },
   {
     "id": "p94q22",
@@ -3673,7 +3816,10 @@
       "Obturator nerve",
       "Nerve to obturator internus"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Gluteus maximus is supplied solely by the inferior gluteal nerve (Slide 30), so 'Inferior gluteal nerve' is correct. The superior gluteal nerve instead supplies gluteus medius, minimus, and tensor fasciae latae; the obturator nerve and nerve to obturator internus do not innervate gluteus maximus.",
+    "slideRef": "Gluteal Region, Slide 30",
+    "reviewed": true
   },
   {
     "id": "p95q25",
@@ -3688,7 +3834,10 @@
       "Saphenous nerve",
       "Nerve to vastus lateralis"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The saphenous nerve is a named content of the adductor canal (Slide 25). The femoral nerve trunk, profunda femoris artery, and nerve to vastus lateralis are not — the canal's contents are the terminal femoral artery, femoral vein, deep lymphatics, saphenous nerve, nerve to vastus medialis, and the terminal obturator nerve.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 25",
+    "reviewed": true
   },
   {
     "id": "p95q26",
@@ -4101,7 +4250,10 @@
       "adductor longus",
       "sartorius"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Adductor longus is one of the three muscles forming the femoral triangle floor, along with iliopsoas and pectineus (Slide 6). Gluteus maximus, vastus medialis, and sartorius are not floor muscles — sartorius instead forms the roof/lateral boundary.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 6",
+    "reviewed": true
   },
   {
     "id": "p102q3",
@@ -4116,7 +4268,10 @@
       "Superior gluteal nerve",
       "Inferior gluteal nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The internal pudendal artery leaves the pelvis via the lower part of the greater sciatic foramen and then re-enters the pelvis/perineum through the lesser sciatic foramen alongside the pudendal nerve (Slide 16), so it passes through both foramina. The obturator internus tendon passes only through the lesser sciatic foramen; the superior gluteal nerve exits only above piriformis through the greater sciatic foramen; the inferior gluteal nerve exits only below piriformis through the greater sciatic foramen.",
+    "slideRef": "Gluteal Region, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p102q4",
@@ -4132,8 +4287,8 @@
       "Semitendinosus"
     ],
     "answerIndex": 0,
-    "explanation": "Sartorius flexes both the hip and the knee (Slide 51, detailed on Slide 28) — vastus medialis only extends the knee, rectus femoris flexes the hip but extends, not flexes, the knee (Slide 51), and semitendinosus is not covered as an anterior-thigh flexor in this deck.",
-    "slideRef": "Anterior Compartment of the Thigh, Slide 51",
+    "explanation": "Sartorius is stated to be \"a flexor for both hip and knee joint\" (Slide 27). Vastus medialis only crosses the knee and extends it (Slide 43); rectus femoris flexes the hip but extends, not flexes, the knee (Slide 40); semitendinosus is a posterior-compartment muscle not covered as a hip/knee flexor in this deck.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 27",
     "reviewed": true
   },
   {
@@ -4212,7 +4367,10 @@
       "Abduction and medial rotation of the thigh",
       "Adduction of the thigh"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Gluteus medius powerfully abducts the thigh, and its anterior fibers medially rotate it (Slide 24), matching 'Abduction and medial rotation of the thigh.' It is not a flexor, extensor, or adductor of the thigh per the slide.",
+    "slideRef": "Gluteal Region, Slide 24",
+    "reviewed": true
   },
   {
     "id": "p104q10",
@@ -4275,7 +4433,10 @@
       "Superior Gluteal",
       "Inferior Gluteal"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The muscle detail slide lists semimembranosus's nerve supply as the tibial portion of the sciatic nerve, so 'Sciatic nerve' is correct. Deep peroneal, superior gluteal, and inferior gluteal are all different nerves not linked to semimembranosus in this deck (deep peroneal supplies leg/foot muscles; superior/inferior gluteal supply gluteal muscles, not hamstrings).",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 12",
+    "reviewed": true
   },
   {
     "id": "p105q14",
@@ -4306,7 +4467,8 @@
       "tibia below soleal line"
     ],
     "answerIndex": 1,
-    "notes": "Question numbering skips 16 (jumps from 15 to 17) — that question does not appear on any page in this range."
+    "reviewed": true,
+    "notes": "Question numbering skips 16 (jumps from 15 to 17) — that question does not appear on any page in this range. Additionally, topic not found in the provided slide deck for this specific fact — popliteus muscle appears only as a landmark forming the floor of the popliteal fossa (Slide 30, the 'PPP') and in the relations list (Slide 38); its specific origin is never stated in text or clearly labeled in a diagram anywhere in the deck."
   },
   {
     "id": "p106q17",
@@ -4321,7 +4483,10 @@
       "Extensor Hallucis Longus",
       "Extensor Digitorum Longus"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Tibialis anterior, extensor hallucis longus, and extensor digitorum longus each have dorsiflexion of the foot explicitly listed among their actions (Slides 6-8), but the deck's own summary reminder groups tibialis anterior with tibialis posterior only for producing inversion of the foot, not dorsiflexion (Slide 14) — so tibialis posterior is the one muscle here whose slide-stated action is inversion rather than dorsiflexion.",
+    "slideRef": "Anterior Compartment of Leg, Slide 14",
+    "reviewed": true
   },
   {
     "id": "p106q18",
@@ -4489,7 +4654,10 @@
       "Flexion",
       "Medial rotation"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Acting with gluteus minimus, gluteus medius's main action is powerful abduction of the thigh at the hip joint (Slide 24); medial rotation by its anterior fibers is a secondary action, not the main one. It does not adduct or flex the thigh.",
+    "slideRef": "Gluteal Region, Slide 24",
+    "reviewed": true
   },
   {
     "id": "p108q28",
@@ -4558,7 +4726,10 @@
       "Extensor hallucis longus",
       "Extensor digitorum longus"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Tibialis anterior's action is stated as extending (dorsiflexing) the foot at the ankle joint (Slide 6), and it is presented as the first and principal muscle of the anterior compartment. Tibialis posterior is instead grouped with the invertors, not dorsiflexion (Slide 14); extensor hallucis longus's actions are listed as extending the big toe first, with foot extension and inversion assistance as secondary actions (Slide 7); extensor digitorum longus likewise lists toe extension alongside dorsiflexion rather than being singled out as the main mover (Slide 8).",
+    "slideRef": "Anterior Compartment of Leg, Slide 6",
+    "reviewed": true
   },
   {
     "id": "p110-1",
@@ -4607,8 +4778,8 @@
       "Psoas major"
     ],
     "answerIndex": 1,
-    "explanation": "Rectus femoris flexes the thigh at the hip and extends the leg at the knee (Slide 51, matching the formative-assessment answer on Slide 60) — sartorius flexes both joints rather than extending the knee, and adductor longus and psoas major are not shown producing knee extension in this deck.",
-    "slideRef": "Anterior Compartment of the Thigh, Slide 51",
+    "explanation": "Rectus femoris flexes the thigh at the hip and extends the leg at the knee (quadriceps mechanism) (Slide 40). Sartorius flexes both the hip and the knee rather than extending the knee (Slide 27); adductor longus is a medial-compartment adductor, not a knee extensor; psoas major flexes the hip but does not act on the knee at all (Slide 33).",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 40",
     "reviewed": true
   },
   {
@@ -4624,7 +4795,10 @@
       "Subclavian artery",
       "Popliteal artery"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The femoral artery continues as the popliteal artery after passing through the adductor hiatus (Slide 29). Axillary, brachial, and subclavian arteries all belong to the upper limb, unrelated to the femoral artery's course.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 29",
+    "reviewed": true
   },
   {
     "id": "p114q8",
@@ -4639,7 +4813,10 @@
       "Lymph nodes",
       "Femoral nerve"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The femoral sheath contains the femoral artery, femoral vein, and lymphatics/lymph nodes (via the femoral canal), but not the femoral nerve, which runs lateral to the sheath, outside it (Slides 14, 36, 43).",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 14",
+    "reviewed": true
   },
   {
     "id": "p115q9",
@@ -4654,7 +4831,10 @@
       "Begins from the apex of femoral sheath",
       "Contains femoral artery and femoral vein"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The adductor canal's lateral wall is formed by vastus medialis, not vastus lateralis, making this the incorrect statement (Slide 23). The canal's posterior wall (adductor longus and magnus), its beginning near the apex of the femoral triangle, and its content of femoral artery and vein all match the slide's description.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 23",
+    "reviewed": true
   },
   {
     "id": "p115q10",
@@ -4688,8 +4868,8 @@
       "Biceps femoris"
     ],
     "answerIndex": 1,
-    "explanation": "Rectus femoris flexes the thigh at the hip and extends the leg at the knee (Slide 51, matching the formative-assessment answer on Slide 60) — sartorius flexes both joints instead of extending the knee, and quadratus femoris and biceps femoris are gluteal/posterior muscles not covered as hip flexor/knee extensors in this deck.",
-    "slideRef": "Anterior Compartment of the Thigh, Slide 51",
+    "explanation": "Rectus femoris flexes the thigh at the hip and extends the leg at the knee via the quadriceps mechanism (Slide 40). Sartorius flexes both joints rather than extending the knee (Slide 27); quadratus femoris is not covered in this deck's anterior compartment; biceps femoris is a posterior-compartment muscle that flexes the knee and extends the hip — the opposite of both actions asked (Slide 30).",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 40",
     "reviewed": true
   },
   {
@@ -4741,7 +4921,10 @@
       "Femoral vein",
       "Lymph nodes"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The femoral nerve does not enter the femoral sheath — it runs lateral to the sheath, outside it (Slides 14, 36, 43). Femoral artery, femoral vein, and lymph nodes are all sheath contents.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 14",
+    "reviewed": true
   },
   {
     "id": "p117q2",
@@ -4756,7 +4939,10 @@
       "Tibial nerve",
       "Long saphenous vein"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The saphenous nerve is the nerve found in the adductor canal (Slide 25). The femoral nerve trunk ends in the femoral triangle and does not enter the canal, the tibial nerve belongs to the posterior leg, and the long saphenous vein is a vein, not a nerve.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 25",
+    "reviewed": true
   },
   {
     "id": "p117q3",
@@ -4771,7 +4957,10 @@
       "Gluteus medius",
       "Tensor fasciae latae"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The inferior gluteal nerve supplies only gluteus maximus (Slide 30), matching that option. Gluteus minimus, gluteus medius, and tensor fasciae latae are all instead supplied by the superior gluteal nerve.",
+    "slideRef": "Gluteal Region, Slide 30",
+    "reviewed": true
   },
   {
     "id": "p117q4",
@@ -4786,7 +4975,10 @@
       "Popliteal vein",
       "Popliteal artery"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The content slide explicitly states the popliteal artery is the deepest structure in the popliteal fossa, lying directly on the popliteal surface of the femur. Common peroneal nerve, tibial nerve, and popliteal vein are all listed as lying more superficial to the artery within the fossa (the medial-to-lateral order given is Artery, Vein, tibial Nerve, common peroneal Nerve).",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 32",
+    "reviewed": true
   },
   {
     "id": "p118q5",
@@ -4801,7 +4993,9 @@
       "Tibial nerve",
       "Common peroneal nerve"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "reviewed": true,
+    "notes": "topic not found in the provided slide deck — popliteus muscle's nerve supply is never stated; the deck's muscular-branches slide (Slide 22) covers nerve supply only for biceps femoris, semitendinosus, semimembranosus, and the hamstring portion of adductor magnus."
   },
   {
     "id": "p118q6",
@@ -4816,7 +5010,10 @@
       "Peroneus longus",
       "Flexor digitorum longus"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Tibialis anterior's action is directly stated as extending (dorsiflexing) the foot at the ankle joint (Slide 6). Tibialis posterior instead produces inversion, not dorsiflexion (Slide 14); peroneus longus is listed as a plantar flexor and evertor of the foot (Slide 15); flexor digitorum longus is not among the dorsiflexor group covered in this deck.",
+    "slideRef": "Anterior Compartment of Leg, Slide 6",
+    "reviewed": true
   },
   {
     "id": "p118q7",
@@ -4831,7 +5028,10 @@
       "Saphenous nerve",
       "Great saphenous vein"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The 'Tom Has A Nice Dog & Pig' mnemonic slide lists the six structures passing beneath/through the extensor retinacula from medial to lateral — Tibialis anterior, extensor Hallucis longus tendon, Anterior tibial artery, deep peroneal Nerve, extensor Digitorum longus tendon, Peroneus tertius (Slide 26) — and anterior tibial artery is among them. Superficial peroneal nerve, saphenous nerve, and great saphenous vein are explicitly listed instead as passing anterior (superficial) to the extensor retinaculum (Slide 28).",
+    "slideRef": "Anterior Compartment of Leg, Slide 26",
+    "reviewed": true
   },
   {
     "id": "p118q8",
@@ -4861,7 +5061,10 @@
       "Upper border of ischial tuberosity",
       "Lateral border of ischial tuberosity"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Piriformis originates from the anterior surface of the sacral vertebrae within the pelvis (Slide 34), matching that option exactly. The pelvic surface of the obturator membrane is obturator internus's origin; the upper border of the ischial tuberosity is gemellus inferior's origin, and the lateral border of the ischial tuberosity is quadratus femoris's origin — not piriformis.",
+    "slideRef": "Gluteal Region, Slide 34",
+    "reviewed": true
   },
   {
     "id": "p119q2",
@@ -4876,7 +5079,10 @@
       "Femoral nerve",
       "Great saphenous vein"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The femoral vein lies medial to the femoral artery in the femoral triangle (Slide 31). The femoral nerve lies lateral to the artery, the sciatic nerve is posterior and unrelated to the triangle, and the great saphenous vein runs superficially in the roof rather than alongside the artery.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 31",
+    "reviewed": true
   },
   {
     "id": "p119q3",
@@ -4892,8 +5098,8 @@
       "Anterior superior iliac spine"
     ],
     "answerIndex": 3,
-    "explanation": "Sartorius originates from the anterior superior iliac spine (Slide 28, confirmed on Slide 54) — the superior ramus of the pubis is pectineus's origin (Slide 37), the iliac fossa is iliacus's origin (Slide 32), and the posterior superior iliac spine is not a sartorius attachment shown in this deck.",
-    "slideRef": "Anterior Compartment of the Thigh, Slide 28",
+    "explanation": "Sartorius originates from the anterior superior iliac spine (Slide 27). Superior ramus of the pubis is instead the origin of pectineus (Slide 37); iliac fossa of the hip bone is the origin of iliacus (Slide 32); posterior superior iliac spine is a posterior landmark not used as an origin for any anterior-thigh muscle in this deck.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 27",
     "reviewed": true
   },
   {
@@ -4909,7 +5115,9 @@
       "Inside capsule of knee joint",
       "Outside capsule of knee joint"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "reviewed": true,
+    "notes": "topic not found in the provided slide deck — whether the popliteus tendon originates inside or outside the knee joint capsule is not addressed anywhere in the slides."
   },
   {
     "id": "p120q5",
@@ -4924,7 +5132,10 @@
       "Sciatic nerve",
       "Tibial nerve"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The saphenous nerve is a branch of the femoral nerve's posterior division (Slide 38). It has no relation to the obturator, sciatic, or tibial nerves.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 38",
+    "reviewed": true
   },
   {
     "id": "p120q6",
@@ -4939,7 +5150,10 @@
       "Femoral artery",
       "Obturator artery"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The medial circumflex femoral artery is a branch of profunda femoris (Slide 33). 'Anterior circumflex femoral artery' is not a named branch in the deck, the femoral artery is the parent vessel rather than a branch of itself, and the obturator artery arises from the internal iliac artery, not profunda femoris.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 33",
+    "reviewed": true
   },
   {
     "id": "p120q7",
@@ -4954,7 +5168,10 @@
       "Medial condyle of femur",
       "Head of fibula"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The muscle detail slide gives semimembranosus's insertion as the postero-medial surface of the medial condyle of the tibia. Lateral condyle of tibia is the wrong side; medial condyle of FEMUR is a femoral landmark, not the insertion site; head of fibula is instead the insertion of biceps femoris.",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 12",
+    "reviewed": true
   },
   {
     "id": "p120q8",
@@ -4984,7 +5201,10 @@
       "Knee joint",
       "Superficial fascia"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The relations slide places the knee joint (along with the popliteal surface of femur and popliteus muscle) anterior to the popliteal artery. Popliteal vein is listed as a posterior relation instead; the tibia itself is not given as an anterior relation; superficial fascia belongs to the posterior wall (roof), not an anterior relation to the artery.",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 38",
+    "reviewed": true
   },
   {
     "id": "p121q10",
@@ -4999,7 +5219,10 @@
       "Flexion of the thigh",
       "Lateral rotation of the leg"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Gluteus medius's anterior fibers medially rotate the thigh (Slide 24), matching that option precisely as worded. It does not adduct or flex the thigh, and lateral rotation of the leg is not one of its listed actions.",
+    "slideRef": "Gluteal Region, Slide 24",
+    "reviewed": true
   },
   {
     "id": "p121q11",
@@ -5047,7 +5270,10 @@
       "Adductor magnus",
       "Biceps femoris"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The summary slide states all hamstring muscles act on both hip and knee EXCEPT the hamstring portion of adductor magnus, which acts only on the hip (extension) and does not flex the knee — matching 'except.' Sartorius and Gracilis are both grouped among the flexors/medial rotators of the knee, and Biceps femoris flexes (and laterally rotates) the knee.",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p122q14",
@@ -5077,7 +5303,10 @@
       "Gluteal tubercle",
       "Quadrate tubercle"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The cruciate anastomosis is situated at the level of the lesser trochanter of the femur (Slide 59), matching that option. It is not located at the linea aspera or the gluteal tubercle, and the quadrate tubercle is instead where quadratus femoris inserts, not the anastomosis site.",
+    "slideRef": "Gluteal Region, Slide 59",
+    "reviewed": true
   },
   {
     "id": "p122q16",
@@ -5092,7 +5321,10 @@
       "Medial head of gastrocnemius",
       "Biceps femoris"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The floor slide explicitly lists the anterior wall (floor) of the popliteal fossa as formed by the 'PPP': popliteal surface of femur, posterior ligament of the knee joint, and popliteus muscle — so popliteus muscle is correct. Lateral head of gastrocnemius and biceps femoris are instead lateral WALL structures, and medial head of gastrocnemius is a medial wall structure, not part of the floor.",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 30",
+    "reviewed": true
   },
   {
     "id": "p123q17",
@@ -5137,7 +5369,10 @@
       "Lateral to the extensor retinaculum",
       "Superficial to the extensor retinaculum"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The slide heading itself describes tibialis anterior's tendon among the 'structures that pass beneath (under) or through the extensor retinacula of the foot,' listing tibialis anterior first (Slide 26); its own muscle slide likewise states the tendon 'passes deep to both extensor retinacula' (Slide 6). It is not superficial to the retinaculum — that route is used by the saphenous nerve/vein and superficial peroneal nerve instead (Slide 28) — and no slide describes a 'behind' or 'lateral to' pathway for it.",
+    "slideRef": "Anterior Compartment of Leg, Slide 26",
+    "reviewed": true
   },
   {
     "id": "p123q20",
@@ -5152,7 +5387,10 @@
       "Posterior circumflex femoral artery",
       "Obturator artery"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The medial circumflex femoral artery is one of profunda femoris' named branches, along with the lateral circumflex femoral and four perforating arteries (Slide 33). Anterior and posterior circumflex femoral arteries are not terms used in the deck, and the obturator artery instead arises from the internal iliac artery.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 33",
+    "reviewed": true
   },
   {
     "id": "p124q21",
@@ -5214,7 +5452,10 @@
       "Ischial tuberosity",
       "Ischial spine"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Gemellus superior originates from the ischial spine (Slide 37), matching that option. It does not arise from the obturator membrane (obturator internus's origin), the anterior sacral vertebrae (piriformis's origin), or the ischial tuberosity (gemellus inferior's origin).",
+    "slideRef": "Gluteal Region, Slide 37",
+    "reviewed": true
   },
   {
     "id": "p125q25",
@@ -5230,8 +5471,8 @@
       "Medial rotation of the leg"
     ],
     "answerIndex": 1,
-    "explanation": "The quadriceps mechanism is described as producing powerful extension of the knee joint (Slide 47) — it does not flex the knee, flexion of the hip is a separate action belonging only to the rectus femoris head (not the mechanism as a whole), and medial rotation of the leg is not attributed to the quadriceps mechanism in this deck.",
-    "slideRef": "Anterior Compartment of the Thigh, Slide 47",
+    "explanation": "The slide is titled \"Action of quadriceps femoris (quadriceps mechanism)\" and states the muscle group is a \"powerful extensor of knee joint\" because of its tendon's insertion into the tibial tuberosity (Slide 45). Flexion of the knee is a hamstring action, the opposite of the quadriceps mechanism (Slide 30); flexion of the hip is only produced by rectus femoris individually, not by the quadriceps mechanism as a whole; medial rotation of the leg is not listed as an action of the quadriceps mechanism.",
+    "slideRef": "Anterior Compartment of the Thigh, Slide 45",
     "reviewed": true
   },
   {
@@ -5262,7 +5503,10 @@
       "Internal pudendal vessels",
       "Piriformis muscle"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The lesser sciatic foramen transmits the obturator internus tendon, the nerve to obturator internus, the pudendal nerve, and the internal pudendal vessels (Slide 14-15). Piriformis instead passes through the greater sciatic foramen, not the lesser one, making it the exception.",
+    "slideRef": "Gluteal Region, Slide 15",
+    "reviewed": true
   },
   {
     "id": "p125q28",
@@ -5292,7 +5536,10 @@
       "Tibial nerve",
       "Sural nerve"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Extensor digitorum longus's nerve supply is stated directly as the deep peroneal nerve (Slide 8), consistent with the whole anterior compartment being summarized as supplied by the deep peroneal nerve (Slide 5). Superficial peroneal nerve supplies skin and the lateral compartment, not EDL; tibial nerve belongs to the posterior compartment; sural nerve is a cutaneous branch, not a muscular one.",
+    "slideRef": "Anterior Compartment of Leg, Slide 8",
+    "reviewed": true
   },
   {
     "id": "p126q30",
@@ -5307,7 +5554,10 @@
       "Iliacus, pectineus, adductor longus, gracilis",
       "Sartorius, pectineus, adductor longus, gracilis"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "From lateral to medial, the femoral triangle floor is iliacus, psoas major, pectineus, then adductor longus (Slide 6). The other orderings misplace these muscles or substitute gracilis and sartorius, which the slide does not include in the floor.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 6",
+    "reviewed": true
   },
   {
     "id": "p128q1",
@@ -5322,7 +5572,10 @@
       "Sacrotuberous ligament",
       "Lesser sciatic notch"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Gluteus maximus originates from the external ilium behind the posterior gluteal line, the back of the sacrum and coccyx, and the sacrotuberous ligament (Slide 21), so 'Sacrotuberous ligament' is correct. The iliac crest and lesser sciatic notch are not listed origins, and 'between the anterior and posterior gluteal line' is instead gluteus medius's origin.",
+    "slideRef": "Gluteal Region, Slide 21",
+    "reviewed": true
   },
   {
     "id": "p128q2",
@@ -5371,7 +5624,10 @@
       "Occlusion of femoral artery above the inguinal ligament",
       "Occlusion of obturator artery"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Occluding the femoral artery above the inguinal ligament cuts off flow before profunda femoris even branches off in the femoral triangle, so no collateral supply can reach the anterior thigh compartment. Occlusion below the inguinal ligament still leaves profunda femoris — the thigh's chief artery, supplying it via its circumflex and perforating branches (Slide 33) — able to perfuse the compartment, and occluding profunda femoris or the obturator artery alone likewise leaves the femoral artery's own direct supply intact.",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 33",
+    "reviewed": true
   },
   {
     "id": "p129q1",
@@ -5504,7 +5760,10 @@
       "Posterior cutaneous nerve of thigh",
       "Lateral femoral cutaneous nerve"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The skin of the upper lateral (anterior) quadrant of the gluteal region is supplied by the lateral cutaneous branches of the iliohypogastric (L1) and subcostal (T12) nerves (Slide 4), matching that option. Posterior rami of lumbar nerves and the posterior cutaneous nerve of the thigh instead supply the upper-medial and lower-medial (posterior) quadrants, and the lateral femoral cutaneous nerve is not listed as a gluteal cutaneous source on this slide.",
+    "slideRef": "Gluteal Region, Slide 4",
+    "reviewed": true
   },
   {
     "id": "p131q1",
@@ -5978,7 +6237,10 @@
       "Tensor fasciae latae and biceps femoris",
       "Gluteus maximus and biceps femoris"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Of the gluteal muscles, gluteus maximus (most fibers) and tensor fasciae latae both insert into the iliotibial tract (Slides 22 and 25), the aponeurotic band that continues distally onto the lateral tibia, distinguishing them from gluteus medius and minimus, which instead insert onto the greater trochanter of the femur (Slide 24), not the tract. Biceps femoris is a hamstring muscle not covered in this gluteal-region deck.",
+    "slideRef": "Gluteal Region, Slide 22",
+    "reviewed": true
   },
   {
     "id": "p138q2",
@@ -6162,7 +6424,9 @@
       "Outside femoral sheath",
       "No valves"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "notes": "topic not found in the provided slide deck",
+    "reviewed": true
   },
   {
     "id": "p141q2",
@@ -6209,7 +6473,10 @@
       "Lateral collateral ligament"
     ],
     "answerIndex": 2,
-    "notes": "Fixed typos in source options: \"Semitendonosis\" -> \"Semitendinosus\", \"Semimembrnosis\" -> \"Semimembranosus\"."
+    "notes": "Fixed typos in source options: \"Semitendonosis\" -> \"Semitendinosus\", \"Semimembrnosis\" -> \"Semimembranosus\".",
+    "explanation": "The iliotibial tract runs from the iliac crest/ASIS (tensor fasciae latae's origin) down to the knee, where gluteus maximus and tensor fasciae latae use it to help maintain the knee in extension during standing (Slides 22 and 25) — making it the structure linking the pelvis to the knee. Semitendinosus and semimembranosus are hamstring muscles not covered in this deck, and the lateral collateral ligament is a knee-joint ligament, not a pelvis-to-knee connector.",
+    "slideRef": "Gluteal Region, Slide 25",
+    "reviewed": true
   },
   {
     "id": "p142q1",
@@ -6366,7 +6633,9 @@
     "lecture": "Neurovascular structures and relationships in anteromedial thigh",
     "sourcePage": 147,
     "prompt": "Describe the femoral sheath including its formation, clinical correlations, compartments, and boundaries.",
-    "answer": "Formation (Beginning):\nThe femoral sheath is a funnel-shaped fascial sheath formed as a downward prolongation of the fascia transversalis anteriorly and the iliac fascia posteriorly, below the inguinal ligament.\n\nClinical correlation:\nIt surrounds the proximal part of the femoral vessels and lymphatics for about 1 inch (2.5 cm) below the inguinal ligament.\n\nCompartments:\nThe femoral sheath is divided by vertical septa into three compartments:\n1. Lateral compartment: occupied by the femoral artery\n2. Intermediate compartment: occupied by the femoral vein\n3. Medial compartment: occupied by the femoral canal\n\nBoundaries:\nAnterior wall: Fascia transversalis\nPosterior wall: Iliac fascia"
+    "answer": "Formation (Beginning):\nThe femoral sheath is a funnel-shaped fascial sheath formed as a downward prolongation of the fascia transversalis anteriorly and the iliac fascia posteriorly, below the inguinal ligament.\n\nClinical correlation:\nIt surrounds the proximal part of the femoral vessels and lymphatics for about 1 inch (2.5 cm) below the inguinal ligament.\n\nCompartments:\nThe femoral sheath is divided by vertical septa into three compartments:\n1. Lateral compartment: occupied by the femoral artery\n2. Intermediate compartment: occupied by the femoral vein\n3. Medial compartment: occupied by the femoral canal\n\nBoundaries:\nAnterior wall: Fascia transversalis\nPosterior wall: Iliac fascia",
+    "slideRef": "Neurovascular structures and relationships in anteromedial thigh, Slide 11",
+    "reviewed": true
   },
   {
     "id": "p148-1",
@@ -6375,7 +6644,9 @@
     "lecture": "Back of Thigh & The Popliteal Fossa",
     "sourcePage": 148,
     "prompt": "Describe the popliteal artery including its beginning, branches, and termination.",
-    "answer": "Beginning:\nThe popliteal artery begins as a continuation of the femoral artery after it passes through the adductor hiatus.\n\nBranches:\nMuscular branches\nGenicular branches, which form the genicular anastomosis:\n- Superior medial genicular artery\n- Superior lateral genicular artery\n- Inferior medial genicular artery\n- Inferior lateral genicular artery\n- Middle genicular artery\n\nTermination:\nThe popliteal artery ends at the lower border of the popliteus muscle, where it divides into the anterior tibial and posterior tibial arteries."
+    "answer": "Beginning:\nThe popliteal artery begins as a continuation of the femoral artery after it passes through the adductor hiatus.\n\nBranches:\nMuscular branches\nGenicular branches, which form the genicular anastomosis:\n- Superior medial genicular artery\n- Superior lateral genicular artery\n- Inferior medial genicular artery\n- Inferior lateral genicular artery\n- Middle genicular artery\n\nTermination:\nThe popliteal artery ends at the lower border of the popliteus muscle, where it divides into the anterior tibial and posterior tibial arteries.",
+    "slideRef": "Back of Thigh & The Popliteal Fossa, Slide 37",
+    "reviewed": true
   },
   {
     "id": "p149-1",
