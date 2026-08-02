@@ -78,7 +78,10 @@
       "L4",
       "L5"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The slide on the abdominal aorta states its termination is 'at L4, by dividing into RT & LT common iliac arteries,' so L4 is correct. L2 and L3 are too high — the aorta is still a single midline trunk at those levels; L5 is instead where the two common iliac veins unite to form the IVC, not where the aorta splits.",
+    "slideRef": "Posterior Abdominal Wall, Slide 12",
+    "reviewed": true
   },
   {
     "id": "p6q1",
@@ -129,7 +132,12 @@
       "Muscle fibers",
       "Raphe"
     ],
-    "answerIndex": 3
+    "answerIndex": 0,
+    "answerCorrected": true,
+    "explanation": "Slide 7 states the external oblique is inserted by aponeurosis and fleshy fibers, with the aponeurosis (medial part forming the linea alba, lateral part folding on itself to form the inguinal ligament) as the muscle's defining mode of insertion, matching option 'Aponeurosis.' 'Tendon' is wrong because the slide describes an aponeurotic sheet, not a discrete tendon; 'Muscle fibers' only covers the smaller fleshy-fiber component inserting on the iliac crest, not the muscle's principal insertion; 'Raphe' is never used on the slide to describe the external oblique's insertion.",
+    "slideRef": "Anterolateral Abdominal Wall, Slide 7",
+    "notes": "Answer key marked D (Raphe); Slide 7 explicitly labels the external oblique's insertion as 'A- Aponeurosis' (forming the linea alba and inguinal ligament), with no mention of a raphe anywhere on the slide. Corrected to A (Aponeurosis).",
+    "reviewed": true
   },
   {
     "id": "p6q4",
@@ -414,7 +422,10 @@
       "Gastrocnemius",
       "Sartorius"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 7 shows the external oblique's fibers converging into a broad aponeurosis that forms the linea alba medially and folds on itself to form the inguinal ligament laterally, illustrating an aponeurotic insertion. Flexor digitorum longus, gastrocnemius, and sartorius are lower-limb muscles that are not part of this slide deck's coverage of aponeurotic abdominal-wall muscles.",
+    "slideRef": "Anterolateral Abdominal Wall, Slide 7",
+    "reviewed": true
   },
   {
     "id": "p12q2",
@@ -2070,7 +2081,10 @@
       "Tibial nerve",
       "peroneal nerve"
     ],
-    "answerIndex": 4
+    "answerIndex": 4,
+    "explanation": "The common peroneal nerve winds subcutaneously around the neck of the fibula, where a tight cast or plaster can compress it directly against bone (Slide 82: \"usually occurs on the lateral side of the neck of the fibula ... compression by a tight plaster\"). The saphenous nerve is a purely cutaneous branch that lies deep to fascia along the medial leg, not exposed at the fibular neck; the obturator nerve runs in the medial thigh, far from typical cast sites; the sciatic nerve is deep in the thigh/buttock; the tibial nerve runs deep in the posterior leg, protected from superficial compression.",
+    "slideRef": "Nerves and Lesions of Lower Limb, Slide 82",
+    "reviewed": true
   },
   {
     "id": "p57q6",
@@ -2342,7 +2356,10 @@
       "Obturator nerve",
       "Superior gluteal nerve"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The femoral nerve arises from the lumbar plexus at the lateral border of psoas major and runs down through the iliopsoas compartment alongside/deep to the iliacus before passing under the inguinal ligament; it is also the nerve supply of the iliacus, and iliacus plus psoas major (iliopsoas) flex the thigh at the hip joint. So inflammation of the iliopsoas fascia irritates the femoral nerve and produces pain on hip flexion. The obturator nerve instead arises at the medial border of psoas major, away from this compartment; the sciatic and superior gluteal nerves belong to the sacral plexus, not the lumbar plexus branches shown arising from psoas major on these slides.",
+    "slideRef": "Posterior Abdominal Wall, Slide 4",
+    "reviewed": true
   },
   {
     "id": "p61q22",
@@ -2588,7 +2605,10 @@
       "obturator nerve"
     ],
     "answerIndex": 0,
-    "notes": "Fixed typo 'common pernoeal nerve' to 'common peroneal nerve'."
+    "notes": "Fixed typo 'common pernoeal nerve' to 'common peroneal nerve'.",
+    "explanation": "The deck lists the sural nerve as a cutaneous branch under the Tibial Nerve's branches, descending between the two heads of gastrocnemius before being joined by the sural communicating branch of the common peroneal nerve (Slide 60) — so its origin is the tibial nerve, with only a reinforcing communication from the common peroneal nerve. It is not a branch of the femoral or obturator nerves, which do not extend into the posterior leg/calf.",
+    "slideRef": "Nerves and Lesions of Lower Limb, Slide 60",
+    "reviewed": true
   },
   {
     "id": "p65q36",
@@ -2746,7 +2766,10 @@
       "Lateral Femoral Cutaneous Nerve",
       "Obturator Nerve"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Slide 17 lists the ilioinguinal nerve as a content of the inguinal canal in both sexes, traveling with the spermatic cord (males) or round ligament (females) and exiting at the superficial inguinal ring, which sits near the pubic tubercle just below and medial to the inguinal ligament. The genitofemoral nerve's genital branch instead travels within the spermatic cord rather than supplying that overlying skin, and the lateral femoral cutaneous and obturator nerves are not shown anywhere in this deck as canal contents or as related to this region.",
+    "slideRef": "Anterolateral Abdominal Wall, Slide 17",
+    "reviewed": true
   },
   {
     "id": "p71q6",
@@ -3402,7 +3425,9 @@
       "External iliac",
       "Abdominal aorta"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "notes": "topic not found in the provided slide deck — the superior epigastric vessels are labeled (Slides 21 and 23, as a rectus sheath content) but their arterial origin is never stated on any slide.",
+    "reviewed": true
   },
   {
     "id": "p88q16",
@@ -3483,7 +3508,10 @@
       "Short head of biceps femoris",
       "Semitendinosus"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The slide states that after sciatic nerve injury the hamstrings are paralyzed, but \"weak flexion of the knee [is still] done by sartorius and gracilis muscles\" (Slide 50), since sartorius is supplied by the femoral nerve, not the sciatic. Gastrocnemius is supplied by the tibial nerve (a sciatic branch), so it is paralyzed; short head of biceps femoris is itself supplied by the common peroneal division of the sciatic nerve, so it is paralyzed; semitendinosus is a hamstring muscle supplied by the tibial division of the sciatic nerve, also paralyzed.",
+    "slideRef": "Nerves and Lesions of Lower Limb, Slide 50",
+    "reviewed": true
   },
   {
     "id": "p89q4",
@@ -3753,7 +3781,10 @@
       "Paralysis of vastus lateralis",
       "Paralysis of gracilis"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Vastus lateralis is part of quadriceps femoris, the muscle group the slides show is paralyzed/wasted in femoral nerve injury, producing loss of knee extension (Slide 22). Psoas major is supplied directly by branches of the lumbar plexus (L1-L3), not the femoral nerve; femoral nerve sensory loss covers the anteromedial thigh, medial leg and medial foot (Slide 23), not the lateral foot; gracilis is an adductor supplied by the obturator nerve, so its paralysis reflects obturator, not femoral, nerve damage.",
+    "slideRef": "Nerves and Lesions of Lower Limb, Slide 22",
+    "reviewed": true
   },
   {
     "id": "p93q20",
@@ -4323,7 +4354,10 @@
       "obturator",
       "sciatic"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Fractures of the pelvis are listed as a cause of sciatic nerve injury (Slide 49), and foot drop is the classic motor effect of sciatic nerve damage, occurring because \"all the muscles below the knee are paralyzed\" (mainly via the vulnerable common peroneal division) (Slide 50/55). Superior gluteal nerve injury instead causes a positive Trendelenburg sign and gait disturbance without foot drop (Slide 88); inferior gluteal nerve injury weakens hip extension (gluteus maximus), not the foot; obturator nerve injury affects thigh adduction, not the foot.",
+    "slideRef": "Nerves and Lesions of Lower Limb, Slide 50",
+    "reviewed": true
   },
   {
     "id": "p103q6",
@@ -4371,7 +4405,10 @@
       "Transversus abdominis aponeurosis",
       "Fascia transversalis"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "Slide 15 explicitly states that the lower fibers of the external oblique aponeurosis fold on themselves to form the inguinal ligament, extending from the ASIS to the pubic tubercle, directly matching option A. The internal oblique and transversus abdominis aponeuroses instead contribute to the conjoint tendon and rectus sheath rather than the inguinal ligament, and fascia transversalis is a separate deep layer, not the ligament itself.",
+    "slideRef": "Anterolateral Abdominal Wall, Slide 15",
+    "reviewed": true
   },
   {
     "id": "p104q9",
@@ -4556,7 +4593,10 @@
       "Right brachiocephalic vein",
       "Coronary sinus"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The azygos vein begins from the IVC in the abdomen and ends in the SVC in the thorax (Slide 25), so it drains into the superior vena cava. It does not drain into the IVC (that is where it originates, not terminates), the right brachiocephalic vein, or the coronary sinus — none of which the slide lists as its termination.",
+    "slideRef": "Anterior and Posterior Thoracic Walls, Slide 25",
+    "reviewed": true
   },
   {
     "id": "p107q21",
@@ -4643,7 +4683,10 @@
       "T11",
       "T12"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The slide's \"Vertebral levels of sternal parts\" list gives the xiphisternal joint as lying at T9 (Slide 6). T10, T11, and T12 are not the level given for any sternal landmark on this slide.",
+    "slideRef": "Anterior and Posterior Thoracic Walls, Slide 6",
+    "reviewed": true
   },
   {
     "id": "p108q26",
@@ -4658,7 +4701,10 @@
       "Femoral branch of genitofemoral",
       "Deep circumflex iliac artery"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "Slide 17 lists the ilioinguinal nerve as a content of the inguinal canal in both males and females, alongside the spermatic cord or round ligament of the uterus. The genitofemoral nerve as a whole is not itself listed as a canal content (only its genital branch runs within the spermatic cord), the femoral branch of the genitofemoral nerve travels with the femoral vessels outside the canal, and the deep circumflex iliac artery does not appear among the contents shown on the slide.",
+    "slideRef": "Anterolateral Abdominal Wall, Slide 17",
+    "reviewed": true
   },
   {
     "id": "p108q27",
@@ -4769,7 +4815,9 @@
     "sourcePage": 111,
     "prompt": "34. Branches of the Abdominal Aorta (Single & Paired)",
     "answer": "Single (Unpaired) Branches – Visceral:\n1. Celiac trunk\n2. Superior mesenteric artery (SMA)\n3. Inferior mesenteric artery (IMA)\nSingle (Unpaired) Branch – Parietal:\n- Median sacral artery\nPaired Branches – Visceral:\n1. Middle suprarenal arteries\n2. Renal arteries\n3. Gonadal arteries (testicular/ovarian)\nPaired Branches – Parietal:\n1. Inferior phrenic arteries\n2. Lumbar arteries (usually four pairs)",
-    "notes": "This page shows only the filled-in content; its blank prompt page (question 34) would have preceded it on page 110, which is outside this batch's assigned range."
+    "notes": "This page shows only the filled-in content; its blank prompt page (question 34) would have preceded it on page 110, which is outside this batch's assigned range.",
+    "slideRef": "Posterior Abdominal Wall, Slide 12",
+    "reviewed": true
   },
   {
     "id": "p112-1",
@@ -5358,7 +5406,10 @@
       "Common peroneal nerve",
       "Tibial nerve"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The sural nerve is presented as a cutaneous branch of the tibial nerve, descending between the two heads of gastrocnemius and later joined by a communicating branch from the common peroneal nerve (Slide 60) — that communicating link, not origin, is the peroneal nerve's role. The pudendal and femoral nerves do not contribute to the calf/sural territory at all.",
+    "slideRef": "Nerves and Lesions of Lower Limb, Slide 60",
+    "reviewed": true
   },
   {
     "id": "p123q18",
@@ -5628,7 +5679,10 @@
       "Left suprarenal vein",
       "Left gonadal vein"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The slide on the inferior vena cava lists the paired inferior phrenic veins directly among its tributaries. The same slide notes that the left suprarenal vein and left gonadal vein end in the left renal vein instead — only the right suprarenal and right gonadal veins drain directly into the IVC. Superior phrenic vein and superior epigastric vein do not appear on the slide's IVC tributary list at all.",
+    "slideRef": "Posterior Abdominal Wall, Slide 13",
+    "reviewed": true
   },
   {
     "id": "p128q4",
@@ -5661,7 +5715,10 @@
       "The corresponding vertebra and the one above",
       "The corresponding vertebra and the one below"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Slide 11 states each typical rib articulates with its corresponding vertebra (same number) and the vertebra above it — two costovertebral facets per typical rib. It is not limited to the corresponding vertebra alone or the vertebra above alone, and \"corresponding vertebra and the one below\" instead describes what a typical vertebra articulates with, not the rib.",
+    "slideRef": "Anterior and Posterior Thoracic Walls, Slide 11",
+    "reviewed": true
   },
   {
     "id": "p129q2",
@@ -5732,7 +5789,10 @@
       "Ilioinguinal nerve",
       "Lateral femoral cutaneous nerve"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "The cutaneous innervation diagrams show the lateral cutaneous nerve of thigh (a direct branch of the lumbar plexus, L2-3, Slide 8) supplying a strip over the upper anterolateral thigh, clearly labeled and mapped separately from the femoral nerve's territory (Slide 91). The femoral and genital branches of the genitofemoral nerve supply the upper anterior thigh/groin and genital skin respectively, and the ilioinguinal nerve supplies the groin/upper medial thigh — none of these cover the anterolateral thigh shown for the lateral cutaneous nerve of thigh.",
+    "slideRef": "Nerves and Lesions of Lower Limb, Slide 91",
+    "reviewed": true
   },
   {
     "id": "p130q2",
@@ -5747,7 +5807,10 @@
       "T10",
       "L1"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Slide 21's dermatome/level diagram places the T10 thoracoabdominal nerve directly at the level of the umbilicus, matching option C. T8 and T9 are shown at higher levels of the rectus sheath (upper and middle thirds, above the umbilicus), while L1-territory nerves (iliohypogastric/ilioinguinal) supply the groin region well below the umbilicus.",
+    "slideRef": "Anterolateral Abdominal Wall, Slide 21",
+    "reviewed": true
   },
   {
     "id": "p130q3",
@@ -5908,7 +5971,10 @@
       "It does not give a lateral cutaneous branch"
     ],
     "answerIndex": 1,
-    "notes": "Answer key marks B (\"it supplies the abdominal wall\"), but standard teaching holds the 6th intercostal nerve is a typical intercostal nerve confined to the thoracic wall — it is nerves T7-T11 (thoracoabdominal nerves) that supply the abdominal wall, and T12 becomes the subcostal nerve. Verify."
+    "explanation": "Slide 21 places the 6th intercostal nerve within the typical range (3rd–6th): a typical intercostal nerve runs between the internal and innermost intercostal muscles and ends anteriorly as the anterior cutaneous branch, and its listed branches include a lateral cutaneous branch — so on the slide it is not atypical and it does give a lateral cutaneous branch. Slide 21 also states only the 12th nerve becomes the subcostal nerve, and Slide 22 states it is the 7th–11th (atypical) nerves that enter the abdominal wall, not the 6th. None of the four listed options is actually supported by what the deck shows for the 6th intercostal nerve, including the marked answer.",
+    "slideRef": "Anterior and Posterior Thoracic Walls, Slide 21",
+    "notes": "Answer key marks B (\"it supplies the abdominal wall\"), but Slide 21 places the 6th intercostal nerve in the typical (3rd–6th) range — it ends as an anterior cutaneous branch and its branch list includes a lateral cutaneous branch — and Slide 22 states it is the 7th–11th (atypical) nerves that supply the abdominal wall, with only T12 becoming the subcostal nerve (Slide 21). The slide contradicts the marked answer B but does not clearly support A, C, or D either, so the answer could not be confidently corrected from the deck alone; left unchanged pending further verification.",
+    "reviewed": true
   },
   {
     "id": "p132q4",
@@ -6117,7 +6183,10 @@
       "T4–T5",
       "T5–T6"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Slide 6 places the sternal angle (angle of Louis) at the lower border of T4, i.e. the T4–T5 level. The slide gives T2–T3 as the level of the upper border of the manubrium (not the angle), and does not support T3–T4 or T5–T6 for any sternal landmark.",
+    "slideRef": "Anterior and Posterior Thoracic Walls, Slide 6",
+    "reviewed": true
   },
   {
     "id": "p135q4",
@@ -6185,8 +6254,12 @@
       "Innermost intercostal muscle",
       "Subcostal muscles"
     ],
-    "answerIndex": 0,
-    "notes": "Answer key marks A (External intercostal muscle), but standard teaching holds the posterior intercostal membrane is the posterior continuation of the internal intercostal muscle (medial to the rib angle) — verify."
+    "answerIndex": 1,
+    "answerCorrected": true,
+    "explanation": "Slide 15 states the internal intercostal muscle begins anteriorly at the lateral margin of the sternum and, at the angle of the ribs, is replaced by the posterior (internal) intercostal membrane — so the posterior intercostal membrane is the posterior continuation of the internal intercostal muscle. The external intercostal is instead replaced anteriorly, at the costochondral junction, by the anterior (external) intercostal membrane; the innermost intercostal is described as an incomplete lateral layer with no stated membrane; and subcostal muscles are a separate deep posterior muscle group, not part of this membrane.",
+    "slideRef": "Anterior and Posterior Thoracic Walls, Slide 15",
+    "notes": "Answer key marked A (External intercostal muscle); Slide 15 clearly shows the posterior (internal) intercostal membrane is the posterior continuation of the internal intercostal muscle, replacing it at the rib angle. Corrected to B (Internal intercostal muscle).",
+    "reviewed": true
   },
   {
     "id": "p136q4",
@@ -6256,7 +6329,10 @@
       "Hip abduction is lost",
       "Knee extension is affected"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "explanation": "The slide states directly that \"the common peroneal part is the most affected (in 90% of injuries) because its fibers lie superficial in the sciatic nerve\" (Slide 50), so it — not the tibial portion — is more prone to injury. Hip abduction (gluteus medius/minimus) is supplied by the superior gluteal nerve, unaffected by sciatic injury; knee extension (quadriceps femoris) is supplied by the femoral nerve and is likewise preserved.",
+    "slideRef": "Nerves and Lesions of Lower Limb, Slide 50",
+    "reviewed": true
   },
   {
     "id": "p138q1",
@@ -6322,7 +6398,10 @@
       "Foot drop",
       "Loss of knee extension"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "explanation": "The obturator nerve gives motor branches to all the adductor (medial) group muscles, so its injury causes \"paralysis of all adductor muscles except the ischial part of adductor magnus\" (Slide 29/32), i.e. inability to adduct the thigh. Trendelenburg gait results from superior gluteal nerve injury (paralysis of glutei medius/minimus), not obturator nerve damage (Slide 88); foot drop follows common peroneal/sciatic nerve injury; loss of knee extension follows femoral nerve injury (quadriceps paralysis).",
+    "slideRef": "Nerves and Lesions of Lower Limb, Slide 32",
+    "reviewed": true
   },
   {
     "id": "p139q1",
@@ -6355,7 +6434,10 @@
       "Aortic hiatus",
       "Costal margin"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "The slide on the diaphragm's major openings shows the aortic opening (level T12) transmitting three structures: the aorta, the thoracic duct, and the azygos vein. The caval opening (T8) carries the IVC and right phrenic nerve, and the esophageal opening (T10) carries the esophagus and vagal trunks — neither is credited with the thoracic duct. The costal margin is not a diaphragmatic opening at all.",
+    "slideRef": "Posterior Abdominal Wall, Slide 6",
+    "reviewed": true
   },
   {
     "id": "p139q3",
@@ -6370,7 +6452,10 @@
       "Transversus thoracis",
       "Subcostal muscles"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Slide 16 states the transversus thoracis (sternocostalis) muscle originates from the posterior surface of the lower half of the sternum and the xiphoid process, and inserts into the posterior surfaces of the 2nd–6th costal cartilages — the only muscle on the slide attached to the sternum's posterior surface. Internal and external intercostal muscles attach along the ribs, not the sternum, and subcostal muscles lie on the internal surface of the lower ribs near the rib angle, not the sternum.",
+    "slideRef": "Anterior and Posterior Thoracic Walls, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p139q4",
@@ -6487,8 +6572,12 @@
       "Innermost intercostal muscle",
       "Subcostal muscles"
     ],
-    "answerIndex": 1,
-    "notes": "Answer key marks B (External intercostal muscle), but standard teaching holds the posterior intercostal membrane is the posterior continuation of the internal intercostal muscle — verify (same discrepancy as the equivalent question on page 136)."
+    "answerIndex": 0,
+    "answerCorrected": true,
+    "explanation": "Slide 15 states the internal intercostal muscle begins anteriorly at the lateral margin of the sternum and, at the angle of the ribs, is replaced by the posterior (internal) intercostal membrane — so the posterior membrane of the thoracic wall is the posterior continuation of the internal intercostal muscle. The external intercostal is instead replaced anteriorly, at the costochondral junction, by the anterior (external) intercostal membrane; the innermost intercostal is described as an incomplete lateral layer with no stated membrane; and subcostal muscles are a separate deep posterior muscle group, not part of this membrane.",
+    "slideRef": "Anterior and Posterior Thoracic Walls, Slide 15",
+    "notes": "Answer key marked B (External intercostal muscle); Slide 15 clearly shows the posterior (internal) intercostal membrane is the posterior continuation of the internal intercostal muscle, replacing it at the rib angle (same discrepancy as the equivalent question on page 136). Corrected to A (Internal intercostal muscle).",
+    "reviewed": true
   },
   {
     "id": "p141q3",
@@ -6591,7 +6680,10 @@
       "Internal oblique muscle",
       "Erector spinae"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "explanation": "Slide 23 states the rectus sheath is an extension of the aponeuroses of the external oblique, internal oblique, and transversus abdominis muscles, so the internal oblique is one of its contributors. Latissimus dorsi and erector spinae are back muscles never mentioned as sheath contributors, and pyramidalis is listed as a muscle contained within the sheath, not one that forms it.",
+    "slideRef": "Anterolateral Abdominal Wall, Slide 23",
+    "reviewed": true
   },
   {
     "id": "p143q1",
@@ -6727,7 +6819,9 @@
     "lecture": "Anterolateral Abdominal Wall",
     "sourcePage": 151,
     "prompt": "Describe the inguinal canal including its boundaries, contents, and clinical correlations.",
-    "answer": "Boundaries:\nAnterior wall: Derived from aponeuroses -> External oblique aponeurosis, reinforced laterally by the origin of internal oblique.\nPosterior wall: Conjoint tendon medially and transversalis fascia laterally.\nRoof (superior wall): Formed by arching fibers of internal oblique and transversus abdominis muscles.\nInferior wall (floor): Formed by inguinal ligament and medially by the lacunar ligament.\n\nContents:\nIn males: Spermatic cord\nIn females: Round ligament of the uterus\nIlioinguinal nerve\n\nClinical correlations:\nSite of inguinal hernia\nWeakness of the posterior wall predisposes to direct inguinal hernia\nIndirect inguinal hernia passes through the deep inguinal ring"
+    "answer": "Boundaries:\nAnterior wall: Derived from aponeuroses -> External oblique aponeurosis, reinforced laterally by the origin of internal oblique.\nPosterior wall: Conjoint tendon medially and transversalis fascia laterally.\nRoof (superior wall): Formed by arching fibers of internal oblique and transversus abdominis muscles.\nInferior wall (floor): Formed by inguinal ligament and medially by the lacunar ligament.\n\nContents:\nIn males: Spermatic cord\nIn females: Round ligament of the uterus\nIlioinguinal nerve\n\nClinical correlations:\nSite of inguinal hernia\nWeakness of the posterior wall predisposes to direct inguinal hernia\nIndirect inguinal hernia passes through the deep inguinal ring",
+    "slideRef": "Anterolateral Abdominal Wall, Slide 16",
+    "reviewed": true
   },
   {
     "id": "p152q1",
@@ -6743,7 +6837,10 @@
       ""
     ],
     "answerIndex": 0,
-    "notes": "Source page only shows text for option (a); options b–d were blank/illegible in the original document."
+    "explanation": "Slide 11 states the rectus abdominis produces ventral flexion of the trunk, an action that directly opposes lordosis (exaggerated lumbar extension), supporting option A. The remaining options are blank/illegible in the source material and cannot be evaluated against the slide.",
+    "slideRef": "Anterolateral Abdominal Wall, Slide 11",
+    "notes": "Source page only shows text for option (a); options b–d were blank/illegible in the original document.",
+    "reviewed": true
   },
   {
     "id": "p152q2",
@@ -6759,7 +6856,10 @@
       ""
     ],
     "answerIndex": 0,
-    "notes": "Source page only shows text for options (a) and (b); options c–d were blank/illegible in the original document."
+    "explanation": "Slide 11 groups vomiting, coughing, delivery, micturition, and defecation as effects of combined diaphragm and abdominal-muscle contraction raising intra-abdominal pressure, collectively described as a straining-down effort, matching option A. Deep inspiration is primarily driven by diaphragmatic descent alone, not by the abdominal-muscle pressure-raising action described on the slide; the remaining options are blank in the source material.",
+    "slideRef": "Anterolateral Abdominal Wall, Slide 11",
+    "notes": "Source page only shows text for options (a) and (b); options c–d were blank/illegible in the original document.",
+    "reviewed": true
   },
   {
     "id": "p152q3",
@@ -6774,7 +6874,10 @@
       "Fascia iliaca",
       "Camper's fascia"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Slide 5's cross-sectional inset diagram of the anterolateral abdominal wall labels the superficial fascia as Camper's layer (fatty, superficial) over Scarpa's fascia, matching option D. Transversalis fascia is a separate deep layer beneath the transversus abdominis, not the superficial/anterolateral fascia; rectus abdominis is a muscle, not fascia; and fascia iliaca is not shown on this slide as part of the anterolateral wall.",
+    "slideRef": "Anterolateral Abdominal Wall, Slide 5",
+    "reviewed": true
   },
   {
     "id": "p152q4",
@@ -6790,7 +6893,10 @@
       "Internal oblique"
     ],
     "answerIndex": 0,
-    "notes": "Fixed typo in source: \"quadriceps lumborum\" -> \"Quadratus lumborum\"."
+    "explanation": "The slide covering quadratus lumborum lists fixation of the last (12th) rib among its actions — the only rib-fixing action attributed to any muscle on the posterior wall slides. Transversus abdominis, external oblique and internal oblique are anterolateral wall muscles with no rib-fixation action listed there.",
+    "slideRef": "Posterior Abdominal Wall, Slide 4",
+    "notes": "Fixed typo in source: \"quadriceps lumborum\" -> \"Quadratus lumborum\". Note: the slide describes quadratus lumborum's rib-12 fixation action in the context of forced expiration, not inspiration as worded in the question; it is nonetheless the only option credited with any rib-fixing function on the slide, so the marked answer stands.",
+    "reviewed": true
   },
   {
     "id": "p153q1",
@@ -6805,7 +6911,10 @@
       "Seventh",
       "Tenth"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "explanation": "Slide 8 classifies ribs into true ribs (1–7), false ribs (8–10), and floating ribs (11–12); the tenth rib falls in the false rib group. The sixth, first, and seventh ribs are all within the true rib group (1–7).",
+    "slideRef": "Anterior and Posterior Thoracic Walls, Slide 8",
+    "reviewed": true
   },
   {
     "id": "p153q2",
@@ -6839,6 +6948,7 @@
       "Right brachiocephalic vein"
     ],
     "answerIndex": 0,
-    "notes": "Source option (d) was blank/illegible and omitted."
+    "notes": "Source option (d) was blank/illegible and omitted. Topic not found in the provided slide deck: the deck mentions the azygos vein only as one of the structures passing through the aortic hiatus (Slide 6); its termination into the SVC is never shown or stated in these slides, so the answer could not be verified against the slides and is left as originally marked.",
+    "reviewed": true
   }
 ]
